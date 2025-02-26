@@ -1,0 +1,2691 @@
+{
+  "event_id": "1d696e5c-017e-4e8b-b415-292d42db0674",
+  "source_id": "626ee14e-8668-4a90-b4c4-01b91d90a5e9",
+  "set": "Polish Transcript [Transcript]",
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "annotation": [
+        {
+          "text": "Także w lipcu 40. roku pan się przenosi do getta?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "1522001e-0ea4-4ab0-8f9a-57c92e8a180d"
+    },
+    {
+      "start_time": 7,
+      "end_time": 16,
+      "annotation": [
+        {
+          "text": "W lipcu w 40. roku już weszliśmy już do getta. Już w ogóle okolica już była w ogóle getto było zamknięte\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "037c4e48-badd-471f-9ba7-d5e916621735"
+    },
+    {
+      "start_time": 16,
+      "end_time": 20,
+      "annotation": [
+        {
+          "text": "Ale jak to było w pana przypadku?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "d581bd7d-ec49-4c9b-bc5e-84f978d5d6c4"
+    },
+    {
+      "start_time": 20,
+      "end_time": 21,
+      "annotation": [
+        {
+          "text": "No normalnie no.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "6a00dbdc-20af-4fe2-aeb8-96e8215a1cfe"
+    },
+    {
+      "start_time": 21,
+      "end_time": 23,
+      "annotation": [
+        {
+          "text": "Bo pan mieszkał w swoim domu?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "c6718bae-f182-4cf1-a0e5-362ce46e415d"
+    },
+    {
+      "start_time": 23,
+      "end_time": 27,
+      "annotation": [
+        {
+          "text": "Ja miesz… i mieszkałem dalej, akuratnie getto wypadło w tym miejscu tu gdzie byłem.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "90a66d66-3fab-43e8-91cc-44d3ec1dc85e"
+    },
+    {
+      "start_time": 27,
+      "end_time": 28,
+      "annotation": [
+        {
+          "text": "Aha\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "25d0defd-ab70-4159-89b1-df627189e2b4"
+    },
+    {
+      "start_time": 28,
+      "end_time": 29,
+      "annotation": [
+        {
+          "text": "Tak.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "429b35bc-cb0a-463e-b51a-d87bbe815635"
+    },
+    {
+      "start_time": 29,
+      "end_time": 30,
+      "annotation": [
+        {
+          "text": "To dobrze.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "839fcc83-29f3-4588-962a-60a1f11c5e62"
+    },
+    {
+      "start_time": 30,
+      "end_time": 36,
+      "annotation": [
+        {
+          "text": "Ja nie musiałem się tam przenieść, ale wszystko jedno, ale to przecież to tragedia była, bo dlatego że inni przyszli, musieliśmy ich przyjąć.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "c5a7d79b-9f97-4d50-84b5-65621ce9cdb1"
+    },
+    {
+      "start_time": 36,
+      "end_time": 37,
+      "annotation": [
+        {
+          "text": "Kogo?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "3400e99f-769e-4a27-88fd-0802e555c617"
+    },
+    {
+      "start_time": 37,
+      "end_time": 38,
+      "annotation": [
+        {
+          "text": "No in… Żydów\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "3aa4fb82-120b-4536-8f7b-6a5f56ca653b"
+    },
+    {
+      "start_time": 38,
+      "end_time": 40,
+      "annotation": [
+        {
+          "text": "Z Góry Kalwarii, z Góry Kalwarii?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "f666458a-33c0-47d8-8e98-e1db6e7202f7"
+    },
+    {
+      "start_time": 40,
+      "end_time": 53,
+      "annotation": [
+        {
+          "text": "No tylko z Góry. Przyjeżdżali z okolicznych to jeszcze z wiosek. Było tam kilka rodzin, mieszkało tam w Czersku, w Potyczy, to wszyscy przyjechali do Góry Kalwarii, musieliśmy ich wszystkich przyjąć.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "a4b8d920-0775-4ab5-9c68-6003ae003e13"
+    },
+    {
+      "start_time": 53,
+      "end_time": 55,
+      "annotation": [
+        {
+          "text": "A jak wyglądało getto?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "7376efbc-3120-452f-b2bf-84f21c3c7c84"
+    },
+    {
+      "start_time": 55,
+      "end_time": 103,
+      "annotation": [
+        {
+          "text": "Getto wyglądało tak, no ten musielibyście zobaczyć jak to wyglądało. Bo to jest takie cały teren był ogrodz… taki specjalny taki winkiel normalnie. To tak, Góra Kalwaria tak kawał Dominikańska, Dominikańska, rynek cały rynek, ulica Strażacka i kawałeczek Pijarskiej. Czyli taki klin mniej więcej i Kalwaryjska. Tak, a dalej już nie wolno było, do tego do tego miejsca mogli Żydzi tam [inaudible] w tym i to było w ogóle nie było zamknięte tylko było ogrodzone w jednym miejscu drutem drutem kolczastym, a tam gdzie była ulica znaczy się przejezdna tam było otwarte. Ale w ogóle wyjść nie wolno bo jak ktoś wyszedł to już zapłacił życiem.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "7293621e-c878-4e2b-af44-9a0ab8f8accd"
+    },
+    {
+      "start_time": 103,
+      "end_time": 106,
+      "annotation": [
+        {
+          "text": "Bo co bo była brama przez którą się przechodziło?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "f97026dd-2139-4390-9efb-64b71895d915"
+    },
+    {
+      "start_time": 106,
+      "end_time": 114,
+      "annotation": [
+        {
+          "text": "Bramy nie, nie było bramy dlatego że nie było w ogóle tam możliwości robić bramy. Bo przecież Góra Kalwaria, ulice są normalnie otwarte.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "85927266-ce24-48fc-be19-ebcb262927cc"
+    },
+    {
+      "start_time": 114,
+      "end_time": 115,
+      "annotation": [
+        {
+          "text": "Dobrze ale ale było ogrodzenie pan powiedział?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "6aaf407e-2603-411b-bc5f-e5bc59ab4390"
+    },
+    {
+      "start_time": 115,
+      "end_time": 126,
+      "annotation": [
+        {
+          "text": "Ogrodzenie w jednym miejscu tylko na Strażackiej było ogrodzenie dlatego żeby nie można przejść w kierunku Wisły dlatego tam było ogrodzone. Tak.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "9265018b-8c94-46d1-8739-a8451273a792"
+    },
+    {
+      "start_time": 126,
+      "end_time": 130,
+      "annotation": [
+        {
+          "text": "Ale pan powiedział że pan mieszkał na jakiej ulicy wtedy, na Dominikańskiej?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "7bedd6d0-45c3-4246-9de5-7bb3d64f6c6b"
+    },
+    {
+      "start_time": 130,
+      "end_time": 132,
+      "annotation": [
+        {
+          "text": "Ja mieszkałem, nie, ja mieszkam na ulicy Piłsudskiego.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "b79749e4-50c9-432e-bbc9-13aca9bb2ea6"
+    },
+    {
+      "start_time": 132,
+      "end_time": 133,
+      "annotation": [
+        {
+          "text": "Tak.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "f4b00834-2a7d-4b58-a3ba-1a3d029b652c"
+    },
+    {
+      "start_time": 133,
+      "end_time": 153,
+      "annotation": [
+        {
+          "text": "Tak. I tam w ogóle tam akuratnie było getto w tym miejscu. I na tym podwórku mieszkali Polacy tak jak np. czyli katolicy, nie Polacy tylko katolicy. Mieszkał Woźniak, Rytko i Jarosz. I oni i oni musieli się przeprowadzić do innych domów żydowskich a tamci przyszli w ich miejsce.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7540905-b8cf-43f0-ac50-3e6965cc5715"
+    },
+    {
+      "start_time": 153,
+      "end_time": 156,
+      "annotation": [
+        {
+          "text": "I do pana mieszkania też kogoś sprowadzili?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "54ecea43-b947-4d9f-9a14-4ec82e5c3836"
+    },
+    {
+      "start_time": 156,
+      "end_time": 161,
+      "annotation": [
+        {
+          "text": "Do mojego mieszkania też w ogóle a to już dosiedlili jeszcze kogoś tam jednego, właśnie ze wsi.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "d6347beb-ad38-4eac-a97f-41cb795e5789"
+    },
+    {
+      "start_time": 161,
+      "end_time": 164,
+      "annotation": [
+        {
+          "text": "To już was było czworo, prawda?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "0e5f9997-b9a1-4799-a8d5-6bcd0c6de75a"
+    },
+    {
+      "start_time": 164,
+      "end_time": 166,
+      "annotation": [
+        {
+          "text": "O, czworo, czworo.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "68fcc048-95f7-4736-8f62-3961d3557a17"
+    },
+    {
+      "start_time": 166,
+      "end_time": 168,
+      "annotation": [
+        {
+          "text": "Bo rodzina jeszcze?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "652fbdd8-6d3d-4ab4-ba29-67be805b1c4e"
+    },
+    {
+      "start_time": 168,
+      "end_time": 168,
+      "annotation": [
+        {
+          "text": "Pięcioro.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "7c0d2642-385a-4797-ab73-b6bd4416ff95"
+    },
+    {
+      "start_time": 168,
+      "end_time": 169,
+      "annotation": [
+        {
+          "text": "Pięcioro już, tak?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "b8aaec8c-8f51-4f11-a01b-032148fcc438"
+    },
+    {
+      "start_time": 169,
+      "end_time": 179,
+      "annotation": [
+        {
+          "text": "Pięcioro w tym jednym małym mieszkanku. To mieszkanie to miało 6 chyba na 5. No i trzeba było się mieścić aż do 25., do 25 lutego 41.roku.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "5c385dfb-c404-4985-9ce3-be21728b5505"
+    },
+    {
+      "start_time": 179,
+      "end_time": 182,
+      "annotation": [
+        {
+          "text": "Jak był ten okres, siedem miesięcy?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "19af89c0-4579-43c7-9819-e7cf44b747b3"
+    },
+    {
+      "start_time": 182,
+      "end_time": 241,
+      "annotation": [
+        {
+          "text": "Okres był okropny. Okres był w ogóle. W ogóle zaczęła się straszna choroba zaczęli [inaudible] po 10 osób w jednym mieszkaniu. Zapanował panował tyfus nie było żadnych lekarstw. Już w ogóle z jedzeniem było okropnie tylko można było ci biedni mogli tylko było dojść do tego do tam gdzie była ta ta kuchnia w tej gminie tam mogli sobie zjeść ten obiad i z tego się utrzymali tylko i kawałeczek chleba dostali. Nie było żadnej pomocy a ci bogaci Żydzi to musieli dać kontry… kontrybucje bo musieli tam wybudować łaźnie dla tych, dla nie, dla ludności żydowskiej nawet, musieli wybudować i to z tych swoich pieniędzy co musieli dać.  Wybudowali tą łaźnie i wtedy kiedy ta łaźnia już była gotowa - wysiedlili Żydów. Nastąpiło wysiedlenie.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "608dc264-57e9-4f51-b60e-11c7769a17e9"
+    },
+    {
+      "start_time": 241,
+      "end_time": 244,
+      "annotation": [
+        {
+          "text": "Czy była, czy powstała również policja żydowska w getcie?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "88b22bbb-d4c8-4c94-a290-2039a4014ade"
+    },
+    {
+      "start_time": 244,
+      "end_time": 254,
+      "annotation": [
+        {
+          "text": "Była policja żydowska. Była. To jest nie można nazwać policja, bo to nie była policja która tam i akuratnie, tylko że to była, oni porządkowi no.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "95216f04-0175-4f87-8c98-3ba81cd042cc"
+    },
+    {
+      "start_time": 254,
+      "end_time": 255,
+      "annotation": [
+        {
+          "text": "Policja porządkowa.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "b54e42f8-0b23-43c2-b68a-c35accc5fabb"
+    },
+    {
+      "start_time": 255,
+      "end_time": 268,
+      "annotation": [
+        {
+          "text": "Porządkowi, talk. Ale oni nikogo nie bili. Nikogo nie tego tylko normalnie wyznaczyli i przychodzili do mieszkań i wołali do pracy. To było ich zadanie. To byli wyznaczeni przez gminę żydowską.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ce6c9a09-f5a5-44bf-85f2-477ad3d684ea"
+    },
+    {
+      "start_time": 268,
+      "end_time": 279,
+      "annotation": [
+        {
+          "text": "Ale proszę mi powiedzieć taką rzecz, w pana osobistym przypadku czy ewentualnie w przypadku pana rodziny, jaka była zmiana między tym okresem poprzednim przed gettem a po getcie? Bo pan mieszkał w tym samym mieszkaniu?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2753d1b4-9323-4152-b8fa-e2af1135c298"
+    },
+    {
+      "start_time": 279,
+      "end_time": 281,
+      "annotation": [
+        {
+          "text": "W tym samym mieszkaniu.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "4c4dba9c-67cc-4c07-9dbf-ecac47d67784"
+    },
+    {
+      "start_time": 281,
+      "end_time": 284,
+      "annotation": [
+        {
+          "text": "Wprawdzie dokwaterowali kogoś\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "126d8b5c-3d4c-417d-93be-45df98bda43a"
+    },
+    {
+      "start_time": 284,
+      "end_time": 297,
+      "annotation": [
+        {
+          "text": "Tak. No to tylko ten to musiał być razem z nami tam zrobiliśmy. Bo tam ponieważ obok tego naszego mieszkania to była taka komórka. No więc z tej komórki zrobiliśmy mieszkanie i ten człowiek tam mieszkał. No niestety, tak było.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "be042f56-b562-49f8-abd2-2ffe0fc05124"
+    },
+    {
+      "start_time": 297,
+      "end_time": 301,
+      "annotation": [
+        {
+          "text": "A sytuacja pogorszyła się w jakim sensie?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "0db47c63-c454-4f16-97df-72b19d587a18"
+    },
+    {
+      "start_time": 301,
+      "end_time": 334,
+      "annotation": [
+        {
+          "text": "Sytuacja była, całe 100%. Już nie wolno w ogóle było wyjść. Nie wolno było. Nikt, nikt nie miał prawa do nas przyjść, nie można było nic robić. Głód panie zaczął po prostu jak to się mówi doszedł do tego stopnia że nie do pomyślenia. No tak zaczęli poumierać. Bardzo dużo poumierało w tym okresie. Bardzo dużo ludzi. Można było jeszcze pochować. Tego nie zabraniali Niemcy że jak ktoś umarł to jeszcze zezwolili go w ogóle wywieźć na, na cmentarz. Tak że sytuacja była tragiczna.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "d63b20bb-aa7c-4a9b-b0b2-f8c1de1e0c17"
+    },
+    {
+      "start_time": 334,
+      "end_time": 340,
+      "annotation": [
+        {
+          "text": "Ja rozumiem że pan miał kontakty ze swoimi przyjaciółmi, z Polakami? Z katolikami?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "e7edc43b-7002-4b68-9e85-fa8775a815ac"
+    },
+    {
+      "start_time": 340,
+      "end_time": 347,
+      "annotation": [
+        {
+          "text": "Z Polakami nie o ile tylko o ile mieli możliwość dać chleba to tylko w nocy to i już tak pod wielkim, pod wielkim ukradkiem.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ff310dde-afb0-4f44-a11c-feb29b4be3d3"
+    },
+    {
+      "start_time": 347,
+      "end_time": 351,
+      "annotation": [
+        {
+          "text": "Ale kiedy pan wrócił do Kalwarii, do Góry Kalwarii\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "06ced31b-9194-4634-ae2f-0f7d5fdeaf40"
+    },
+    {
+      "start_time": 351,
+      "end_time": 352,
+      "annotation": [
+        {
+          "text": "Tak\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "f2e53d55-d946-49c5-945f-f04e7fccab0c"
+    },
+    {
+      "start_time": 352,
+      "end_time": 356,
+      "annotation": [
+        {
+          "text": "A w grudniu 39. roku to oczywiście pan się do swoich przyjaciół, kolegów i tak dalej\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "52f536c2-bf78-4e20-acd1-5f6e177e411d"
+    },
+    {
+      "start_time": 356,
+      "end_time": 377,
+      "annotation": [
+        {
+          "text": "Tak. Jak najbardziej, byłem byłem bardzo nadal przyjaźnimy się jak najbardziej. Bardzo dużo panie bardzo duże współczuwało mnie przecież tam i przyjeżdżali do mnie nawet w okresie nawet taki Lewandowski Józek przyjeżdżał nawet do mnie i drzewa dał no. Przywiózł mi drzewa na opał. Już wtedy kiedyś w 39. roku jeszcze.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "b41bacae-a0c0-410d-8375-cb013142e6e5"
+    },
+    {
+      "start_time": 377,
+      "end_time": 379,
+      "annotation": [
+        {
+          "text": "Tak. I to było do lipca?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "698f1f22-1eb2-42f3-876d-04345d7f4799"
+    },
+    {
+      "start_time": 379,
+      "end_time": 406,
+      "annotation": [
+        {
+          "text": "I nawet, do lipca. I nawet w 40. jeszcze przywożą drzewa. Kartofle panie przywozili nasi znajomi, dali nam. Tak jeżeli chodzi o głód, moja rodzina akuratnie, razem ze mną myśmy głodu nie odczuwali. Dobroci nie było ale głodu żeby tak nie było co jeść tam żeby nie było co włożyć do garnka, ziemniaki czy jakieś kasze czy co inne to nie. Myśmy to mieli. Nawet mogliśmy utrzymać tego pana który był koło nas.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "7788a98b-4310-46c5-bec1-586b263e5378"
+    },
+    {
+      "start_time": 406,
+      "end_time": 408,
+      "annotation": [
+        {
+          "text": "Dzięki swoim przyjaciołom?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "cd9c2f39-41b0-42e0-8e3b-80e4515dc95c"
+    },
+    {
+      "start_time": 408,
+      "end_time": 414,
+      "annotation": [
+        {
+          "text": "No dzięki moim przyjaciołom katolikom, Polakom.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "4577ce3e-d584-453b-8fc3-7988870a4074"
+    },
+    {
+      "start_time": 414,
+      "end_time": 417,
+      "annotation": [
+        {
+          "text": "A w 41. roku w lipcu pan poczuł się od nich odcięty?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "5f7952a7-5acf-40d3-9535-fab290cb2b75"
+    },
+    {
+      "start_time": 417,
+      "end_time": 426,
+      "annotation": [
+        {
+          "text": "A w 40. to już w ogóle nie było mowy. To już w ogóle Polakom nie wolno było wchodzić do getta, już w ogóle mieliśmy zupełnie inne warunki w ogóle. Już było źle.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "0c24e773-2d1c-423c-9cf2-1c6a7404dbf3"
+    },
+    {
+      "start_time": 426,
+      "end_time": 430,
+      "annotation": [
+        {
+          "text": "Czyli zrobił się pan odcięty jakby wtedy?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2102e9cb-eb92-4221-bba7-4709c1a827c3"
+    },
+    {
+      "start_time": 430,
+      "end_time": 451,
+      "annotation": [
+        {
+          "text": "Już byliśmy odcięci w ogóle od świata. Za wyjście w ogóle z getta groziła kara śmierci. I zapłacili życiem. Niektórzy co w ogóle pouciekali co nawet nie powychodzili szukać tam gdzieś pomocy u znajomych. Jeżeli nie zdążyli wrócić jak to się mówiło w odpowiednim okresie to zostali zastrzeleni na ulicy.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "e69cb8e9-86e7-4eaf-8d4f-061756c97292"
+    },
+    {
+      "start_time": 451,
+      "end_time": 454,
+      "annotation": [
+        {
+          "text": "A czy Niemcy się też kręcili po getcie?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "b6815875-2721-48e1-a380-ec67aea6eb38"
+    },
+    {
+      "start_time": 454,
+      "end_time": 464,
+      "annotation": [
+        {
+          "text": "Niemcy po getcie nie kręcili się bo się bali tyfusu w ogóle. Ale koło getta tak, granatowa policja przeważnie w getcie.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "8787f573-7019-42d4-9938-4be50580d149"
+    },
+    {
+      "start_time": 464,
+      "end_time": 467,
+      "annotation": [
+        {
+          "text": "A miał jakąś rodzinę poza Górą Kalwarią? W Warszawie, na przykład?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "80231c8b-2062-497f-846f-34e879b58ca4"
+    },
+    {
+      "start_time": 467,
+      "end_time": 468,
+      "annotation": [
+        {
+          "text": "Jak wyglądało?\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "b423ab1c-ebaf-4723-a6a7-120503e9f5f2"
+    },
+    {
+      "start_time": 468,
+      "end_time": 470,
+      "annotation": [
+        {
+          "text": "Nie, czy miał pan rodzinę w Warszawie, na przykład.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "9e17fec0-589a-4a43-bffa-3538421a37b7"
+    },
+    {
+      "start_time": 470,
+      "end_time": 472,
+      "annotation": [
+        {
+          "text": "W Warszawie miałem rodzinę w Warszawie, wujka miałem.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "df3765d0-5159-446d-919f-2382cbdf1488"
+    },
+    {
+      "start_time": 472,
+      "end_time": 474,
+      "annotation": [
+        {
+          "text": "I były kontakty?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "f713d31b-d750-4fa7-962b-78e99cf3e7fd"
+    },
+    {
+      "start_time": 474,
+      "end_time": 474,
+      "annotation": [
+        {
+          "text": "Nie.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "83befb6d-fb99-44a5-aa1b-e90a8af84e9d"
+    },
+    {
+      "start_time": 474,
+      "end_time": 476,
+      "annotation": [
+        {
+          "text": "Absolutnie nie było nic.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "4fa8be9f-fa14-4339-9251-c7b5ec4a11be"
+    },
+    {
+      "start_time": 476,
+      "end_time": 481,
+      "annotation": [
+        {
+          "text": "Nie, już wtedy kontaktów nie było. Można było pisać ale już wtedy [inaudible] już kontaktów nie było.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "d205ace0-af94-481c-9409-95b1fab14ac7"
+    },
+    {
+      "start_time": 481,
+      "end_time": 484,
+      "annotation": [
+        {
+          "text": "Dobrze to\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "db547eca-e249-4bd2-b3b2-1f28d3f4ee44"
+    },
+    {
+      "start_time": 484,
+      "end_time": 493,
+      "annotation": [
+        {
+          "text": "Jak wróciłem z wojska to wstąpiłem jeszcze do mojego wujka. Jak wróciłem do Warszawy. I od od niego przyjechałem do tego do Góry Kalwarii.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "8800bf8c-f6e4-4c86-843b-8d28eeb2c24e"
+    },
+    {
+      "start_time": 493,
+      "end_time": 499,
+      "annotation": [
+        {
+          "text": "A pan wiedział mniej więcej co się dzieje w Warszawie w tym okresie? Czy pan wiedział?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "85c825d0-5432-4475-be35-404c6dd5ac03"
+    },
+    {
+      "start_time": 499,
+      "end_time": 500,
+      "annotation": [
+        {
+          "text": "Że co, że?\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "82a3f433-a48d-4ae0-ab70-287c68806813"
+    },
+    {
+      "start_time": 500,
+      "end_time": 503,
+      "annotation": [
+        {
+          "text": "Co się dzieje w ogóle, jak powstało getto?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "bfc5a47d-2f7c-4ac2-bdeb-b025193acc5f"
+    },
+    {
+      "start_time": 503,
+      "end_time": 506,
+      "annotation": [
+        {
+          "text": "Jeszcze w Warszawie też getta nie było wtedy, getto zrobili od października.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2f4d2dbe-8a16-413a-9891-35f5bb06948a"
+    },
+    {
+      "start_time": 506,
+      "end_time": 507,
+      "annotation": [
+        {
+          "text": "No właśnie.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "7bab1aa9-1ddf-4fa2-a70c-ade4e424cb83"
+    },
+    {
+      "start_time": 507,
+      "end_time": 522,
+      "annotation": [
+        {
+          "text": "No jak to, myśmy wiedzieliśmy, no ja kto, no przecież tak samo. Żydzi byli prześladowani od pierwszej chwili, łapanki i zabójstwa i tej w ogóle no przecież od pierwszej chwili to było no jak wszyscy wiedzieli. Każdy jeden świadomy Żyd to wiedział o tym.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ead6ac09-82ad-4ccb-bf3d-fa0d95287546"
+    },
+    {
+      "start_time": 522,
+      "end_time": 531,
+      "annotation": [
+        {
+          "text": "A czy pan pamięta z tego pierwszego okresu, powiedzmy do lutego 41. roku, jakiś kontakt bezpośredni z Niemcami?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "a77811e9-e432-404e-a419-adf8150b17ca"
+    },
+    {
+      "start_time": 531,
+      "end_time": 533,
+      "annotation": [
+        {
+          "text": "Ja bezpośredni z Niemcami?\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ce635d59-8b87-4895-9c0b-0986db5cd15b"
+    },
+    {
+      "start_time": 533,
+      "end_time": 535,
+      "annotation": [
+        {
+          "text": "Tak, kiedy pan spotkał po raz pierwszy Niemca, zobaczył?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "f5c086f6-88de-4a41-8276-0a79aeea7e28"
+    },
+    {
+      "start_time": 535,
+      "end_time": 557,
+      "annotation": [
+        {
+          "text": "Za wyjątkiem do pracy coś, co szedłem do pracy przy budowie wału. Myśmy tam robili wał, w tym, w Podłężu to tam miałem styczność z Niemcem. Jak przychodziłem to “Nimm die Muetze ab.” Żeby zdjąć no więc czapkę zdjąłem no więcej z nimi nie miałam styczności.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "3ad4f5e1-bb37-47a3-ba97-0d9204583365"
+    },
+    {
+      "start_time": 557,
+      "end_time": 559,
+      "annotation": [
+        {
+          "text": "Nigdy nie byli w domu?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "6cab3010-5a11-4de1-b622-c524229d4caf"
+    },
+    {
+      "start_time": 559,
+      "end_time": 594,
+      "annotation": [
+        {
+          "text": "U nas nie. Były rabunki znaczy, ale u bogatych Żydów to folksdojcze [volksdeutsche] to robili i czyli, czyli ten Polizeischutz, folksdojcze [volksdeutsche] rabowali. U bogatych Żydów w ogóle wyrabowali wszystkie te ten ubrania wszystko w ogóle pieniądze tam i papierosy w ogóle wszystkie kosztowne kosztowności. Normalnie rabunek. Przy… zajeżdżali wozami pozabierali wszystko i koniec. I tak u nas tego nie było bo myśmy nic nie mieli.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "cabb7fff-f480-4dd4-8a83-ee1fd3d15f1a"
+    },
+    {
+      "start_time": 594,
+      "end_time": 594,
+      "annotation": [
+        {
+          "text": "Tak.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "e9362032-1bde-4667-aeb7-b6fb7f22e457"
+    },
+    {
+      "start_time": 594,
+      "end_time": 600,
+      "annotation": [
+        {
+          "text": "Co prócz biedy nic nie mieliśmy i ta jedna maszyna co stała w domu.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "9d17d349-4246-4a44-9c08-a9ac1360138a"
+    },
+    {
+      "start_time": 600,
+      "end_time": 601,
+      "annotation": [
+        {
+          "text": "Maszyna do szycia?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "6eabe84a-fd17-4ede-826e-7cb8dee6a1ef"
+    },
+    {
+      "start_time": 601,
+      "end_time": 603,
+      "annotation": [
+        {
+          "text": "Do szycia, Singerowska.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "489ccdf5-68d9-4aef-b979-3312ed14d9be"
+    },
+    {
+      "start_time": 603,
+      "end_time": 604,
+      "annotation": [
+        {
+          "text": "I pan jeszcze korzystał z niej?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "481c4489-3546-4be2-aac2-ece8fbd08dfd"
+    },
+    {
+      "start_time": 604,
+      "end_time": 612,
+      "annotation": [
+        {
+          "text": "No z tej maszyny jeszcze korzystałem. I mama ją chyba zabrała do Warszawy jak, jak się nie mylę.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "711802fc-d43e-43bd-8a37-07ec3f3d07f5"
+    },
+    {
+      "start_time": 612,
+      "end_time": 614,
+      "annotation": [
+        {
+          "text": "W 41. roku w lutym było\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "db3d7cc2-fdf6-42ef-bca3-a00968f2c535"
+    },
+    {
+      "start_time": 614,
+      "end_time": 615,
+      "annotation": [
+        {
+          "text": "W 41. roku\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "309e8dfe-916c-4d84-a31c-79bebb57a3aa"
+    },
+    {
+      "start_time": 615,
+      "end_time": 617,
+      "annotation": [
+        {
+          "text": "Było wysiedlenie do Warszawy\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "fe314bcf-3d98-40ef-b1bc-5cebfa6cbe5d"
+    },
+    {
+      "start_time": 617,
+      "end_time": 619,
+      "annotation": [
+        {
+          "text": "Było wysiedlenie, tak, do Warszawy.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "d02cf757-1be7-4ed0-9a0b-5663d1026b29"
+    },
+    {
+      "start_time": 619,
+      "end_time": 621,
+      "annotation": [
+        {
+          "text": "Jak jak w ogóle ogłosili to wysiedlenie?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ff7ddc0a-6aca-43fd-afb3-cb1b9e4b73a6"
+    },
+    {
+      "start_time": 621,
+      "end_time": 664,
+      "annotation": [
+        {
+          "text": "No normalnie. Był rozkaz Judenratu że wszyscy Żydzi, od dzieci, starzy, chorzy, obojętnie kto by nie był, ma się stawać przed magistratem 25. o godzinie siódmej tyle i tyle osób i 26. tyle i tyle osób i mają tylko zabrać ze sobą tylko paczuszkę do ręki nic więcej nie wolno im zabrać. Płacz był okropny nawet nie do pomyślenia. Co w ogóle się wtedy działo. Ale to nic. I granatowa policja, nie żandarmeria, prowadzili właśnie Żydów do tego do kolejki. Wtedy była tak zwana ciuchcia. I wsiedli do wagonów i odwieźli ich do Warszawy. I stamtąd już szli\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "c2ed9649-e77c-4f84-af10-e96fcc50462b"
+    },
+    {
+      "start_time": 664,
+      "end_time": 666,
+      "annotation": [
+        {
+          "text": "To było wiadomo że to jest do Warszawy?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "93fb0f1b-7476-4ce5-8c21-a24f5194cd0d"
+    },
+    {
+      "start_time": 666,
+      "end_time": 667,
+      "annotation": [
+        {
+          "text": "Do Warszawy.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "8cfe186b-ffa2-4e26-a7c4-8d2608ff0a60"
+    },
+    {
+      "start_time": 667,
+      "end_time": 669,
+      "annotation": [
+        {
+          "text": "I co pan myślał wtedy? Znaczy nie teraz tylko wtedy?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "d7482a97-cd42-4efb-89fd-83ae133b38f8"
+    },
+    {
+      "start_time": 669,
+      "end_time": 679,
+      "annotation": [
+        {
+          "text": "Ja wtedy ja już nie byłem bo uciekłem, chyba dwa czy trzy dni wcześniej uciekłem do Magnuszewa. Bo w Magnuszewie jeszcze byli Żydzi. Bo Żydów z Magnuszewa wysiedlili dopiero w 42. roku.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "163b6bff-2709-494d-a4c2-8fba4dba2ad4"
+    },
+    {
+      "start_time": 679,
+      "end_time": 682,
+      "annotation": [
+        {
+          "text": "A dlaczego pan uciekł?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "47d87462-7bbe-4ea8-ac8c-405f44f0eab8"
+    },
+    {
+      "start_time": 682,
+      "end_time": 714,
+      "annotation": [
+        {
+          "text": "Dlaczego uciekłem? Bo czułem się tego że może tam wiedziałem że tam jeszcze są Żydzi w Magnuszewie. Ponieważ jestem z zawodu mówię krawiec to może mi się uda jakoś tam dotrzeć do nich i tak faktycznie było. I panie wędrując z Góry Kalwarii pieszo to dostałem się do niektórych i polskich mieszkań i trzeba powiedzieć że dali mi schronienie bo jeszcze wtedy nie groziła kara śmierci. Dali mi schronienie.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "9460f2fb-70b3-4264-8391-15abe8e7b923"
+    },
+    {
+      "start_time": 714,
+      "end_time": 716,
+      "annotation": [
+        {
+          "text": "Znaczy pan uciekł do Magnuszewa?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "323588b7-294e-4b9b-85ff-4d2ebc2fc361"
+    },
+    {
+      "start_time": 716,
+      "end_time": 717,
+      "annotation": [
+        {
+          "text": "Tak do Magnuszewa. I tam jeszcze mieszkałem.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "8d60c182-c82b-4380-97c6-d0b3c8a13b31"
+    },
+    {
+      "start_time": 717,
+      "end_time": 719,
+      "annotation": [
+        {
+          "text": "Żeby nie być wysiedlony do Warszawy, tak? To było?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "5b52b051-74a0-4f20-af3c-4a25df72daf0"
+    },
+    {
+      "start_time": 719,
+      "end_time": 725,
+      "annotation": [
+        {
+          "text": "Nie, normalnie bo nie chciałem się dostać do getta bo już czułem że mówię tak a jeszcze tam są Żydzi może się uda.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "825a88c0-4efd-4529-a5ec-ea576d8a5b95"
+    },
+    {
+      "start_time": 725,
+      "end_time": 730,
+      "annotation": [
+        {
+          "text": "Bo powiedziano panu, powiedziano rodzinie że ten wyjazd do Warszawy to jest wyjazd do getta, prawda?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "5665ae86-6ba8-40ef-a999-f0d0ed08e454"
+    },
+    {
+      "start_time": 730,
+      "end_time": 759,
+      "annotation": [
+        {
+          "text": "To jest do getta. Od razu, myśmy wszyscy wiedzieli do getta bo już getto wtedy w Warszawie było bo getto już było wcześniej bo getto było od października. A getto w Górze Kalwarii to było od lipca. To myśmy wiedzieli że że jadą do getta. Siostra pojechała wtedy, brat i mama. Ja jako trochę więcej taki więcej jak się mówi no a mówili do mnie że nie jestem podobny do Żyda że mogę się trochę tak swobodnie poruszyć tak żeby w ogóle raczej uciec. I tak faktycznie było.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "b93d1ce9-2ef1-43d1-9ab4-eb226906939c"
+    },
+    {
+      "start_time": 759,
+      "end_time": 762,
+      "annotation": [
+        {
+          "text": "Ale dlaczego pan wcześniej nie uciekł? Przecież pan mówi po polsku, pan wygląda\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "8f9fd6a3-191a-4cc8-869c-8bf109814620"
+    },
+    {
+      "start_time": 762,
+      "end_time": 766,
+      "annotation": [
+        {
+          "text": "No ale no gdzie mogłem uciec jak była rodzina? Dlaczego miałem uciec, jak jeszcze [inaudible]?\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "1d923aaa-8b9e-4b35-ab28-90108c86e453"
+    },
+    {
+      "start_time": 766,
+      "end_time": 767,
+      "annotation": [
+        {
+          "text": "Pan się czuł odpowiedzialny za rodzinę?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ee448826-1d81-4705-a0bd-56737d62e97f"
+    },
+    {
+      "start_time": 767,
+      "end_time": 774,
+      "annotation": [
+        {
+          "text": "No ale przecież szkoda było zostawić matkę. Szkoda, szkoda było zostawić siostrę, brata, no przecież.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "8e7035b8-77e6-42be-9fdb-d51ebf0eea00"
+    },
+    {
+      "start_time": 774,
+      "end_time": 777,
+      "annotation": [
+        {
+          "text": "O ile był wtedy pana brat był młodszy od pana?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "dbb01dc3-9d65-48cf-8441-e15fa03f8090"
+    },
+    {
+      "start_time": 777,
+      "end_time": 785,
+      "annotation": [
+        {
+          "text": "Brat był młodszy ode mnie o trzy lata. A siostra była starsza ode mnie o dwa lata. Ona była czternastego roku.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2be7a290-d552-4659-bb5c-9f2a9105e85b"
+    },
+    {
+      "start_time": 785,
+      "end_time": 786,
+      "annotation": [
+        {
+          "text": "Oni nie mogli uciec?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "48b3b693-685f-476b-aa48-ba69ab4d4cda"
+    },
+    {
+      "start_time": 786,
+      "end_time": 793,
+      "annotation": [
+        {
+          "text": "Gołda, a brat Dawid. Oni nie, no uciec no gdzie w ogóle uciec, mogli uciec w 39. roku do\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "da1b4ad6-9c15-43f5-b7ff-26076bcb09ad"
+    },
+    {
+      "start_time": 793,
+      "end_time": 795,
+      "annotation": [
+        {
+          "text": "Nie, ja mówię uciec z getta\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "aaa39f49-0deb-451e-a697-ffab84b60e39"
+    },
+    {
+      "start_time": 795,
+      "end_time": 816,
+      "annotation": [
+        {
+          "text": "A nie to nie mogli uciec. Bo w ogóle to jest tak samo wszędzie zrobiło się ta sama historia, uciec nie mieli pieniędzy byli biedne dzieci. Mieli tylko to co mieli na sobie na sobie. I a uciec to też nie tak łatwo. Ja tylko za pomocą tego że byłem wtedy że miałem ten zawód że może jakoś i to dzięki temu że byłem z zawodu krawiec mogę mówić że ocalałem.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "a2b71ae4-32ca-4f13-a0a8-895a67099337"
+    },
+    {
+      "start_time": 816,
+      "end_time": 819,
+      "annotation": [
+        {
+          "text": "Tak że pan wtedy uciekł do Magnuszewa?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "743b69e2-893f-41b7-a2c4-0eacb9d2ffee"
+    },
+    {
+      "start_time": 819,
+      "end_time": 820,
+      "annotation": [
+        {
+          "text": "Do Magnuszewa.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "a2f68512-4361-453e-a9aa-2545618413b3"
+    },
+    {
+      "start_time": 820,
+      "end_time": 824,
+      "annotation": [
+        {
+          "text": "A co to jest Magnuszew? To jest miasto?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "f278a76e-99b7-4176-b22f-3ea53d95f7f4"
+    },
+    {
+      "start_time": 824,
+      "end_time": 838,
+      "annotation": [
+        {
+          "text": "To jest, to jest województwo, w tej chwili to będzie chyba radomskie. To jest od Góry Kalwarii z 19 kilometrów na południe, jest koło Kozienic.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2a2940f4-fc94-4731-9f34-23aaf0c2bd32"
+    },
+    {
+      "start_time": 838,
+      "end_time": 841,
+      "annotation": [
+        {
+          "text": "Ale pan powiedział że pan postanowił pojechać do Magnuszewa ponieważ tam byli Żydzi?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "91c1adea-c092-467d-b11f-f30f109e9ecc"
+    },
+    {
+      "start_time": 841,
+      "end_time": 856,
+      "annotation": [
+        {
+          "text": "Tak. I tam jeszcze sobie wynająłem mieszkanko u Wojtasa. Mieszkałem jeszcze, wynająłem sobie mieszkanie u Wojtasa Edwarda. On był kowalem i miał takie małe mieszkanko i tam jeszcze sobie szyłem do, do wysiedlenia jeszcze cały rok tam byłem.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "23fe8939-826f-4cab-895b-ffadcc9f2581"
+    },
+    {
+      "start_time": 856,
+      "end_time": 859,
+      "annotation": [
+        {
+          "text": "Jako? Jako Polak, jako katolik, jako Żyd?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ddd816da-f1d2-4e61-969f-026dd17f3f9b"
+    },
+    {
+      "start_time": 859,
+      "end_time": 864,
+      "annotation": [
+        {
+          "text": "Jako, nie, jako normalnie jeszcze jako Żyd. Bo tam jeszcze Żydzi byli tak samo, tak samo jeszcze.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "a08e4115-5213-46e5-9767-ca62509db832"
+    },
+    {
+      "start_time": 864,
+      "end_time": 870,
+      "annotation": [
+        {
+          "text": "Znaczy, przyznam że nie rozumiem pewnej rzeczy bo przecież pan był w wojsku był pan szwoleżerem, pan mówił\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2ade94e2-54dc-4762-a0a6-efdbf92c1591"
+    },
+    {
+      "start_time": 870,
+      "end_time": 872,
+      "annotation": [
+        {
+          "text": "Później, później, później, dojdzie do tego\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "91de19ba-2c0c-4673-81a7-12fe39f0475f"
+    },
+    {
+      "start_time": 872,
+      "end_time": 875,
+      "annotation": [
+        {
+          "text": "Nie, dlaczego pan nie wybrał swojej drogi powiedzmy polskiej?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "60e5d78e-458a-4652-ae8a-04d3a4cedbd4"
+    },
+    {
+      "start_time": 875,
+      "end_time": 876,
+      "annotation": [
+        {
+          "text": "Tak\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "7ce04647-60d7-4489-8d60-7e7e87277e97"
+    },
+    {
+      "start_time": 876,
+      "end_time": 880,
+      "annotation": [
+        {
+          "text": "A nie żydowskiej? Że pan by uciekł podając się jako Polak a nie jako Żyd?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "73f0efdd-f3dc-44eb-9f5f-68f77ba117bf"
+    },
+    {
+      "start_time": 880,
+      "end_time": 891,
+      "annotation": [
+        {
+          "text": "Wtedy kiedy w ogóle wyemigrowałem jako Żyd nawet w tą, tą drogę co przebywałem z Góry Kalwarii do Magnuszewa przebywałem jako Żyd. I to co mieszkałem w Magnuszewie mieszkałem jako Żyd.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "cff933c0-33f4-43dc-abbc-6b46d7943cc4"
+    },
+    {
+      "start_time": 891,
+      "end_time": 891,
+      "annotation": [
+        {
+          "text": "Dlaczego?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "f9b3feed-aecc-4be7-a4fc-10760c761c56"
+    },
+    {
+      "start_time": 891,
+      "end_time": 905,
+      "annotation": [
+        {
+          "text": "Dlatego, no dlaczego miałem uciec znaczy się z mego rodu? Dlaczego miałem to zrobić inaczej wtedy kiedy jeszcze wszyscy byli, żyli to jeszcze byłem razem z nimi. Dopiero późniejszy okres dopiero zaczął się ten o którym będę mówił.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "aff1eee3-0812-4ee6-a2db-6b6719df2c3f"
+    },
+    {
+      "start_time": 905,
+      "end_time": 908,
+      "annotation": [
+        {
+          "text": "Rozumiem, dobrze, dobrze.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ba4bf93f-1411-4017-b88e-9711aa6465eb"
+    },
+    {
+      "start_time": 908,
+      "end_time": 912,
+      "annotation": [
+        {
+          "text": "Tak. Więc jak mieszkałem u Wojtasa\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "58281e2d-7aae-4c87-be9a-5c7bfff84952"
+    },
+    {
+      "start_time": 912,
+      "end_time": 914,
+      "annotation": [
+        {
+          "text": "Tak\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "921d664b-7c77-4a52-a31b-ad539f53ae78"
+    },
+    {
+      "start_time": 914,
+      "end_time": 935,
+      "annotation": [
+        {
+          "text": "To tak samo przychodzili do mnie znajomi. Szyłem im spodnie, ubrania, marynarki w ogóle wszystko do 42. roku. Tak samo chyba do lipca ,czy do do czerwca czy do lipca jeszcze w ogóle nie było getta. Tak a Magnuszewie. W lipcu\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "20ea7169-2036-4ef6-9593-270d01bc30e3"
+    },
+    {
+      "start_time": 935,
+      "end_time": 936,
+      "annotation": [
+        {
+          "text": "A były opaski?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "c148a31d-0ba1-4880-9acd-871989b0f707"
+    },
+    {
+      "start_time": 936,
+      "end_time": 955,
+      "annotation": [
+        {
+          "text": "Opaski były. Obowiązkowo, to już nie ma w ogóle, tak samo. W lipcu tak samo zrobili getto i zrobili i tam getto tylko było dwa miesiące w tym w całym tym tym Magnuszewie, tam getto nie było dłużej.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "43be91e3-6011-4659-8428-a22be6ccd813"
+    },
+    {
+      "start_time": 955,
+      "end_time": 969,
+      "annotation": [
+        {
+          "text": "Miałem kolegów. Miałem kolegów, nazywał się Cwyl [?] Jan, Polak, z którym się bardzo przyjaźniłem.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "68a29d46-6e67-4b0f-af81-00b0bd210afa"
+    },
+    {
+      "start_time": 969,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "text": "I on doradził mi żeby wystarać się metryki urodzenia. I poszedłem do, jak to się nazywa ta miejscowość, do Osiecka, do parafii rzymskokatolickiej, do księdza i poprosiłem i ksiądz mi wydał metrykę urodzenia na nazwisko Żołądek Feliks. I karty powołania do wojska i ja sobie wyrobiłem kenkartę, to mi wyrobił Roman Szczudliński z Magnuszewa. Wyrobił mi kenkartę i za pomocą tej kenkarty i w ogóle i to to to udawałem że jestem Polakiem że nazywam się Żołądek Feliks. I dostałem się wtedy i właśnie i ten Cwyl utrzymał mnie u siebie jakiś tam czas z miesiąc czasu byłem u niego w tym okresie. I później on za.. przepro… i u Wdowiaka byłem też po tej stronie koło Magnuszewa, u Wdowiaka, też tak tam szyłem im ale już jako Polak oni wiedzieli znaczy moje pochodzenie ale już ja już byłem jako jako Polak.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "dd4416a0-db70-4bd6-bfa8-218f12a6bc66"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1039,
+      "annotation": [
+        {
+          "text": "A ten ksiądz na jakiej podstawie dał panu tę metrykę?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "d45a8c62-bb0d-4151-8685-c2e4b3939e15"
+    },
+    {
+      "start_time": 1039,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "text": "Ksiądz nic nie chciał.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "74355e05-9de8-4aef-bfa8-3b986b9352b0"
+    },
+    {
+      "start_time": 1040,
+      "end_time": 1042,
+      "annotation": [
+        {
+          "text": "Ale na jakiej po… on wiedział że pan jest Żydem?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "5c44f3f5-9fa4-40bf-ae32-e2b9584226aa"
+    },
+    {
+      "start_time": 1042,
+      "end_time": 1049,
+      "annotation": [
+        {
+          "text": "Jak najbardziej, no przecież powiedziałem mu no. I pobłogosławił i mówi niech Cię, tam, niech Ci się, tam jak to się mówi, święci.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "c90d5583-b96f-4a96-88c6-dee453cdb4c9"
+    },
+    {
+      "start_time": 1049,
+      "end_time": 1053,
+      "annotation": [
+        {
+          "text": "A ten Żołądek Feliks to był?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "8d870527-559b-4c00-b2eb-f3726a8de19b"
+    },
+    {
+      "start_time": 1053,
+      "end_time": 1054,
+      "annotation": [
+        {
+          "text": "Polak, no.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "0200cc04-3242-403d-a249-17099f19102e"
+    },
+    {
+      "start_time": 1054,
+      "end_time": 1055,
+      "annotation": [
+        {
+          "text": "Polak który już tam umarł?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "3638e9c3-bff4-4cea-bb56-505ae08f4359"
+    },
+    {
+      "start_time": 1055,
+      "end_time": 1061,
+      "annotation": [
+        {
+          "text": "Tak, on już był umarły z tamtej właśnie parafii. To jest bardzo charakterystyczne.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "dfa3c883-176e-4702-ae62-e3c1c2f7570e"
+    },
+    {
+      "start_time": 1061,
+      "end_time": 1066,
+      "annotation": [
+        {
+          "text": "Ale pan przecież wrócił do tej samej, do tej samej miejscowości, do Magnuszewa?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "7bb3df99-9d28-441f-91c2-0ce026bc6f57"
+    },
+    {
+      "start_time": 1066,
+      "end_time": 1070,
+      "annotation": [
+        {
+          "text": "I w ogóle zupełnie ja tych ludzi nikogo nie znałem. Później wróciłem z powrotem tutaj. \n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "7a133cbc-a9d7-4c7a-886b-3a37dd24d522"
+    },
+    {
+      "start_time": 1070,
+      "end_time": 1072,
+      "annotation": [
+        {
+          "text": "Ale z innym nazwiskiem tylko?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "87e0eb49-c508-43e3-9850-e25449a4a1b1"
+    },
+    {
+      "start_time": 1072,
+      "end_time": 1101,
+      "annotation": [
+        {
+          "text": "Już a no oni w ogóle nazwisko nie było potrzebne dlatego że ja się tak nie ukazałem tam byłem u tych ludzi a oni tam szyłem im co mogłem ale ja im tam nic nie tego przecież oni nie musieli, oni znali mnie że ja się jestem Prajs [Prais] że jestem Heniek, wszystko wiedzieli jak najbardziej. Ale to nazwisko w razie jakiś tam wpadka w razie Niemców żeby oni nie mieli bo też groziła kara śmierci, żeby oni nie odpowiadali żeby za mnie to [inaudible] tak no Polak, no przeszedł proszę no to tamto więc myśmy go wzięli kenkarta była no.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "cb1a9efa-5437-4441-870d-b69faa9e62d1"
+    },
+    {
+      "start_time": 1101,
+      "end_time": 1105,
+      "annotation": [
+        {
+          "text": "A w tym okresie ilu było jeszcze Żydów w Magnuszewie?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "dd276c68-c1a0-4097-89dc-383f9a3d1c0e"
+    },
+    {
+      "start_time": 1105,
+      "end_time": 1109,
+      "annotation": [
+        {
+          "text": "To już ogóle było wysiedlenie, ich wysiedlili do Kozienic.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "5513740b-9202-4cb9-8c5c-272516191acb"
+    },
+    {
+      "start_time": 1109,
+      "end_time": 1111,
+      "annotation": [
+        {
+          "text": "Ich wysiedlili i pan się uratował przez nazwisko?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "10473222-d422-41f1-979f-ae95f728dd3d"
+    },
+    {
+      "start_time": 1111,
+      "end_time": 1139,
+      "annotation": [
+        {
+          "text": "Tak, tak, no tak. I później stamtąd, z Magnuszewa dostałem się do Podwie… nie nie, jeszcze nie. Z Magnuszewa dostałam się do Chmielewa. Tam był jeszcze obóz. Niemcy robili obóz przymusowej pracy, kopanie rowów. Tylko też za jedzenie. I zabrali tych różnych młodych tych Żydów. Zabrali z Magnuszewa tam do Chmielewa. Zabrali, normalnie.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "0d5560f1-8c36-4855-9f9a-0a21f1ad6336"
+    },
+    {
+      "start_time": 1139,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "text": "Pana też?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "a5ca294e-c0fb-40cf-bcd1-261cdc7e3a6c"
+    },
+    {
+      "start_time": 1140,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "text": "Mnie też.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "cdae7edc-f090-4cea-9b67-6b5478c396a8"
+    },
+    {
+      "start_time": 1140,
+      "end_time": 1141,
+      "annotation": [
+        {
+          "text": "Ale\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "027ff1ca-e008-44bc-a41f-30ab9d12b201"
+    },
+    {
+      "start_time": 1141,
+      "end_time": 1147,
+      "annotation": [
+        {
+          "text": "Już jako, jako, jeszcze jako Prajs [Prais]. O tym, o tej kenkarcie w ogóle nikomu nic nie mówiłem, nawet Żydom nie mówiłem.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "11309e77-caeb-4528-a6cb-5ed01002828d"
+    },
+    {
+      "start_time": 1147,
+      "end_time": 1149,
+      "annotation": [
+        {
+          "text": "Pomimo tego że pan miał tą fałszywą kenkartę?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2341bc19-500e-4ff2-b5f1-5f88f4de9038"
+    },
+    {
+      "start_time": 1149,
+      "end_time": 1183,
+      "annotation": [
+        {
+          "text": "Już miałem. Ale nic im nie mówiłem absolutnie bo myślałam może tam się udał uratować się może tak może bo. Każdy liczył że wojna tak długo nie potrwa. No nikt nie liczył że wojna tak trwa to się mówiło jeszcze wtedy Anglia jeszcze i Francja już byli w tym razem z nimi w tym, jak to się nazywa, w okresie wojny. Już w ogóle były walki, już tu były walki, tam były walki. Myśmy wiedzieli o tym. I dostałem się do Chmielewa. W Chmielewie robiłem do grudnia 43. roku, nie, czterdziestego… trzeciego roku, już jesteśmy już przy 43. roku.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "59644bc2-e263-402a-84eb-2bc6523c654b"
+    },
+    {
+      "start_time": 1183,
+      "end_time": 1188,
+      "annotation": [
+        {
+          "text": "Ale znaczy pan w tym Chmielewie Pan pracował jako?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "752a41c5-846c-4066-9dc3-689cda564ccc"
+    },
+    {
+      "start_time": 1188,
+      "end_time": 1189,
+      "annotation": [
+        {
+          "text": "Jako normalnie jako, jako Żyd.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "15321616-bc99-48d6-b369-405bf1a7019e"
+    },
+    {
+      "start_time": 1189,
+      "end_time": 1191,
+      "annotation": [
+        {
+          "text": "To był obóz pracy?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "db39bd9c-525b-449c-ae1e-4446c2cdefa8"
+    },
+    {
+      "start_time": 1191,
+      "end_time": 1203,
+      "annotation": [
+        {
+          "text": "Obóz pracy. Tak to był taki, no może niekoniecznie taki obóz w pełnym znaczeniu, tylko był obóz pracy ten i ten myśmy, myśmy mieszkali w remizie strażackiej. Prymitywnie.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "17c405ef-d19f-42c5-a68b-906dd91dd529"
+    },
+    {
+      "start_time": 1203,
+      "end_time": 1206,
+      "annotation": [
+        {
+          "text": "I tylko Żydzi byli w tym obozie?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "08b3d9d7-1638-4ca9-90a6-48b6ab3f191a"
+    },
+    {
+      "start_time": 1206,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "text": "Tylko Żydzi, tylko Żydzi.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "968fcebe-c0d0-4b51-8190-c743b5f04284"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1209,
+      "annotation": [
+        {
+          "text": "Ilu, ilu mniej więcej ich było?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "465ddb10-38f5-4156-b6f3-eddf20c65f5f"
+    },
+    {
+      "start_time": 1209,
+      "end_time": 1213,
+      "annotation": [
+        {
+          "text": "Nas, mogło być nas około stu osób.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "219f552f-654c-4d39-83c0-ceb4ca5f9188"
+    },
+    {
+      "start_time": 1213,
+      "end_time": 1214,
+      "annotation": [
+        {
+          "text": "No ale pan tą kenkartę gdzie miał schowaną?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "31cd22ee-661d-45e0-b394-4a5e756b50d9"
+    },
+    {
+      "start_time": 1214,
+      "end_time": 1314,
+      "annotation": [
+        {
+          "text": "To ja miałam schowane no przecież tam. Miałam jakąś koszulę miałam spodnie miałam jeszcze jakiś sweter. Więc ja nikomu nawet Żydom nie mówiłem o tym. Wtedy kiedy zabrali Niemcy, kiedy wysiedlili Żydów z Chmielewa do Kozienic wtedy doszedłem do Magnuszewa mając tą kartę to ten Janek Cwyl do mnie powiedział “Heniek chodź do mnie.” Właśnie. Ja u tego Cwyla byłem z miesiąc i ten Janek Cwyl mnie później przekazał do Wdowiaków. Tam też byłem parę miesięcy i naznaczam że ten Wdowiak, z kolei, ponieważ tam była kolonia niemiecka i tam mieszkali Niemcy, i to z uznaniem dla tego Kultza [?], Wdowiak mnie poprosił mnie żebym poszedł do tego Niemca tam robił. Na początku obawiałem się więc on mówi “nie bój się ja gwarantuję że ten Niemiec nic ci nie zrobi” i u tego Niemca byłem trzy miesiące, Kultz [?] Ferdynand, tak się nazywał. I to jest z wielkim uznaniem on jeszcze żył po wojnie nawet miałem, kontaktu nie miałem tylko on pytał się czy przeżyłem wojnę. Bardzo dobrze mnie traktował. Dał mi jeść, dał mi jeść w ogóle tam szyłem tak samo dla niego, dla żony, wszystko to co mogłem tam szyłem. I później normalnie po tym okresie już mówi “dalej nie mogę cię trzymać i rób teraz” mówi tak i przekazał mnie z powrotem do Wdowiaka. A ponieważ tutaj już u nas Wdowiak również się bał, mówi “słuchaj ja cię przewiozę na tamtą stronę Wisły,” znaczy na prawy brzeg.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2fecb8cb-adb2-408a-ab3c-bdea8db8c279"
+    },
+    {
+      "start_time": 1314,
+      "end_time": 1319,
+      "annotation": [
+        {
+          "text": "Ale proszę mi powiedzieć taką taką rzecz, czy pan był do czterdziestego trzeciego roku do grudnia w Chmielewie?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "753ec352-8a2b-4484-99e7-5b642efdfab3"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1319,
+      "annotation": [
+        {
+          "text": "Tak\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "428c7772-27cb-4102-8468-8b370d62e0cb"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "text": "W tym obozie?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "f6dab79a-3da5-4c5f-b81e-8da325538fcc"
+    },
+    {
+      "start_time": 1320,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "text": "Tak\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "24e7717b-ab9d-42bd-a988-81d3a5f31cc4"
+    },
+    {
+      "start_time": 1320,
+      "end_time": 1324,
+      "annotation": [
+        {
+          "text": "Znaczy tam pan przetrwał i powstanie w getcie warszawskim i te inne wszystkie wysiedlenia?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "0e4ffa4c-64b3-4dae-a584-65a465e2ff93"
+    },
+    {
+      "start_time": 1324,
+      "end_time": 1325,
+      "annotation": [
+        {
+          "text": "Tak, tak, tak, tak\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "12cd85b9-c698-45dc-bb7b-4020f37a0f2b"
+    },
+    {
+      "start_time": 1325,
+      "end_time": 1329,
+      "annotation": [
+        {
+          "text": "A matka i brat i siostra byli wtedy w Warszawie?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "a44576e0-58fa-47d5-a6a7-54b7ce864da8"
+    },
+    {
+      "start_time": 1329,
+      "end_time": 1330,
+      "annotation": [
+        {
+          "text": "Już byli w getcie.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "520d4a29-8fd4-4387-b319-e11eba4854ee"
+    },
+    {
+      "start_time": 1330,
+      "end_time": 1332,
+      "annotation": [
+        {
+          "text": "I były jakieś kontakty?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ffa2f5e2-1803-49a1-b33e-5be7684bc5c4"
+    },
+    {
+      "start_time": 1332,
+      "end_time": 1347,
+      "annotation": [
+        {
+          "text": "Nie, nie. Tylko wiem że matka na pewno zginęła. Bo siostra jeszcze była również wysiedlona, siostra była w Głowaczewie. I stamtąd ją zabra…, z siostrą widziałem się jeszcze potem w tym okresie bo ona była w tym w Głowaczewie koło Magnuszewa, tam też jeszcze byli Żydzi.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "a885b87c-5631-4f07-9fa2-d2f81a5efbb2"
+    },
+    {
+      "start_time": 1347,
+      "end_time": 1349,
+      "annotation": [
+        {
+          "text": "Ale co ona, ona uciekła? Czy?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "f4fd3fce-1b22-4ce6-bcd6-cf0f80c057eb"
+    },
+    {
+      "start_time": 1349,
+      "end_time": 1350,
+      "annotation": [
+        {
+          "text": "Uciekła z getta.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "7de1a4ed-b4d1-4a90-9591-85b47efdfee9"
+    },
+    {
+      "start_time": 1350,
+      "end_time": 1351,
+      "annotation": [
+        {
+          "text": "Z getta\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "9e5048d7-ed11-4721-b2f7-4ff2cd4f4e93"
+    },
+    {
+      "start_time": 1351,
+      "end_time": 1355,
+      "annotation": [
+        {
+          "text": "Tak, tak. I brat też był, brat, z bratem jeszcze się widziałem w styczniu w 43. roku.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2a1a5d05-e4e7-4f6f-a4df-ed1d3609f055"
+    },
+    {
+      "start_time": 1355,
+      "end_time": 1357,
+      "annotation": [
+        {
+          "text": "A były jakieś\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "1fc55ed7-5692-4b97-9896-8eefbf82f376"
+    },
+    {
+      "start_time": 1357,
+      "end_time": 1385,
+      "annotation": [
+        {
+          "text": "Też uciekł z getta w Warszawie. Też tutaj wędrował też po wsiach. I jako rymarz i utrzymał się dłuższy czas dopóki nie został wydany do Niemców. I Niemcy go zabili w czterdziestym chyba czwartym roku na wiosnę w Górze Kalwarii na cmentarzu. I tam niestety jest pochowany mój brat co zrobiłem mu symboliczny grób. Jest tam.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "e82cb7bf-da9e-4d9f-8c96-5a44a7c53827"
+    },
+    {
+      "start_time": 1385,
+      "end_time": 1387,
+      "annotation": [
+        {
+          "text": "Także były jakieś kontakty z rodziną w getcie?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "24e3b41a-4381-4d66-94b7-0eebd8e94f02"
+    },
+    {
+      "start_time": 1387,
+      "end_time": 1398,
+      "annotation": [
+        {
+          "text": "Z rodziną później tak. Z siostrą tak, a z matką to już nie. Matki nie widziałem. Jak w ogóle było wysiedlenie, jak wyjechałem z Góry Kalwarii dwa czy trzy dni przed wysiedleniem, z matką więcej się nie widziałem.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "75c4da80-319a-4c03-b55c-aba2728c754d"
+    },
+    {
+      "start_time": 1398,
+      "end_time": 1399,
+      "annotation": [
+        {
+          "text": "Jakieś listy? Nic?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "e79e834c-c3a8-4381-a9bf-7da6be3b3650"
+    },
+    {
+      "start_time": 1399,
+      "end_time": 1399,
+      "annotation": [
+        {
+          "text": "Nic.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "8cfdd395-7b1c-4544-ab6c-70ca81589d44"
+    },
+    {
+      "start_time": 1399,
+      "end_time": 1400,
+      "annotation": [
+        {
+          "text": "Nic nie było.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ec60f5e0-79ce-49d3-9871-f9ff8df2fc8b"
+    },
+    {
+      "start_time": 1400,
+      "end_time": 1409,
+      "annotation": [
+        {
+          "text": "Posłałem raz matce przez jakiegoś gońca posłałem trochę kaszy do getta. Bo wiedziałem że matka tam była, ale listów żadnych nie miałem.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "5e7f008c-7ad9-4284-8d85-c6905bbcc9b1"
+    },
+    {
+      "start_time": 1409,
+      "end_time": 1419,
+      "annotation": [
+        {
+          "text": "Ja się trochę, trochę zgubiłem wątek bo pan mówił tak że pan był tam w tym Cholewie do grudnia i potem pan powrócił do Magnuszewa?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "c8037880-d8b4-4285-99f7-d75ab28bf3b9"
+    },
+    {
+      "start_time": 1419,
+      "end_time": 1421,
+      "annotation": [
+        {
+          "text": "Do Magnuszewa. A z Magnuszewa uciekłem.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "aee1febb-a52a-4bb3-842a-d880d7348971"
+    },
+    {
+      "start_time": 1421,
+      "end_time": 1425,
+      "annotation": [
+        {
+          "text": "Ale proszę powiedzieć tak pan powrócił do Magnuszewa już jako ten Feliks Żołądek?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "8f4089b6-dcf1-4fc3-9553-0604846ce217"
+    },
+    {
+      "start_time": 1425,
+      "end_time": 1425,
+      "annotation": [
+        {
+          "text": "Nie.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "c98f323d-e21e-426a-b409-436e3e130468"
+    },
+    {
+      "start_time": 1425,
+      "end_time": 1428,
+      "annotation": [
+        {
+          "text": "W dalszym ciągu pod swoim własnym nazwiskiem?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "84887229-d666-44c0-bc21-f80df754c127"
+    },
+    {
+      "start_time": 1428,
+      "end_time": 1440,
+      "annotation": [
+        {
+          "text": "Tak. Jeszcze to bo nikt w ogóle nie wiedział, to nie było ani Żołądek ani Prajs [Prais]. W ogóle razem ze wszystkimi proszę pana wróciliśmy do Magnuszewa bo myśmy szli pieszo. I stamtąd zabrali do Kozienic tak samo pieszo. Żydzi szli pieszo calusieńki czas.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "bf632651-abfd-481f-96be-18975d2f2c10"
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1441,
+      "annotation": [
+        {
+          "text": "To był? Kozienice to był co?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "9e59d788-9c05-414d-9dad-69f4b5b84b4e"
+    },
+    {
+      "start_time": 1441,
+      "end_time": 1452,
+      "annotation": [
+        {
+          "text": "W Kozienicach to jeszcze tam, jeszcze tam był jakiś obóz czy coś takiego. Czyli stamtąd zabrali Żydów nie wiem dokąd czy zabrali czy do Treblinki czy do Majdanek z Kozienic.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2c0c60d7-e164-451c-8a8d-a246229595c9"
+    },
+    {
+      "start_time": 1452,
+      "end_time": 1453,
+      "annotation": [
+        {
+          "text": "A pan sam wtedy?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "1b924130-0601-43be-b1fc-710fc8497beb"
+    },
+    {
+      "start_time": 1453,
+      "end_time": 1462,
+      "annotation": [
+        {
+          "text": "Ja już wtedy, nie sam, w Magnuszewie uciekło dużo nas uciekło. Ja miałem znajomego Cwyla.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "58f7c10b-2a69-45e4-930c-c568b525f47b"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1462,
+      "annotation": [
+        {
+          "text": "No tak.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "cd286e13-2ac3-4db1-9610-90dd28b64ddb"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1488,
+      "annotation": [
+        {
+          "text": "Tak. Więc on mnie trochę pomógł. On mnie zabrał do wsi a ci co nie mieli to gdzie mogli, gdzie kto mógł to uciekł. A kto nie mógł to zabrali do Kozienic poszli, a co się w ogóle z nimi stało to nie wiem. Czy w ogóle poszli do... Bo tam jeszcze był też jakiś obóz w Kozienicach i oni je złączyli, czy wywieźli chyba do Majdanek albo do Treblinki, tu lub tu nie wiem bo chyba do Majdanek to raczej stamtąd już poszli do na na Majdanki.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "e992eddf-d0fb-408c-ba55-91ad8e080904"
+    },
+    {
+      "start_time": 1488,
+      "end_time": 1489,
+      "annotation": [
+        {
+          "text": "Tak.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "781e1f52-ec04-4d0c-a0b9-965703270d61"
+    },
+    {
+      "start_time": 1489,
+      "end_time": 1495,
+      "annotation": [
+        {
+          "text": "Tak. I to wtedy i ja później wtedy kiedy jak jak mówiłem Cwyl oddał mnie do Wdowiaka, Wdowiak oddał mnie właśnie do tego Niemca, ten Niemiec z kolei\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "b148005d-dd0c-4876-8ea9-7da493166aa6"
+    },
+    {
+      "start_time": 1495,
+      "end_time": 1497,
+      "annotation": [
+        {
+          "text": "A to był Niemiec? To był folksdojcz [volksdeutsch]?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "4abe5c9b-452e-4f1a-9f57-e7d0cd48f094"
+    },
+    {
+      "start_time": 1497,
+      "end_time": 1502,
+      "annotation": [
+        {
+          "text": "Folksdojcz [volksdeutsch] co tam mieszkał niedaleko Wdowiaka. Tak.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "36df3ccf-9eee-46e6-b498-d3b39c7319bd"
+    },
+    {
+      "start_time": 1502,
+      "end_time": 1504,
+      "annotation": [
+        {
+          "text": "I on znał pana sprzed wojny?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "932fdb2c-9c66-4051-8d41-20bd770f4f2d"
+    },
+    {
+      "start_time": 1504,
+      "end_time": 1512,
+      "annotation": [
+        {
+          "text": "I on, nie, nie znał mnie. Wdowiak też mnie nie znał tylko Cwyl. Cwyl mnie też nie znał tylko oni mnie znali z tego z Magnuszewa.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "fbf684cd-1c00-404b-aa60-611fdae3f0b2"
+    },
+    {
+      "start_time": 1512,
+      "end_time": 1516,
+      "annotation": [
+        {
+          "text": "A znali Pana jako kogo? Jako Żyda?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "02212534-aeb1-42fb-b906-8c33c0c55a63"
+    },
+    {
+      "start_time": 1516,
+      "end_time": 1548,
+      "annotation": [
+        {
+          "text": "Jako Żyda mnie znali tak, jako normalnie jako Żyda. I oni dopiero później, jak sobie wyrobiłem kenkartę też w Magnuszewie, Szczudliński Roman też wiedział że jestem Żydem bo przecież musiał, musiał mi zrobić zdjęcie tym podobnym. I dopiero wtedy jak on to ja rozumiesz Żołądek tylko udawałem po tamtej stronie, po prawej stronie Wisły. O tu a tam już w ogóle nie wiedzieli o mnie myśleli ale nie wiedzieli tam już w ogóle nikt nie wiedział jestem Żydem bo tam ja ich nie byłem ukryty tylko normalnie chodziłem tam chodziłem do kościoła.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "51d26a61-46aa-409b-a5df-9be37dd98aa0"
+    },
+    {
+      "start_time": 1548,
+      "end_time": 1550,
+      "annotation": [
+        {
+          "text": "A to już było bo później.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "3c457fec-b0c4-4a51-b9df-b716f2aa671a"
+    },
+    {
+      "start_time": 1550,
+      "end_time": 1551,
+      "annotation": [
+        {
+          "text": "To już było bo później, tak.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "23efe76e-f175-4346-a75f-cd18602a508e"
+    },
+    {
+      "start_time": 1551,
+      "end_time": 1553,
+      "annotation": [
+        {
+          "text": "A to proszę powiedzieć, u tego Niemca, pan był tam?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ac21159b-b441-432b-855c-d60193cdc5c1"
+    },
+    {
+      "start_time": 1553,
+      "end_time": 1555,
+      "annotation": [
+        {
+          "text": "Tak, trzy miesiące byłem u tego Niemca.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "bf5853d6-9439-43f3-a897-011fe22931c2"
+    },
+    {
+      "start_time": 1555,
+      "end_time": 1556,
+      "annotation": [
+        {
+          "text": "Ale pan był krawcem?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ec95c61f-0221-4af0-8907-54c49b8fc960"
+    },
+    {
+      "start_time": 1556,
+      "end_time": 1557,
+      "annotation": [
+        {
+          "text": "Krawcem, szyłem im.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "0d559e48-0288-4ef4-9022-e9f132ff3e90"
+    },
+    {
+      "start_time": 1557,
+      "end_time": 1559,
+      "annotation": [
+        {
+          "text": "Wszystkim? Czy tylko temu Niemcowi?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "7c261576-a05a-43ba-a13f-82a4f327c170"
+    },
+    {
+      "start_time": 1559,
+      "end_time": 1572,
+      "annotation": [
+        {
+          "text": "Tylko temu Niemcowi. I tam jeszcze był jakiś jeden też wiedział o mnie, nazywał się Arn… Arnbrandt [?] czy jak tam. Też wiedział o mnie że jestem ale jemu nie szyłem tylko spodnie dla syna. Arnbrandt [?] jak, tak mi się wydaje tak się nazywał.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "649277dd-ec40-417c-b44f-bf4820562c22"
+    },
+    {
+      "start_time": 1572,
+      "end_time": 1576,
+      "annotation": [
+        {
+          "text": "Czuł się pan bezpieczny?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "bd6d618b-0a3d-4e46-83a9-c499e0fef31a"
+    },
+    {
+      "start_time": 1576,
+      "end_time": 1579,
+      "annotation": [
+        {
+          "text": "U nich tak. U nich czułem się bezpieczny.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "aca6a021-3035-4ff5-b094-dedb7acce710"
+    },
+    {
+      "start_time": 1579,
+      "end_time": 1581,
+      "annotation": [
+        {
+          "text": "I pan też wychodził na miasto?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "1e31ba8f-7e27-43b8-bffe-256a1093e473"
+    },
+    {
+      "start_time": 1581,
+      "end_time": 1583,
+      "annotation": [
+        {
+          "text": "Nie. Skąd. Absolutnie.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2d532a56-e2ac-41f2-961a-81fe96684169"
+    },
+    {
+      "start_time": 1583,
+      "end_time": 1583,
+      "annotation": [
+        {
+          "text": "A dlaczego nie?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "72676d4d-0e88-499d-8ec5-62cb46e12e86"
+    },
+    {
+      "start_time": 1583,
+      "end_time": 1584,
+      "annotation": [
+        {
+          "text": "No jak mogłem wyjść?\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "3f69e386-de5d-473e-a27e-c730b3d3ab6b"
+    },
+    {
+      "start_time": 1584,
+      "end_time": 1585,
+      "annotation": [
+        {
+          "text": "Znali pana wszyscy?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "a4ffad77-47a3-4abb-a390-097917782b59"
+    },
+    {
+      "start_time": 1585,
+      "end_time": 1587,
+      "annotation": [
+        {
+          "text": "Przecież to było na wsi to nie było w mieście. Na wsi.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "008818ee-3b5d-4781-9c8d-5fb1e46e0851"
+    },
+    {
+      "start_time": 1587,
+      "end_time": 1588,
+      "annotation": [
+        {
+          "text": "Na wsi.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "25f7b867-177f-4293-b60b-3c92dc11cc14"
+    },
+    {
+      "start_time": 1588,
+      "end_time": 1590,
+      "annotation": [
+        {
+          "text": "Na wsi, tak. To było w Ostrowie. Ostrów.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "073b6e95-1947-47fd-affd-44d4dd87b975"
+    },
+    {
+      "start_time": 1590,
+      "end_time": 1591,
+      "annotation": [
+        {
+          "text": "I pan był tam znany?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "cb223cbd-a761-4066-8c36-05b0f5222d23"
+    },
+    {
+      "start_time": 1591,
+      "end_time": 1599,
+      "annotation": [
+        {
+          "text": "Nie. Tylko byłem znany w tym u Wdowiaka i u tego i u Cwyla, ale w tej wsi byłem znany, nikt mnie nie wydał.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "80de0fe0-b77e-4451-bd0c-40b8f35b8596"
+    },
+    {
+      "start_time": 1599,
+      "end_time": 1601,
+      "annotation": [
+        {
+          "text": "Znaczy powiem panu dlaczego się pytam\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "dc8ac71c-7ab7-4602-8425-ab165761e9a5"
+    },
+    {
+      "start_time": 1601,
+      "end_time": 1606,
+      "annotation": [
+        {
+          "text": "Tak. To jest charakterystyczne że nikt mnie nie wydał. Lubili mnie, no ja wiem\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "bfe4472a-35de-4362-a0fe-18e4ac68dda4"
+    },
+    {
+      "start_time": 1606,
+      "end_time": 1610,
+      "annotation": [
+        {
+          "text": "Bo jednej rzeczy nie rozumiem\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2769ea09-b5f1-4d5f-a7d7-bface37d49f7"
+    },
+    {
+      "start_time": 1610,
+      "end_time": 1620,
+      "annotation": [
+        {
+          "text": "Ja jestem jeden z miliona co w ogóle tak szczęśliwie przeżyłem. Z miliona bo przeżyli inaczej bo byli ukryci tu tam, przecież ja nie byłem ukryty specjalnie.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "d08e9a85-8ae5-41c4-9326-9584d9589af5"
+    },
+    {
+      "start_time": 1620,
+      "end_time": 1647,
+      "annotation": [
+        {
+          "text": "Pan wie, kiedy ja rozmawiałem np. w Izraelu, w Yad Vashem, w innych miejscach z ludźmi którzy przeżyli Holokaust to między innymi mówili tak że oni po prostu nie mogli uciec nie mogli być na żadnej wsi ponieważ nazywali to mieli “zły wygląd” mówili źle po polsku no ale pan służył w wojsku, pan miał “dobry wygląd,” pan mówił dobrze po polsku bez akcentu. To dlaczego pan się bał chodzić po wsi na przykład?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "68347c0b-0d57-478f-9ba6-cae42fbb10cb"
+    },
+    {
+      "start_time": 1647,
+      "end_time": 1681,
+      "annotation": [
+        {
+          "text": "A to później, później będzie mowa teraz przy końcu. Później wtedy kiedy Wdowiak wiedz...widząc tutaj bo mnie znali ludzie w Ostrowie, znali z Magnuszewa to jest bardzo blisko. Bali się bo to wtedy już były straszne nagonki bo nie tylko na Żydów bo i Polaków też tutaj wystrzelali bardzo dużo Polaków wybili w czterdziestym trzecim, czwartym roku na początku tu w Magnuszewie, to mówi, \"Słuchaj Heniek raczej lepiej będzie jak pójdziesz,\" mówi, \"na drugą stronę możesz sobie jakoś tam poradzić.\" Tak. Już jako Polak, już nie jako jako Prajs [Prais] tylko Żołądek.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ef9b24a4-9727-41ac-9366-c26629cfec8f"
+    },
+    {
+      "start_time": 1681,
+      "end_time": 1685,
+      "annotation": [
+        {
+          "text": "Ale kiedy? To już było w czterdziestym trzecim?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "76b1ca02-ec88-4b9f-b79c-3e6a78025a8e"
+    },
+    {
+      "start_time": 1685,
+      "end_time": 1698,
+      "annotation": [
+        {
+          "text": "To było, to było w czterdziestym chyba trzecim roku czy w czwartym, już koniec na jesieni, czterdziesty trzeci albo albo początek albo w czterdziestym czwartym roku w styczniu. Chyba to już było w styczniu czy lutym w czterdziestym czwartym roku.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "a513aff3-4cb3-42bf-9f9e-752ebea00fe1"
+    },
+    {
+      "start_time": 1698,
+      "end_time": 1702,
+      "annotation": [
+        {
+          "text": "Tak. I dokąd pan poszedł?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "647d3a43-81a8-43c0-863f-0d8a22c15edf"
+    },
+    {
+      "start_time": 1702,
+      "end_time": 1793.96,
+      "annotation": [
+        {
+          "text": "I wtedy w ogóle kryłem się po tam przeszedłem znaczy Wisłę i zacząłem się kryć w krzakach. Nie wiedziałem w ogóle gdzie w ogóle gdzie mam iść. To już była wiosna to chyba bardzo. Spotkała mnie kobieta. I ona na początku zlękła się widząc mnie, a ja do niej mówię tak “Proszę pani, niech się pani nie boi. Ja jestem, proszę pani, uciekinier z Warszawy. Nazywam się tak i tak, czy nie mogła by mnie pani dać jakieś schronienie?” Na początku się bała ale później tak zaczęła ze mną rozmawiać, mówi “Proszę pana, ja jestem bardzo biedna, mieszkam bardzo biednie ale ponieważ mam dobre serce więc niech pan idzie. Niech pan idzie, niech pan idzie do mnie do domu.”"
+        }
+      ],
+      "tags": [],
+      "uuid": "650bdca2-7869-43c9-b1d8-33fefc9e14f9"
+    }
+  ]
+}

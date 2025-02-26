@@ -1,0 +1,18 @@
+{
+  "event_id": "1d696e5c-017e-4e8b-b415-292d42db0674",
+  "source_id": "626ee14e-8668-4a90-b4c4-01b91d90a5e9",
+  "set": "Polish [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "https://d9jk7wjtjpu5g.cloudfront.net/file_transcripts/associated_files/000/038/079/original/mssa_hvt_3171_p3of5_caption_pl.vtt?1653683122"
+        }
+      ],
+      "tags": [],
+      "uuid": "55338027-da4b-4dbc-8c54-8b1842f4e16b"
+    }
+  ]
+}

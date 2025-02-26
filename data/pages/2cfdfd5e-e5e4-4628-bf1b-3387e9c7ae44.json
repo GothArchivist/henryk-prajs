@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-26T19:57:03.380Z",
+  "created_by": "GothArchivist",
+  "title": "Imported Event 1",
+  "slug": "imported-event-1",
+  "updated_at": "2025-02-26T19:57:03.380Z",
+  "updated_by": "GothArchivist",
+  "parent": "c01c135e-6a6f-4ba6-9ee5-0409542fe385",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "0e43e6da-4601-4d76-9028-1b3bbb2b17fe"
+  }
+}

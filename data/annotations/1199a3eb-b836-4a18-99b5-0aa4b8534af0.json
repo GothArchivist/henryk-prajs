@@ -1,0 +1,5221 @@
+{
+  "event_id": "bd8508a3-30c5-46e5-9f6c-3c1d7fc818e9",
+  "source_id": "dfde1bb3-fd7c-434f-877b-634d5ae6220b",
+  "set": "Polish Captions [Transcript]",
+  "annotations": [
+    {
+      "start_time": 1.48,
+      "end_time": 5.63,
+      "annotation": [
+        {
+          "text": "Pan mówił o tym spotkaniu z tą kobietą."
+        }
+      ],
+      "tags": [],
+      "uuid": "6495745b-1f57-48ad-9357-8f4d3b57256d"
+    },
+    {
+      "start_time": 5.63,
+      "end_time": 8.51,
+      "annotation": [
+        {
+          "text": "Tak więc ona mnie poprosiła."
+        }
+      ],
+      "tags": [],
+      "uuid": "fcab19ce-2502-4224-bd80-ba1ac0ec649e"
+    },
+    {
+      "start_time": 8.95,
+      "end_time": 10.22,
+      "annotation": [
+        {
+          "text": "Znaczy się ja ją prosiłem."
+        }
+      ],
+      "tags": [],
+      "uuid": "7c173ee5-f0a3-4611-a417-d1635fe2065a"
+    },
+    {
+      "start_time": 10.22,
+      "end_time": 17.01,
+      "annotation": [
+        {
+          "text": "Błagałem. Więc ona mówiła tak “Słuchaj, ja”\n- mówi - “pójdę pierwsza."
+        }
+      ],
+      "tags": [],
+      "uuid": "d4acf5e3-8a4b-4eb1-b289-42d3d92b8e86"
+    },
+    {
+      "start_time": 17.32,
+      "end_time": 19.64,
+      "annotation": [
+        {
+          "text": "Tylko niech pan tak uważa żeby nikt pana nie\nzauważył."
+        }
+      ],
+      "tags": [],
+      "uuid": "65946b54-74ce-4082-af31-3eaa1adb5f9f"
+    },
+    {
+      "start_time": 20.76,
+      "end_time": 26.46,
+      "annotation": [
+        {
+          "text": "Przyjdziesz pan” - mówi – “do mnie, tak z\nwieczora i jakoś tam pomożemy.” No i kiedy"
+        }
+      ],
+      "tags": [],
+      "uuid": "7c7bef2b-36d8-4202-becf-a6fb1c35163f"
+    },
+    {
+      "start_time": 26.46,
+      "end_time": 30.89,
+      "annotation": [
+        {
+          "text": "tam wieczorem dostałem się do niej do domu,\nkupa dzieci."
+        }
+      ],
+      "tags": [],
+      "uuid": "d67eef76-2c84-4ef6-a701-5cc91dc7d226"
+    },
+    {
+      "start_time": 32.22,
+      "end_time": 39.33,
+      "annotation": [
+        {
+          "text": "Biedny dom, bardzo biedny dom."
+        }
+      ],
+      "tags": [],
+      "uuid": "3e001206-2d26-404d-a9fe-4890b528c849"
+    },
+    {
+      "start_time": 39.33,
+      "end_time": 44.28,
+      "annotation": [
+        {
+          "text": "Ale rozmawiając ze mną zlitowała się nade\nmną."
+        }
+      ],
+      "tags": [],
+      "uuid": "e9919787-ea56-4f76-b668-0190c7558a26"
+    },
+    {
+      "start_time": 45.12,
+      "end_time": 49.77,
+      "annotation": [
+        {
+          "text": "Ja jej powiedziałem, mojego znaczy, nie\nukrywałem że jestem pochodzenia żydowskiego,"
+        }
+      ],
+      "tags": [],
+      "uuid": "9e77bc59-1773-43f2-afd0-a492503fd4dc"
+    },
+    {
+      "start_time": 49.77,
+      "end_time": 54.07,
+      "annotation": [
+        {
+          "text": "mówię “Ale niech się pani nie boi dlatego że\nja posiadam kenkartę pod takim a takim"
+        }
+      ],
+      "tags": [],
+      "uuid": "80682f0c-45b3-4304-8af6-8b36374436f2"
+    },
+    {
+      "start_time": 54.07,
+      "end_time": 59.62,
+      "annotation": [
+        {
+          "text": "nazwiskiem, także nie mnie, niczym pani tu\nnie ryzykuje tylko z tym że pani mnie u.."
+        }
+      ],
+      "tags": [],
+      "uuid": "33b86c58-fa0a-4d0c-88c9-fd63816d13d3"
+    },
+    {
+      "start_time": 59.62,
+      "end_time": 63.52,
+      "annotation": [
+        {
+          "text": "tego, pani mi daje schronienie.” Była bardzo\nzadowolona."
+        }
+      ],
+      "tags": [],
+      "uuid": "ee6ecd2b-db49-412e-9606-4024f1e53c55"
+    },
+    {
+      "start_time": 65.96,
+      "end_time": 73.12,
+      "annotation": [
+        {
+          "text": "Akuratnie w tym mieszkaniu miała też, pomimo\nże był biedny dom, akuratnie znalazła się"
+        }
+      ],
+      "tags": [],
+      "uuid": "bd69fecd-31d1-45f9-990f-f669a81c351a"
+    },
+    {
+      "start_time": 73.12,
+      "end_time": 79.81,
+      "annotation": [
+        {
+          "text": "maszyna do szycia. To mówię tak, “Pani\nPokorska, bardzo dobrze, ja jestem z zawodu"
+        }
+      ],
+      "tags": [],
+      "uuid": "7e50752e-bd67-45df-b32e-a00609f71f5d"
+    },
+    {
+      "start_time": 79.81,
+      "end_time": 87.47,
+      "annotation": [
+        {
+          "text": "krawiec będzie pani tutaj szła po po wsi po\nterenie u dobrych znajomych ludzi co pani się"
+        }
+      ],
+      "tags": [],
+      "uuid": "48e23c32-0c2e-46f0-b40e-34a7626b49f6"
+    },
+    {
+      "start_time": 87.47,
+      "end_time": 91.66,
+      "annotation": [
+        {
+          "text": "nie obawia niech pani nie mówi że ja jestem\npochodzenia żydowskiego tylko niech pani mówi"
+        }
+      ],
+      "tags": [],
+      "uuid": "fcb078c2-914c-46b6-92af-fd5bab94303e"
+    },
+    {
+      "start_time": 91.66,
+      "end_time": 98.09,
+      "annotation": [
+        {
+          "text": "że jest u pani Polak z Warszawy który ukrywa\nsię bo tam należy do partyzantki i potrafi"
+        }
+      ],
+      "tags": [],
+      "uuid": "96db72f7-8c54-48ed-ac9b-b03baa850e90"
+    },
+    {
+      "start_time": 98.09,
+      "end_time": 105.78,
+      "annotation": [
+        {
+          "text": "szyć żeby ten przynosili do szycia i jakoś\nprzetrwamy.\" Była bardzo uradowana i tak"
+        }
+      ],
+      "tags": [],
+      "uuid": "cb8f0768-c737-45e8-ba70-79bde389b59b"
+    },
+    {
+      "start_time": 105.78,
+      "end_time": 115.56,
+      "annotation": [
+        {
+          "text": "zrobiła. Pewnego razu czy ktoś zdenuncjował\nczy po prostu przypadkowo, weszli Niemcy do"
+        }
+      ],
+      "tags": [],
+      "uuid": "43f37fb9-6111-4599-b611-8145994a8a2d"
+    },
+    {
+      "start_time": 115.56,
+      "end_time": 125.55,
+      "annotation": [
+        {
+          "text": "tego mieszkania. Nie było w ogóle wyjścia\nżeby w ogóle uciec bo to było"
+        }
+      ],
+      "tags": [],
+      "uuid": "b9538bad-90a7-4995-b8ce-f734888ea5c2"
+    },
+    {
+      "start_time": 125.55,
+      "end_time": 126.66,
+      "annotation": [
+        {
+          "text": "tak nieznacznie."
+        }
+      ],
+      "tags": [],
+      "uuid": "b408d8a3-ddc1-43fe-aa5e-cabf26be0e44"
+    },
+    {
+      "start_time": 128.25,
+      "end_time": 135.22,
+      "annotation": [
+        {
+          "text": "Jak Niemcy weszli, czy to jest moc boska czy\nto jest po prostu, to jest trudno mi w tej"
+        }
+      ],
+      "tags": [],
+      "uuid": "fe6cca79-8285-4176-a625-70eb323e02af"
+    },
+    {
+      "start_time": 135.33,
+      "end_time": 143.35,
+      "annotation": [
+        {
+          "text": "chwili określić, nie zlękłem się, nie\nobawiałem się, byłem jakoś śmiały do nich."
+        }
+      ],
+      "tags": [],
+      "uuid": "4d893b7e-07b2-442b-ac05-399d816cdb4f"
+    },
+    {
+      "start_time": 143.35,
+      "end_time": 148.47,
+      "annotation": [
+        {
+          "text": "I rozmawiałem. Oni weszli a popatrzyli."
+        }
+      ],
+      "tags": [],
+      "uuid": "4564009e-2653-4138-a95f-75552d58e1c3"
+    },
+    {
+      "start_time": 149.02,
+      "end_time": 156.58,
+      "annotation": [
+        {
+          "text": "“A kto pan jest?” A ja mówię “Jestem synem\ntej pani.” “Naprawdę synem?” “Synem.” I"
+        }
+      ],
+      "tags": [],
+      "uuid": "b2c595a9-f42a-49f9-9412-b52df35b0776"
+    },
+    {
+      "start_time": 156.58,
+      "end_time": 161.33,
+      "annotation": [
+        {
+          "text": "wziąłem moje, wziąłem zdjęcie i położyłem."
+        }
+      ],
+      "tags": [],
+      "uuid": "6b28dda4-4fb6-4745-b478-afdd3cf42d61"
+    },
+    {
+      "start_time": 161.33,
+      "end_time": 168.11,
+      "annotation": [
+        {
+          "text": "Mówię “Proszę, mam jechać do Garwolina\nwyrobić sobie dowód ale nie mam pieniędzy w"
+        }
+      ],
+      "tags": [],
+      "uuid": "d12c7499-15ce-4a75-a6b5-8a508a2e483f"
+    },
+    {
+      "start_time": 168.16,
+      "end_time": 173.96,
+      "annotation": [
+        {
+          "text": "tej chwili i tak” – mówię – “się składa.” To\non tak na mnie patrzy i widzi że moje oblicze"
+        }
+      ],
+      "tags": [],
+      "uuid": "f7d1f7d9-5f91-4c05-aec3-6ff073b5e962"
+    },
+    {
+      "start_time": 173.96,
+      "end_time": 177.94,
+      "annotation": [
+        {
+          "text": "do tego domu się nie nadaje bo jednak bądź\nco bądź jest to jakaś."
+        }
+      ],
+      "tags": [],
+      "uuid": "6404d4d8-0e13-40e6-87e8-e2ff0a4b1ffc"
+    },
+    {
+      "start_time": 177.94,
+      "end_time": 185.74,
+      "annotation": [
+        {
+          "text": "I pyta się tej pani Pokorskiej, “Czy to jest\nsyn?” Ona mówi “Syn."
+        }
+      ],
+      "tags": [],
+      "uuid": "172656ff-1a6f-4449-a111-f85ac222103e"
+    },
+    {
+      "start_time": 185.74,
+      "end_time": 193.01,
+      "annotation": [
+        {
+          "text": "I dzieci, tyle dzieci w domu jest.\" A ja\njakoś, zimna krew, w ogóle zimna krew."
+        }
+      ],
+      "tags": [],
+      "uuid": "7d0a51b0-4b0c-4a71-955a-8b30e176b371"
+    },
+    {
+      "start_time": 193.01,
+      "end_time": 201.58,
+      "annotation": [
+        {
+          "text": "W ogóle tak jakbym, jakbym w ogóle jakoś tam\nnie przewidywałem strachu, nie przeczuwałem"
+        }
+      ],
+      "tags": [],
+      "uuid": "3ee7b91b-c863-43a9-b8ff-c269869d7c83"
+    },
+    {
+      "start_time": 201.64,
+      "end_time": 204.72,
+      "annotation": [
+        {
+          "text": "absolutnie. Ale on jeszcze nie daje wiary."
+        }
+      ],
+      "tags": [],
+      "uuid": "b8f8d60a-3e5f-437b-ba73-478434de65a3"
+    },
+    {
+      "start_time": 204.72,
+      "end_time": 207.21,
+      "annotation": [
+        {
+          "text": "Jeszcze raz się pyta co ja tu robię."
+        }
+      ],
+      "tags": [],
+      "uuid": "6537219b-d1c1-4cd3-ac69-21fa6691d06c"
+    },
+    {
+      "start_time": 208.07,
+      "end_time": 214.66,
+      "annotation": [
+        {
+          "text": "Ja mówię tak, acha nie bo on zauważył\nakuratnie komuś szyłem jakiś tam płaszcz czy"
+        }
+      ],
+      "tags": [],
+      "uuid": "33c53dee-9db1-4d2e-af42-2c29588b94c0"
+    },
+    {
+      "start_time": 214.66,
+      "end_time": 219.93,
+      "annotation": [
+        {
+          "text": "coś takiego wisiało wtedy i ten Niemiec\nzauważył, jeden do drugiego mówi, “Zobacz w"
+        }
+      ],
+      "tags": [],
+      "uuid": "5e1ef967-c623-4955-b95d-75e1f8cfa6bb"
+    },
+    {
+      "start_time": 220.01,
+      "end_time": 226.39,
+      "annotation": [
+        {
+          "text": "takim biednym mieszkaniu,” “Kuck was hier\nschoen Mantel ist in so ein Haus” żeby, jeden"
+        }
+      ],
+      "tags": [],
+      "uuid": "ab6728a8-dca3-4cb6-ac19-830802728b41"
+    },
+    {
+      "start_time": 226.39,
+      "end_time": 228.62,
+      "annotation": [
+        {
+          "text": "do drugiego że w takim mieszkaniu skąd takie\npalto."
+        }
+      ],
+      "tags": [],
+      "uuid": "43d788cd-cfd1-42a0-9e9e-56090fa94b84"
+    },
+    {
+      "start_time": 230.73,
+      "end_time": 233.35,
+      "annotation": [
+        {
+          "text": "A ja mówię “Palto nie moje.” “Was?"
+        }
+      ],
+      "tags": [],
+      "uuid": "30ebad84-12fd-4827-ab04-e5f8264b66a2"
+    },
+    {
+      "start_time": 233.37,
+      "end_time": 239.18,
+      "annotation": [
+        {
+          "text": "Verstehen Sie Deutsch?” A ja udaję takiego\ngreka, “Dzieci nie moje, nie, dzieci nie"
+        }
+      ],
+      "tags": [],
+      "uuid": "d2cbb31b-17af-4feb-bef0-9e65ec90dbfe"
+    },
+    {
+      "start_time": 239.18,
+      "end_time": 242.67,
+      "annotation": [
+        {
+          "text": "moje.” To on drugi raz się pyta “Was?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5cd78f42-b425-40ee-af0c-5144f4de0180"
+    },
+    {
+      "start_time": 242.7,
+      "end_time": 247.52,
+      "annotation": [
+        {
+          "text": "Verstehen Sie Deutsch?” A ja mówię “Ojciec,\nojciec chory.” “Ach, verdummter Mann.” No i"
+        }
+      ],
+      "tags": [],
+      "uuid": "4b962714-80ec-4aaf-a03e-446856212b74"
+    },
+    {
+      "start_time": 247.52,
+      "end_time": 248.92,
+      "annotation": [
+        {
+          "text": "już widzę że jestem uratowany."
+        }
+      ],
+      "tags": [],
+      "uuid": "30f50393-3049-4e22-bd98-8e682257f453"
+    },
+    {
+      "start_time": 251.58,
+      "end_time": 255.2,
+      "annotation": [
+        {
+          "text": "Te myśli tak szybko u człowieka idą że jest\nnie do pomyślenia."
+        }
+      ],
+      "tags": [],
+      "uuid": "9236f1b5-99c5-43fd-b1df-f47290a17cf3"
+    },
+    {
+      "start_time": 255.89,
+      "end_time": 260.29,
+      "annotation": [
+        {
+          "text": "Ale on nie zważa na to, to co ja mówię,\njeszcze raz zwraca się do tej pani."
+        }
+      ],
+      "tags": [],
+      "uuid": "59deb5ff-c2c7-4be1-945c-145d119f44cc"
+    },
+    {
+      "start_time": 261.57,
+      "end_time": 268.92,
+      "annotation": [
+        {
+          "text": "I pyta się po polsku bo to był Ślązak, “To\njest pani syn?” Mówi, “Tak.” To on mnie się"
+        }
+      ],
+      "tags": [],
+      "uuid": "1d20996e-eddb-49c5-b76c-a4d56d193115"
+    },
+    {
+      "start_time": 268.92,
+      "end_time": 272.62,
+      "annotation": [
+        {
+          "text": "pyta co ja robię, też po polsku."
+        }
+      ],
+      "tags": [],
+      "uuid": "3184df79-667c-4abc-973f-02c03d0d4d60"
+    },
+    {
+      "start_time": 272.62,
+      "end_time": 279.03,
+      "annotation": [
+        {
+          "text": "To ja mówię tak “W lecie prrr prrr prrr\n[naśladuje odgłos woźnicy], a zimową porą to"
+        }
+      ],
+      "tags": [],
+      "uuid": "373a218b-d3e0-4d56-a05b-eadeee93e788"
+    },
+    {
+      "start_time": 279.31,
+      "end_time": 281.72,
+      "annotation": [
+        {
+          "text": "buch, buch, cepami [rękami naśladuje pracę\ncepem].\""
+        }
+      ],
+      "tags": [],
+      "uuid": "c3dff500-4d4a-4ecf-99ae-640d7e46b48e"
+    },
+    {
+      "start_time": 281.8,
+      "end_time": 283.09,
+      "annotation": [
+        {
+          "text": "“A..."
+        }
+      ],
+      "tags": [],
+      "uuid": "0d3637ae-7a1a-4a6a-8c1b-0ff4b0f322f0"
+    },
+    {
+      "start_time": 283.09,
+      "end_time": 287.49,
+      "annotation": [
+        {
+          "text": "Rolnik?” “Rolnik.” No to jak mówi, jak on\ntylko ze mną rozmawia, to już mówię już"
+        }
+      ],
+      "tags": [],
+      "uuid": "810145be-259d-40d9-9dcf-7957fe1a823c"
+    },
+    {
+      "start_time": 287.49,
+      "end_time": 290.65,
+      "annotation": [
+        {
+          "text": "jestem uratowany, a ja jestem z zimną krwią\nwszystko."
+        }
+      ],
+      "tags": [],
+      "uuid": "43865aad-4572-400c-baf9-d09105ec9708"
+    },
+    {
+      "start_time": 292.1,
+      "end_time": 293.7,
+      "annotation": [
+        {
+          "text": "Jestem tak opanowany jak nie wiem."
+        }
+      ],
+      "tags": [],
+      "uuid": "5cf4db24-7f82-4e82-9dce-94326ecd70a4"
+    },
+    {
+      "start_time": 294.91,
+      "end_time": 299.3,
+      "annotation": [
+        {
+          "text": "Ale akuratnie robiliśmy bimber, tam\npędziliśmy bimber jak to w każdym biednym"
+        }
+      ],
+      "tags": [],
+      "uuid": "15b27ee5-a0b8-498e-a838-bc03c6d81b8c"
+    },
+    {
+      "start_time": 299.37,
+      "end_time": 301.18,
+      "annotation": [
+        {
+          "text": "domu w tym czasie okupacji."
+        }
+      ],
+      "tags": [],
+      "uuid": "66e4b474-92c6-461b-9ed0-00bc1d15f19b"
+    },
+    {
+      "start_time": 302.56,
+      "end_time": 309.85,
+      "annotation": [
+        {
+          "text": "Ale z buraków. To on dochodzi i jeden do\ndrugiego mówi, “Kuck, kuck.” A ja mówię"
+        }
+      ],
+      "tags": [],
+      "uuid": "ed0a88ed-afc4-4338-a877-dd7bec4cca3b"
+    },
+    {
+      "start_time": 309.97,
+      "end_time": 315.9,
+      "annotation": [
+        {
+          "text": "“Bimber, buraki, ćwiklin, ćwiklin, ćwiklin.”\n“Ach, verdummter Mann.” Wyszli w ogóle z"
+        }
+      ],
+      "tags": [],
+      "uuid": "af581bc8-c2b0-4db9-b1d1-b44382f7fc31"
+    },
+    {
+      "start_time": 315.92,
+      "end_time": 321.41,
+      "annotation": [
+        {
+          "text": "mieszkania i wtedy kiedy wychodzili z\nmieszkania to ja se tak pomyślałem, o ile"
+        }
+      ],
+      "tags": [],
+      "uuid": "6e053648-a01b-42b5-9124-0b5f6e3bb2e5"
+    },
+    {
+      "start_time": 321.41,
+      "end_time": 326.65,
+      "annotation": [
+        {
+          "text": "jestem zdenuncjowany tutaj bo to we wsi to\nbyły podzielone te zdania."
+        }
+      ],
+      "tags": [],
+      "uuid": "9ebe1629-2831-41aa-95db-f34554faf3dc"
+    },
+    {
+      "start_time": 326.65,
+      "end_time": 335.25,
+      "annotation": [
+        {
+          "text": "Ponieważ no niby nie podobny do do Żyda, niby\nchodzi do kościoła, ale nikt go nie odwiedza"
+        }
+      ],
+      "tags": [],
+      "uuid": "ee2b5542-080c-4140-bc61-44882d82de24"
+    },
+    {
+      "start_time": 335.39,
+      "end_time": 340.91,
+      "annotation": [
+        {
+          "text": "i u Pokorskich w takim biednym domu taki\nmówi możliwy chłopak już nie będę mówił taki"
+        }
+      ],
+      "tags": [],
+      "uuid": "2026eb27-9ff8-4c19-a8b4-477a2642ecb3"
+    },
+    {
+      "start_time": 340.91,
+      "end_time": 343.04,
+      "annotation": [
+        {
+          "text": "możliwy więc tak aha to Żyd jest który się\nukrywa."
+        }
+      ],
+      "tags": [],
+      "uuid": "df02485f-1f9b-47bb-960c-26257b952966"
+    },
+    {
+      "start_time": 344.13,
+      "end_time": 347.16,
+      "annotation": [
+        {
+          "text": "A drudzy mówili, gdzie on tam Żyd, Żyd to by\nchodził do kościoła?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d39e91dd-bdd8-465a-b9f7-1ba86b64046b"
+    },
+    {
+      "start_time": 347.16,
+      "end_time": 349.35,
+      "annotation": [
+        {
+          "text": "I taka była w ogóle wersja w tej wsi."
+        }
+      ],
+      "tags": [],
+      "uuid": "0aa273d3-0074-41b3-9265-9a2e0f6a2cdf"
+    },
+    {
+      "start_time": 349.38,
+      "end_time": 355.43,
+      "annotation": [
+        {
+          "text": "Ale nie biorąc pod uwagę może ktoś mnie\nwydał, to ja mówię tak jeżeli w ogóle jestem"
+        }
+      ],
+      "tags": [],
+      "uuid": "03a918f4-28b0-464d-9ea9-34b51050cce3"
+    },
+    {
+      "start_time": 355.43,
+      "end_time": 358.52,
+      "annotation": [
+        {
+          "text": "zainteresowany to znaczy tu mnie już nie\nwolno tu być w mieszkaniu."
+        }
+      ],
+      "tags": [],
+      "uuid": "b00e7b53-0f56-4f5b-8abe-4d2dd9b33beb"
+    },
+    {
+      "start_time": 359.13,
+      "end_time": 364.48,
+      "annotation": [
+        {
+          "text": "Jeżeli drugi raz przyjdzie to ja wysz…\nwyszedłem w ogóle z mieszkania a ponieważ tam"
+        }
+      ],
+      "tags": [],
+      "uuid": "4f784773-0a7d-4caf-9bf1-45ba09826089"
+    },
+    {
+      "start_time": 364.48,
+      "end_time": 369.52,
+      "annotation": [
+        {
+          "text": "narąbałem [inaudible] drzewa żebyśmy mieli\nna zimę to ja tak układałem drzewo i patrzę"
+        }
+      ],
+      "tags": [],
+      "uuid": "524cf684-ae5b-44fa-b4f5-1e62e940e158"
+    },
+    {
+      "start_time": 369.52,
+      "end_time": 376.44,
+      "annotation": [
+        {
+          "text": "co oni robią. Jeszcze raz wrócił się i pyta\nsię tak jeszcze raz tej pani, “Na pewno syn?”"
+        }
+      ],
+      "tags": [],
+      "uuid": "12edb119-886f-4008-a7d8-041781641646"
+    },
+    {
+      "start_time": 376.49,
+      "end_time": 381.57,
+      "annotation": [
+        {
+          "text": "Ona mówi, “Syn.” Ja mówię w razie jak\njeszcze wróci to ja mówię pójdę ucieknę niech"
+        }
+      ],
+      "tags": [],
+      "uuid": "7c9492e7-2fd9-4073-9943-1ae2d5287e95"
+    },
+    {
+      "start_time": 381.67,
+      "end_time": 385.45,
+      "annotation": [
+        {
+          "text": "on mnie zastrzelił w trakcie ucieczki a\nniżeli w ogóle ma to w ogóle tego."
+        }
+      ],
+      "tags": [],
+      "uuid": "deb566b4-265c-4d6c-8acf-8650bb20b302"
+    },
+    {
+      "start_time": 386.19,
+      "end_time": 391.62,
+      "annotation": [
+        {
+          "text": "Ale już w ogóle nie tego, nie weszli i\ndopiero po wszystkim to te włosy mnie tak"
+        }
+      ],
+      "tags": [],
+      "uuid": "97e7459b-cf96-415b-9a4c-359d9dabb6ab"
+    },
+    {
+      "start_time": 391.62,
+      "end_time": 397.01,
+      "annotation": [
+        {
+          "text": "stanęły. To jest bardzo charakterystyczne."
+        }
+      ],
+      "tags": [],
+      "uuid": "b20972a8-e7b3-4eb2-9d69-288a8c72a6b7"
+    },
+    {
+      "start_time": 397.36,
+      "end_time": 401.24,
+      "annotation": [
+        {
+          "text": "Dopiero później poczułem, poczułem w ogóle\nten, ten, ten strach."
+        }
+      ],
+      "tags": [],
+      "uuid": "4cc8ecce-7cfb-4611-a653-b4fde45c778a"
+    },
+    {
+      "start_time": 401.76,
+      "end_time": 404.42,
+      "annotation": [
+        {
+          "text": "Po wszystkim. Już to jeszcze wszystko i\nmało."
+        }
+      ],
+      "tags": [],
+      "uuid": "d3f925e0-168e-4b1f-9990-8d7ad8cd0fbb"
+    },
+    {
+      "start_time": 407.07,
+      "end_time": 410.32,
+      "annotation": [
+        {
+          "text": "I to też muszę powiedzieć to niestety,\npanie, niech się trochę wstydzą."
+        }
+      ],
+      "tags": [],
+      "uuid": "99dfad9d-d7fe-4eb3-9058-41c70ad4e862"
+    },
+    {
+      "start_time": 412.21,
+      "end_time": 420.35,
+      "annotation": [
+        {
+          "text": "Już po wszystkim, za jakiś miesiąc czy za\nileś, przyszli w nocy po mnie."
+        }
+      ],
+      "tags": [],
+      "uuid": "7c76def1-b309-4b26-b7eb-2dbd89e45750"
+    },
+    {
+      "start_time": 420.35,
+      "end_time": 427.2,
+      "annotation": [
+        {
+          "text": "Posądzam że to z grupy z NSZ, albo z WiN,\nktóra tam była na tamtym terenie."
+        }
+      ],
+      "tags": [],
+      "uuid": "07629785-81a1-4c99-a6f2-91c73d2dc01a"
+    },
+    {
+      "start_time": 430.99,
+      "end_time": 433.27,
+      "annotation": [
+        {
+          "text": "I gdzie ja jestem."
+        }
+      ],
+      "tags": [],
+      "uuid": "a9ad6cf8-4898-435c-971b-d32760c31c82"
+    },
+    {
+      "start_time": 434.65,
+      "end_time": 441.48,
+      "annotation": [
+        {
+          "text": "A ta pani Pokorska mówi że mnie nie ma,\n“Jak to nie ma jak on tutaj był dzisiaj?” Ona"
+        }
+      ],
+      "tags": [],
+      "uuid": "d4eac620-a5d0-484b-9fe6-f9d35d5368b4"
+    },
+    {
+      "start_time": 441.48,
+      "end_time": 446.8,
+      "annotation": [
+        {
+          "text": "mówi “Był ale w tej chwili go nie ma.”\n“Proszę mu nic nie mówić, my jeszcze"
+        }
+      ],
+      "tags": [],
+      "uuid": "cb56ecdb-a48a-4a3a-944c-2478552474c2"
+    },
+    {
+      "start_time": 446.8,
+      "end_time": 450.89,
+      "annotation": [
+        {
+          "text": "przyjedziemy.” Okazało się że oni chcieli\nmnie zabić."
+        }
+      ],
+      "tags": [],
+      "uuid": "17a98d72-8ad6-4389-bf1c-06b76e0af73f"
+    },
+    {
+      "start_time": 451.98,
+      "end_time": 453.24,
+      "annotation": [
+        {
+          "text": "Mieli takie polecenie."
+        }
+      ],
+      "tags": [],
+      "uuid": "e4e78e14-71ce-4012-82c4-76ee0cd01667"
+    },
+    {
+      "start_time": 453.24,
+      "end_time": 457.95,
+      "annotation": [
+        {
+          "text": "Nie wiem od kogo, czy od swojego, niech oni\nsłyszą niech wiedzą o tym, tu nie mam nic do"
+        }
+      ],
+      "tags": [],
+      "uuid": "b11b49bd-fd9a-4785-a57d-c04bc8268696"
+    },
+    {
+      "start_time": 457.95,
+      "end_time": 464.84,
+      "annotation": [
+        {
+          "text": "ukrycia. Ale ja tam miałem również w tej wsi\nmiałem dobrych znajomych czyli kolegów po"
+        }
+      ],
+      "tags": [],
+      "uuid": "c2f950e1-17eb-47a6-b37e-2d02eacf9c84"
+    },
+    {
+      "start_time": 464.84,
+      "end_time": 467.22,
+      "annotation": [
+        {
+          "text": "prostu co to ich nie obchodziło kim jestem."
+        }
+      ],
+      "tags": [],
+      "uuid": "4463b9cc-1eb3-4b69-be5e-c092292c87b7"
+    },
+    {
+      "start_time": 467.49,
+      "end_time": 468.65,
+      "annotation": [
+        {
+          "text": "Ale kolegów jeszcze sprzed wojny?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7248ebfb-72ff-4e79-bc2f-b42e5fa83168"
+    },
+    {
+      "start_time": 469.21,
+      "end_time": 469.69,
+      "annotation": [
+        {
+          "text": "Nie."
+        }
+      ],
+      "tags": [],
+      "uuid": "8e085f6e-c48d-47e4-acf8-a7cd5fa061d9"
+    },
+    {
+      "start_time": 469.87,
+      "end_time": 471.18,
+      "annotation": [
+        {
+          "text": "Z tego okresu?"
+        }
+      ],
+      "tags": [],
+      "uuid": "2e40b57d-2adf-4e58-87c8-f554efc17d2e"
+    },
+    {
+      "start_time": 471.18,
+      "end_time": 472.57,
+      "annotation": [
+        {
+          "text": "Z tego okresu tzn."
+        }
+      ],
+      "tags": [],
+      "uuid": "8ba9a5de-c986-4a6a-935f-7d977ed35914"
+    },
+    {
+      "start_time": 472.57,
+      "end_time": 476.67,
+      "annotation": [
+        {
+          "text": "za miesiąc czy za dwa już miało być\nwyzwolenie bo to dajmy na to to było w"
+        }
+      ],
+      "tags": [],
+      "uuid": "5bfbeec0-65ea-40c1-bdbd-63ef13399ea1"
+    },
+    {
+      "start_time": 476.67,
+      "end_time": 479.89,
+      "annotation": [
+        {
+          "text": "kwietniu czy w maju a w lipcu już weszła\nCzerwona Armia."
+        }
+      ],
+      "tags": [],
+      "uuid": "21bb5720-78bf-4aff-a602-13b8081a656a"
+    },
+    {
+      "start_time": 483.38,
+      "end_time": 490.92,
+      "annotation": [
+        {
+          "text": "To mówi “Heniek, uważaj bo chcą cię\nzlikwidować.” I w tym okresie przyszło ich"
+        }
+      ],
+      "tags": [],
+      "uuid": "8e0e662b-6ca5-44bc-8e22-fddd3f16df56"
+    },
+    {
+      "start_time": 490.92,
+      "end_time": 492.26,
+      "annotation": [
+        {
+          "text": "dwóch z pistoletem."
+        }
+      ],
+      "tags": [],
+      "uuid": "e8b96cde-3358-41d8-88e6-88347ac4a222"
+    },
+    {
+      "start_time": 493.69,
+      "end_time": 499.91,
+      "annotation": [
+        {
+          "text": "A ja, a ta pani Pokorska, myśl, to wszystko\ntaka myśl która przychodzi bardzo mocno."
+        }
+      ],
+      "tags": [],
+      "uuid": "b762ee14-241b-479a-b678-829875dc7e26"
+    },
+    {
+      "start_time": 500.51,
+      "end_time": 502.55,
+      "annotation": [
+        {
+          "text": "Tam było łóżko wysokie."
+        }
+      ],
+      "tags": [],
+      "uuid": "cc8852de-22d5-4fdf-a7ab-0df64500acf2"
+    },
+    {
+      "start_time": 502.55,
+      "end_time": 505.47,
+      "annotation": [
+        {
+          "text": "Deska stała z boku i nie było siennika tylko\nsłoma."
+        }
+      ],
+      "tags": [],
+      "uuid": "6c5f1034-53c8-4598-9c84-8426a6da18fb"
+    },
+    {
+      "start_time": 507.71,
+      "end_time": 512.48,
+      "annotation": [
+        {
+          "text": "To ona do mnie mówi, “Wiesz co Heniek wejdź”\n– mówi - “do łóżka, przykryj się słomą a ja”"
+        }
+      ],
+      "tags": [],
+      "uuid": "b8a9fc5b-72ea-43e2-be89-99cf29b28eb6"
+    },
+    {
+      "start_time": 512.48,
+      "end_time": 514.97,
+      "annotation": [
+        {
+          "text": "– mówi – “dzieci położę na ciebie.” I tak\nbyło."
+        }
+      ],
+      "tags": [],
+      "uuid": "4267806a-244b-4ffc-8e3e-0788b08206e4"
+    },
+    {
+      "start_time": 515.5,
+      "end_time": 518.34,
+      "annotation": [
+        {
+          "text": "Oni przyszli, pyta, ja słyszę wszystko co oni\nmówią."
+        }
+      ],
+      "tags": [],
+      "uuid": "14c3e7d8-fcb5-48b0-b0bb-c29359301616"
+    },
+    {
+      "start_time": 518.94,
+      "end_time": 524.65,
+      "annotation": [
+        {
+          "text": "Pytają się to tamto. To oni tak do niej\nmówią “Słuchaj nic w ogóle masz jemu nie"
+        }
+      ],
+      "tags": [],
+      "uuid": "08c51e92-b700-4cf6-9267-16a0a81a2a19"
+    },
+    {
+      "start_time": 524.65,
+      "end_time": 526.57,
+      "annotation": [
+        {
+          "text": "mówić, my jeszcze tutaj przyjedziemy."
+        }
+      ],
+      "tags": [],
+      "uuid": "311d29df-92c2-4ceb-a919-ca33d691a5f0"
+    },
+    {
+      "start_time": 527.03,
+      "end_time": 530.91,
+      "annotation": [
+        {
+          "text": "On ma tutaj być.” Nie mówiła."
+        }
+      ],
+      "tags": [],
+      "uuid": "f013ae54-ccac-4253-8cdd-b9bd6f5eb522"
+    },
+    {
+      "start_time": 530.99,
+      "end_time": 536.82,
+      "annotation": [
+        {
+          "text": "“W razie jak kłamiesz to weź łopatę będziesz\nsobie kopała grób.” Do tej, to tej"
+        }
+      ],
+      "tags": [],
+      "uuid": "65b0db5d-757a-4c6d-a118-300ef7268e42"
+    },
+    {
+      "start_time": 536.82,
+      "end_time": 541.31,
+      "annotation": [
+        {
+          "text": "Pokorskiej. Ona bierze łopatę i wychodzi\nrazem [inaudible] jak wtedy kiedy widzieli że"
+        }
+      ],
+      "tags": [],
+      "uuid": "feb00a65-5e90-45c0-a917-d540e6cd42e4"
+    },
+    {
+      "start_time": 541.31,
+      "end_time": 543.75,
+      "annotation": [
+        {
+          "text": "ona bierze łopatę że faktycznie może mnie\nnie ma."
+        }
+      ],
+      "tags": [],
+      "uuid": "fb2e889c-51df-4026-8aae-ac181f260644"
+    },
+    {
+      "start_time": 543.78,
+      "end_time": 546.48,
+      "annotation": [
+        {
+          "text": "I to jest charakterystyczne."
+        }
+      ],
+      "tags": [],
+      "uuid": "b846255a-0189-48a1-9357-c08634ee713f"
+    },
+    {
+      "start_time": 546.48,
+      "end_time": 551.86,
+      "annotation": [
+        {
+          "text": "I niech cały świat o tym wie że troje czy\nczworo dzieci małych - nie wydali, nie"
+        }
+      ],
+      "tags": [],
+      "uuid": "5a0a2905-b085-4d5b-a69f-7211d7e7557b"
+    },
+    {
+      "start_time": 551.86,
+      "end_time": 555.97,
+      "annotation": [
+        {
+          "text": "krzyczeli że on tutaj jest, żeby, nie\nobawiali się tego bo przecież tego."
+        }
+      ],
+      "tags": [],
+      "uuid": "64077186-e7de-4989-893c-ce2af3103ff7"
+    },
+    {
+      "start_time": 557.33,
+      "end_time": 560.78,
+      "annotation": [
+        {
+          "text": "Oni wyszli i później ja już ukrywałem się,\njuż w tym mieszkaniu nie byłem."
+        }
+      ],
+      "tags": [],
+      "uuid": "175a86fc-e41b-4bb7-a058-a6c591af7422"
+    },
+    {
+      "start_time": 562.07,
+      "end_time": 565.18,
+      "annotation": [
+        {
+          "text": "Już tam chodziłem po polach, po krzakach,\ntu, tam."
+        }
+      ],
+      "tags": [],
+      "uuid": "43f26ab0-6609-4f7f-8e35-baf07be65588"
+    },
+    {
+      "start_time": 565.18,
+      "end_time": 567.28,
+      "annotation": [
+        {
+          "text": "Ona tylko donosiła mi jeść, Pokorska."
+        }
+      ],
+      "tags": [],
+      "uuid": "88719ea0-4efb-4289-8388-2f75203e1137"
+    },
+    {
+      "start_time": 567.28,
+      "end_time": 572.51,
+      "annotation": [
+        {
+          "text": "Kryłem się gdzie tylko mogłem przez te parę\nmiesięcy dopóki nie weszła Czerwona Armia."
+        }
+      ],
+      "tags": [],
+      "uuid": "1a4d233b-a9bb-4883-aa31-91b856c5fba9"
+    },
+    {
+      "start_time": 572.89,
+      "end_time": 581.31,
+      "annotation": [
+        {
+          "text": "Czerwona Armia weszła do tej wsi, do\nPodwierzbia, to było chyba albo koniec lipca,"
+        }
+      ],
+      "tags": [],
+      "uuid": "147bb15b-dcfc-40b4-98e5-3b5d8c1e71bc"
+    },
+    {
+      "start_time": 581.31,
+      "end_time": 582.83,
+      "annotation": [
+        {
+          "text": "29. lipca czy 30."
+        }
+      ],
+      "tags": [],
+      "uuid": "a9006261-166f-41da-8cfb-605813c0fe0e"
+    },
+    {
+      "start_time": 582.94,
+      "end_time": 584.17,
+      "annotation": [
+        {
+          "text": "lipca albo 1."
+        }
+      ],
+      "tags": [],
+      "uuid": "7ab61c6c-8744-45b5-afab-51d79d9631b0"
+    },
+    {
+      "start_time": 584.25,
+      "end_time": 593.62,
+      "annotation": [
+        {
+          "text": "Sierpnia. Wtedy leżałam na wale, leżałam na\nwale niedaleko i w ogóle jak widziałam tą"
+        }
+      ],
+      "tags": [],
+      "uuid": "b64f390d-00e5-422d-82b5-542deb929293"
+    },
+    {
+      "start_time": 593.62,
+      "end_time": 599.01,
+      "annotation": [
+        {
+          "text": "„razwiedkę” [oddział rozpoznania], oni szli\ntak broni mieli a tu patrzą na człowieka, nie"
+        }
+      ],
+      "tags": [],
+      "uuid": "fca226d0-0c82-4bae-8ecf-c61217778e5e"
+    },
+    {
+      "start_time": 599.01,
+      "end_time": 604.04,
+      "annotation": [
+        {
+          "text": "byłem tak zarośnięty dlatego że w miarę\nmożliwości tam starałam się, ona nie kupowała"
+        }
+      ],
+      "tags": [],
+      "uuid": "eed2ea4f-89ff-46a2-b792-81e97d76b919"
+    },
+    {
+      "start_time": 604.04,
+      "end_time": 605.42,
+      "annotation": [
+        {
+          "text": "żyletki. Goliłem się."
+        }
+      ],
+      "tags": [],
+      "uuid": "ddc3e2c2-8eb5-4088-b3c2-877d10736aa5"
+    },
+    {
+      "start_time": 605.42,
+      "end_time": 609.36,
+      "annotation": [
+        {
+          "text": "Tak że byłem podobny do człowieka,\nwynędzniały, ale do człowieka byłem podobny."
+        }
+      ],
+      "tags": [],
+      "uuid": "b5f0b452-099d-44d7-bf52-7a058c00c74b"
+    },
+    {
+      "start_time": 610.15,
+      "end_time": 615.76,
+      "annotation": [
+        {
+          "text": "I oni mi się pytają, “A kto wy taki?” A ja\nmówię ja i nie w ogóle nie mogę mówić ani po"
+        }
+      ],
+      "tags": [],
+      "uuid": "1c9ab207-a553-426d-9a96-4d53c4297598"
+    },
+    {
+      "start_time": 615.76,
+      "end_time": 618.18,
+      "annotation": [
+        {
+          "text": "polsku ani po żydowsku ani po rosyjsku."
+        }
+      ],
+      "tags": [],
+      "uuid": "1e69df41-0e5e-48bc-8e66-e621972e4417"
+    },
+    {
+      "start_time": 618.18,
+      "end_time": 623.25,
+      "annotation": [
+        {
+          "text": "Cokolwiek znałem to ten to byłem u nich parę\nmiesięcy w tym tym tym, to trochę liznąłem"
+        }
+      ],
+      "tags": [],
+      "uuid": "9a1ebfad-6113-40aa-908c-16a1e36495cc"
+    },
+    {
+      "start_time": 623.51,
+      "end_time": 624.63,
+      "annotation": [
+        {
+          "text": "tej mowy rosyjskiej."
+        }
+      ],
+      "tags": [],
+      "uuid": "348b04b5-da7c-48e8-b497-d3d6d80e5923"
+    },
+    {
+      "start_time": 626.18,
+      "end_time": 631.69,
+      "annotation": [
+        {
+          "text": "Ale koniec końców mówię tak, “Ja tu ukrył,\nukrył, tu, ja tu ukrył,” tam do nich."
+        }
+      ],
+      "tags": [],
+      "uuid": "18b7d7ec-5b76-43ea-8fe4-47e4d695d782"
+    },
+    {
+      "start_time": 632.5,
+      "end_time": 638.88,
+      "annotation": [
+        {
+          "text": "A akuratnie był taki co coś tam rozumiał,\nŻyd był, jakiś lojtenant [?]."
+        }
+      ],
+      "tags": [],
+      "uuid": "9de56614-e49c-4bef-83b0-b98d4bf700d7"
+    },
+    {
+      "start_time": 638.88,
+      "end_time": 643.9,
+      "annotation": [
+        {
+          "text": "Tak on, coś takiego, coś mu tam przyszło do\ngłowy i on mówi “A kto wy?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8d364200-eec2-4a74-b9ec-084e6cee1fa0"
+    },
+    {
+      "start_time": 644.46,
+      "end_time": 648.15,
+      "annotation": [
+        {
+          "text": "A kto wy?” A ja mówię, \"Ja jestem\" - mówię\n- \"Jewrej,\" już do niego."
+        }
+      ],
+      "tags": [],
+      "uuid": "c90ed7f9-ee73-4ddf-91ac-24a46886b224"
+    },
+    {
+      "start_time": 649.65,
+      "end_time": 654.84,
+      "annotation": [
+        {
+          "text": "A to on zaraz tak stanął, ten lojtenant [?],\ndo tych żołnierzy mówi żeby schowali broń,"
+        }
+      ],
+      "tags": [],
+      "uuid": "9ab40b6b-7d54-4008-8992-c191cef4c204"
+    },
+    {
+      "start_time": 655.78,
+      "end_time": 657.06,
+      "annotation": [
+        {
+          "text": "Żeby nie ten nie trzymali tak."
+        }
+      ],
+      "tags": [],
+      "uuid": "ddf885ef-c2e1-40ee-b6f2-fdde28b476d1"
+    },
+    {
+      "start_time": 657.06,
+      "end_time": 662.86,
+      "annotation": [
+        {
+          "text": "I powiedział do mnie że jutro przyjdą i\nzabiorą mnie do wojennego komendanta."
+        }
+      ],
+      "tags": [],
+      "uuid": "ffbff928-d0a9-4488-a22f-ff135cdf47ca"
+    },
+    {
+      "start_time": 663.79,
+      "end_time": 666.26,
+      "annotation": [
+        {
+          "text": "Tam niedaleko był wojenny komendant Bubnow\n[?"
+        }
+      ],
+      "tags": [],
+      "uuid": "adc727c4-3627-4f12-a76b-1cbfc9263c2e"
+    },
+    {
+      "start_time": 667,
+      "end_time": 671.13,
+      "annotation": [
+        {
+          "text": "], major Bubnow [?]."
+        }
+      ],
+      "tags": [],
+      "uuid": "0e458c44-bef1-4537-ae11-6966a34ab357"
+    },
+    {
+      "start_time": 671.13,
+      "end_time": 676.13,
+      "annotation": [
+        {
+          "text": "No i faktycznie przyszli na następny dzień,\nzabrali mnie do tego, panie, Bubnowa."
+        }
+      ],
+      "tags": [],
+      "uuid": "289d7068-c8fc-48b1-a861-1bbd1aa67960"
+    },
+    {
+      "start_time": 676.13,
+      "end_time": 682.59,
+      "annotation": [
+        {
+          "text": "I Bubnow wziął mnie do swojej armii jako\nwolnonajomnyj."
+        }
+      ],
+      "tags": [],
+      "uuid": "d09084af-d1c1-418a-abe8-d4f8312bda95"
+    },
+    {
+      "start_time": 682.59,
+      "end_time": 692.39,
+      "annotation": [
+        {
+          "text": "Szyłem tam u nich dłuższy czas do okresu\ndajmy na to to było w tym, to było w"
+        }
+      ],
+      "tags": [],
+      "uuid": "12384e68-b7fb-4350-b7b4-455139ef225b"
+    },
+    {
+      "start_time": 692.9,
+      "end_time": 699.13,
+      "annotation": [
+        {
+          "text": "sierpniu, wrzesień to i a nastąpiła znaczy\nofensywa nastąpiła w styczniu."
+        }
+      ],
+      "tags": [],
+      "uuid": "c891b17c-6ae2-423a-b6c1-bac4f4f3eb0b"
+    },
+    {
+      "start_time": 699.13,
+      "end_time": 703.73,
+      "annotation": [
+        {
+          "text": "To do stycznia trzymali mnie u siebie, byłem\nubrany po wojskowemu ale bez broni, bez"
+        }
+      ],
+      "tags": [],
+      "uuid": "3b4ea634-cd59-4860-9aed-589a546ed324"
+    },
+    {
+      "start_time": 703.77,
+      "end_time": 706.19,
+      "annotation": [
+        {
+          "text": "niczego tylko szyłem im te mundury i ubrania\nwszystko."
+        }
+      ],
+      "tags": [],
+      "uuid": "2d119562-fe53-4438-81e4-8c9b251bf4ee"
+    },
+    {
+      "start_time": 707.11,
+      "end_time": 709.88,
+      "annotation": [
+        {
+          "text": "W tej wsi, tak?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5ddabe2c-52ed-408f-b39b-d78f9f02fecf"
+    },
+    {
+      "start_time": 709.95,
+      "end_time": 710.93,
+      "annotation": [
+        {
+          "text": "W Podwierzbiu?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c6abadbe-59f6-4c78-a1f6-489fd947cfb0"
+    },
+    {
+      "start_time": 710.93,
+      "end_time": 712.92,
+      "annotation": [
+        {
+          "text": "To, tak, w Podwierzbiu."
+        }
+      ],
+      "tags": [],
+      "uuid": "d2d459f7-23e2-404b-940b-2caa68e79b99"
+    },
+    {
+      "start_time": 712.92,
+      "end_time": 716.58,
+      "annotation": [
+        {
+          "text": "W Podwierzbiu i Podłęż, Podwierzbie i Podłęż,\nto jest obok."
+        }
+      ],
+      "tags": [],
+      "uuid": "05d22744-e8a9-4f60-8c3a-21198c8054c0"
+    },
+    {
+      "start_time": 716.58,
+      "end_time": 721.84,
+      "annotation": [
+        {
+          "text": "I tam już byłem do końca, oni poszli na ten\nna…  oni poszli, znaczy się front posuwał się"
+        }
+      ],
+      "tags": [],
+      "uuid": "afd70b31-4e79-48be-85c3-6c4cc6a3e8d9"
+    },
+    {
+      "start_time": 721.84,
+      "end_time": 725.35,
+      "annotation": [
+        {
+          "text": "naprzód, ja już zostałam w tej wsi jeszcze u\ntej pani Pokorskiej."
+        }
+      ],
+      "tags": [],
+      "uuid": "a0fc5ab6-03f8-44b5-9e68-2cea83ffb956"
+    },
+    {
+      "start_time": 725.35,
+      "end_time": 729.56,
+      "annotation": [
+        {
+          "text": "I w ogóle jeszcze tam byłam dłuższy czas bo\nnie wiedziałem bo jeszcze w ogóle Góra"
+        }
+      ],
+      "tags": [],
+      "uuid": "6004704b-0bc4-4bca-a176-5aa647edd7b8"
+    },
+    {
+      "start_time": 729.56,
+      "end_time": 733.41,
+      "annotation": [
+        {
+          "text": "Kalwaria była jeszcze była zajęta, jeszcze\nGóra Kalwaria jeszcze była okupacja więc nie"
+        }
+      ],
+      "tags": [],
+      "uuid": "17134a87-b0ad-4ba2-b97e-5da7da4b28a3"
+    },
+    {
+      "start_time": 733.41,
+      "end_time": 739.08,
+      "annotation": [
+        {
+          "text": "miałam się co spieszyć. Jeszcze tam byłem\nparę ładnych miesięcy i te młodzież z"
+        }
+      ],
+      "tags": [],
+      "uuid": "487146b6-ada8-4128-b2a1-88c258ef001c"
+    },
+    {
+      "start_time": 739.18,
+      "end_time": 744.65,
+      "annotation": [
+        {
+          "text": "Podwierzbia byli bardzo mili do mnie bardzo\nnawet kochali mnie do tego stopnia, wcale nie"
+        }
+      ],
+      "tags": [],
+      "uuid": "256679e5-7020-404f-85ab-0db8f597c666"
+    },
+    {
+      "start_time": 744.73,
+      "end_time": 748.38,
+      "annotation": [
+        {
+          "text": "nie, i wcale nie tego nie ukrywam to słowo\nże kochali mnie."
+        }
+      ],
+      "tags": [],
+      "uuid": "11beecae-6ae9-41c8-8256-c6840c6e7c22"
+    },
+    {
+      "start_time": 748.38,
+      "end_time": 750.26,
+      "annotation": [
+        {
+          "text": "Dziewczynki kochały się we mnie tak mówię\ndosłownie."
+        }
+      ],
+      "tags": [],
+      "uuid": "4315878b-11cb-4f85-982b-fd5f198d4cdd"
+    },
+    {
+      "start_time": 751.56,
+      "end_time": 757.09,
+      "annotation": [
+        {
+          "text": "Bardzo mnie lubili, chodziłem razem z nimi\ndopóki nie wiedziałem że w Górze Kalwarii"
+        }
+      ],
+      "tags": [],
+      "uuid": "bd881174-1bf2-4016-8c02-7f1c490b6546"
+    },
+    {
+      "start_time": 757.12,
+      "end_time": 760.34,
+      "annotation": [
+        {
+          "text": "jeszcze jest, wrócili Żydzi z Rosji, to już\nbyło w lipcu."
+        }
+      ],
+      "tags": [],
+      "uuid": "9ed5cbad-41d2-4571-a84e-42f78b38ada1"
+    },
+    {
+      "start_time": 760.34,
+      "end_time": 766.5,
+      "annotation": [
+        {
+          "text": "A proszę powiedzieć taką rzecz, pan mówił że\npana szukali ci z NSZ lub z WiN."
+        }
+      ],
+      "tags": [],
+      "uuid": "704d32c9-9312-44a0-b692-1e52011134bd"
+    },
+    {
+      "start_time": 767.32,
+      "end_time": 771.82,
+      "annotation": [
+        {
+          "text": "To znaczy że jednak w tej wsi wiedzieli albo\npodejrzewali że pan jest pochodzenia"
+        }
+      ],
+      "tags": [],
+      "uuid": "2784f20f-3eea-4b7c-ba54-8e20dec5cfe9"
+    },
+    {
+      "start_time": 771.88,
+      "end_time": 772.24,
+      "annotation": [
+        {
+          "text": "żydowskiego?"
+        }
+      ],
+      "tags": [],
+      "uuid": "abe4ee06-390a-4b09-a108-15f22717a33e"
+    },
+    {
+      "start_time": 772.24,
+      "end_time": 775.05,
+      "annotation": [
+        {
+          "text": "Więc tak, więc mówię, wieś była podzielona."
+        }
+      ],
+      "tags": [],
+      "uuid": "5076fb3e-d6bc-454b-a171-0d112988d988"
+    },
+    {
+      "start_time": 775.05,
+      "end_time": 776.9,
+      "annotation": [
+        {
+          "text": "Tak jest, wiedzieli, jak to nie wiedzieli\njak to."
+        }
+      ],
+      "tags": [],
+      "uuid": "3bf24061-966c-43d0-b49f-2f318fde4c01"
+    },
+    {
+      "start_time": 776.9,
+      "end_time": 778.5,
+      "annotation": [
+        {
+          "text": "Więc mówię jedni mówili tak drudzy mówili\ntak."
+        }
+      ],
+      "tags": [],
+      "uuid": "1e5640a5-2c5d-4587-8907-5156f3fdf52a"
+    },
+    {
+      "start_time": 779.19,
+      "end_time": 782.96,
+      "annotation": [
+        {
+          "text": "Tylko przecież to ludzie nie są ciemni no\nprzecież zdawali sobie sprawę że przychodzą"
+        }
+      ],
+      "tags": [],
+      "uuid": "ff8cbfbe-63e7-4c3d-9062-7546a8eceae8"
+    },
+    {
+      "start_time": 782.96,
+      "end_time": 787.88,
+      "annotation": [
+        {
+          "text": "jakieś święta, Wigilia, to, tamto, że\nnigdzie nie wyjeżdżam zawsze jestem w tym tym"
+        }
+      ],
+      "tags": [],
+      "uuid": "6be7f7e0-662b-4e0f-90a5-e9564b10c918"
+    },
+    {
+      "start_time": 788.27,
+      "end_time": 792.7,
+      "annotation": [
+        {
+          "text": ". A bądź co bądź przecież jestem a nigdy\nPokorska nie mówiła że ma takiego czy takiego"
+        }
+      ],
+      "tags": [],
+      "uuid": "cf3ecf47-f3fc-45dd-9720-86426aa603c4"
+    },
+    {
+      "start_time": 792.7,
+      "end_time": 797.53,
+      "annotation": [
+        {
+          "text": "kuzyna. Ale na ogół to mnie lubili i w\nporządku byłem tam."
+        }
+      ],
+      "tags": [],
+      "uuid": "c116e869-4d81-49d1-ba25-dddbee18982d"
+    },
+    {
+      "start_time": 797.53,
+      "end_time": 798.68,
+      "annotation": [
+        {
+          "text": "Tak niestety to jest prawda."
+        }
+      ],
+      "tags": [],
+      "uuid": "f46ed2b9-ac5d-42b8-8da2-e08f02ea589c"
+    },
+    {
+      "start_time": 798.68,
+      "end_time": 805.57,
+      "annotation": [
+        {
+          "text": "To trzeba powiedzieć prawdę tak jak było i że\nbyły, były takie momenty i znam takie fakty"
+        }
+      ],
+      "tags": [],
+      "uuid": "2a897bed-3fa7-4d61-9ad5-c38a5bae2089"
+    },
+    {
+      "start_time": 805.75,
+      "end_time": 808.84,
+      "annotation": [
+        {
+          "text": "co to w ogóle z NSZ mordowali Żydów."
+        }
+      ],
+      "tags": [],
+      "uuid": "3f0b1885-ea9a-464a-b625-ff084b05e5f0"
+    },
+    {
+      "start_time": 808.84,
+      "end_time": 812.64,
+      "annotation": [
+        {
+          "text": "Po wyzwoleniu, po wszystkim, to niech oni\nwiedzą o tym, niech się wstydzą."
+        }
+      ],
+      "tags": [],
+      "uuid": "77a9d293-35b5-4881-9ea6-6216bf78d7a5"
+    },
+    {
+      "start_time": 813.32,
+      "end_time": 819.12,
+      "annotation": [
+        {
+          "text": "Pomimo ja jestem spolszczony, kocham Polskę\nbo to I dlatego może nie wyemigrowałem"
+        }
+      ],
+      "tags": [],
+      "uuid": "e605ed2b-efea-4dfa-92d6-009f9a966a4e"
+    },
+    {
+      "start_time": 819.12,
+      "end_time": 820.61,
+      "annotation": [
+        {
+          "text": "później z racji tego."
+        }
+      ],
+      "tags": [],
+      "uuid": "ef9786a3-1f1e-416a-8b93-6e5ab68d2139"
+    },
+    {
+      "start_time": 821.04,
+      "end_time": 825.47,
+      "annotation": [
+        {
+          "text": "Ta Pani która mnie przetrzymała czyli ta\nrodzina dostała została odznaczona tym"
+        }
+      ],
+      "tags": [],
+      "uuid": "bfe48f70-73a1-4ab6-afd0-ee709353c1ca"
+    },
+    {
+      "start_time": 825.47,
+      "end_time": 827.32,
+      "annotation": [
+        {
+          "text": "medalem w Yad Vashem."
+        }
+      ],
+      "tags": [],
+      "uuid": "f8bae930-6a92-4713-acfa-d2b776448c04"
+    },
+    {
+      "start_time": 827.32,
+      "end_time": 830.13,
+      "annotation": [
+        {
+          "text": "Są tam są tam w tym drzewka są posadzone\ntam."
+        }
+      ],
+      "tags": [],
+      "uuid": "7fc199c0-8b05-4feb-9119-d447d52e3c16"
+    },
+    {
+      "start_time": 830.79,
+      "end_time": 831.99,
+      "annotation": [
+        {
+          "text": "Znaczy pan podał wniosek do?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7da9a948-1b37-47e1-8ca2-992fa034b658"
+    },
+    {
+      "start_time": 832.02,
+      "end_time": 836.17,
+      "annotation": [
+        {
+          "text": "Tak, tak. I do dnia dzisiejszego jestem w\nkontakcie z tą rodziną."
+        }
+      ],
+      "tags": [],
+      "uuid": "096f1d14-430a-4a71-9d73-83338203d754"
+    },
+    {
+      "start_time": 836.24,
+      "end_time": 837.36,
+      "annotation": [
+        {
+          "text": "Bardzo mnie szanują."
+        }
+      ],
+      "tags": [],
+      "uuid": "2fcd77ed-8a34-484f-ba5a-566dd22ac454"
+    },
+    {
+      "start_time": 837.36,
+      "end_time": 840.47,
+      "annotation": [
+        {
+          "text": "Wołają na mnie wujek ja dla nich to jakby to\nsiostra, jak brat."
+        }
+      ],
+      "tags": [],
+      "uuid": "f8318c21-9de5-4012-831a-41d333a3bb8c"
+    },
+    {
+      "start_time": 840.75,
+      "end_time": 842.35,
+      "annotation": [
+        {
+          "text": "Szanuję tych ludzi."
+        }
+      ],
+      "tags": [],
+      "uuid": "0e8b1946-6c0b-4371-8d9d-3f30d2b6b55b"
+    },
+    {
+      "start_time": 842.35,
+      "end_time": 845.9,
+      "annotation": [
+        {
+          "text": "Ściągłem później ich stamtąd z tej wsi\nściągłem do Góry Kalwarii."
+        }
+      ],
+      "tags": [],
+      "uuid": "51b7f350-d37f-4db4-b87f-f681658d6168"
+    },
+    {
+      "start_time": 845.9,
+      "end_time": 847.13,
+      "annotation": [
+        {
+          "text": "I mieszkają do dnia dzisiejszego."
+        }
+      ],
+      "tags": [],
+      "uuid": "3aa6a850-5efa-453b-938d-4e31a2938971"
+    },
+    {
+      "start_time": 847.13,
+      "end_time": 847.76,
+      "annotation": [
+        {
+          "text": "A gdzie mieszkają?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d66cf274-7d06-4e86-9db1-4c8d42d24262"
+    },
+    {
+      "start_time": 848.25,
+      "end_time": 849.69,
+      "annotation": [
+        {
+          "text": "W Górze Kalwarii."
+        }
+      ],
+      "tags": [],
+      "uuid": "7fe79521-657d-4166-9d22-db698f2e7b28"
+    },
+    {
+      "start_time": 849.69,
+      "end_time": 850.27,
+      "annotation": [
+        {
+          "text": "A tak?"
+        }
+      ],
+      "tags": [],
+      "uuid": "54ada6dc-f400-47a2-8572-c10ae50099c0"
+    },
+    {
+      "start_time": 850.38,
+      "end_time": 852.07,
+      "annotation": [
+        {
+          "text": "Tak, mieszkają tam."
+        }
+      ],
+      "tags": [],
+      "uuid": "c3e17006-287d-4233-a36b-bc4f248edbfe"
+    },
+    {
+      "start_time": 852.07,
+      "end_time": 853.41,
+      "annotation": [
+        {
+          "text": "Mają mieszkanie mają to."
+        }
+      ],
+      "tags": [],
+      "uuid": "b30486e2-2295-41e7-835b-75b7d48a19b1"
+    },
+    {
+      "start_time": 853.41,
+      "end_time": 858.76,
+      "annotation": [
+        {
+          "text": "Są wszystko starzy ludzie już mają po\nsześćdziesiąt parę lat, 70, brat ma 70, a"
+        }
+      ],
+      "tags": [],
+      "uuid": "eded4076-50e7-4354-983e-3f92cab7ae8e"
+    },
+    {
+      "start_time": 858.87,
+      "end_time": 864.36,
+      "annotation": [
+        {
+          "text": "siostra Władka ma sześćdziesiąt pare, a te\npo sześćdziesiąt, także to są wszystko starsi"
+        }
+      ],
+      "tags": [],
+      "uuid": "d554858f-0442-47c7-832c-b36f79d81f74"
+    },
+    {
+      "start_time": 864.36,
+      "end_time": 864.59,
+      "annotation": [
+        {
+          "text": "ludzie."
+        }
+      ],
+      "tags": [],
+      "uuid": "d431c95e-03c1-49c8-84aa-c0841b236d46"
+    },
+    {
+      "start_time": 864.59,
+      "end_time": 871.43,
+      "annotation": [
+        {
+          "text": "Rozumiem, a kiedy pan został wyzwolony i\npotem pan był w tej Armii Czerwonej jak bo"
+        }
+      ],
+      "tags": [],
+      "uuid": "476fc657-583a-4d2a-a359-19dc4440f157"
+    },
+    {
+      "start_time": 872,
+      "end_time": 872.7,
+      "annotation": [
+        {
+          "text": "jakby na status?"
+        }
+      ],
+      "tags": [],
+      "uuid": "55beb45e-5171-4de7-a799-16d99b85042b"
+    },
+    {
+      "start_time": 872.7,
+      "end_time": 874.45,
+      "annotation": [
+        {
+          "text": "Nic nie miałem z nimi żadnego kontaktu."
+        }
+      ],
+      "tags": [],
+      "uuid": "85ca51bc-63da-4472-a513-28f590dbc5a5"
+    },
+    {
+      "start_time": 874.45,
+      "end_time": 877.18,
+      "annotation": [
+        {
+          "text": "Rozumiem. A powstanie Warszawskie wybuchło w\nsierpniu 44."
+        }
+      ],
+      "tags": [],
+      "uuid": "27beaee2-f443-4089-a62a-ed59dbf9480e"
+    },
+    {
+      "start_time": 877.21,
+      "end_time": 877.33,
+      "annotation": [
+        {
+          "text": "roku?"
+        }
+      ],
+      "tags": [],
+      "uuid": "2b134464-034f-46ac-b582-70081f3e0894"
+    },
+    {
+      "start_time": 877.33,
+      "end_time": 878.88,
+      "annotation": [
+        {
+          "text": "To myśmy wiedzieli o tym."
+        }
+      ],
+      "tags": [],
+      "uuid": "4bb6dffa-1681-4e53-b3b8-056cadda075d"
+    },
+    {
+      "start_time": 878.88,
+      "end_time": 881.09,
+      "annotation": [
+        {
+          "text": "Widzieliśmy nawet ogień, tak jak najbardziej."
+        }
+      ],
+      "tags": [],
+      "uuid": "3a67b0f1-7580-4e6f-9185-d5b43185c334"
+    },
+    {
+      "start_time": 881.09,
+      "end_time": 883.03,
+      "annotation": [
+        {
+          "text": "No ale to już ja nie brałem żadnego udziału."
+        }
+      ],
+      "tags": [],
+      "uuid": "96c466b0-d430-4722-965b-31920b5cf449"
+    },
+    {
+      "start_time": 883.03,
+      "end_time": 888.01,
+      "annotation": [
+        {
+          "text": "Oni mówili, Rosjanie co w tej chwili, mówi,\n“Wybuchło powstanie my nie pójdziemy pomóc.”"
+        }
+      ],
+      "tags": [],
+      "uuid": "2c95b070-eebb-4d2c-9630-353c81221646"
+    },
+    {
+      "start_time": 888.01,
+      "end_time": 891.35,
+      "annotation": [
+        {
+          "text": "Rozmawiałem nieraz z żołnierzami, mówię\n\"Dlaczego?\" Mówi “Nie, jak oni” - mówi -"
+        }
+      ],
+      "tags": [],
+      "uuid": "e8b478b2-4983-48fe-9918-c856c8c8bb93"
+    },
+    {
+      "start_time": 891.43,
+      "end_time": 894.34,
+      "annotation": [
+        {
+          "text": "“robią powstanie dlaczego my mamy iść\npomóc?” Taka była mowa."
+        }
+      ],
+      "tags": [],
+      "uuid": "85d280b3-3de4-4ccf-bb32-fbb132a7da3b"
+    },
+    {
+      "start_time": 895.49,
+      "end_time": 897.21,
+      "annotation": [
+        {
+          "text": "A kontakty z Warszawą były żadne?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e17098d6-6363-4405-9df6-a3a9bdf5837c"
+    },
+    {
+      "start_time": 897.21,
+      "end_time": 897.65,
+      "annotation": [
+        {
+          "text": "Znaczy z rodziną?"
+        }
+      ],
+      "tags": [],
+      "uuid": "54d1f280-0dc7-415f-8e1b-607ca76096bb"
+    },
+    {
+      "start_time": 897.65,
+      "end_time": 898.25,
+      "annotation": [
+        {
+          "text": "Absolutnie."
+        }
+      ],
+      "tags": [],
+      "uuid": "85a9937c-4a1e-4b35-919a-c3f6f41eab81"
+    },
+    {
+      "start_time": 898.25,
+      "end_time": 899.45,
+      "annotation": [
+        {
+          "text": "Nie wiedział pan"
+        }
+      ],
+      "tags": [],
+      "uuid": "35a1b281-e64e-4d5a-b715-f3270da5adad"
+    },
+    {
+      "start_time": 899.45,
+      "end_time": 903.5,
+      "annotation": [
+        {
+          "text": "Nic, nikogo nie widziałem w ogóle że w ogóle\nnawet nie wyobrażałam sobie kto w ogóle"
+        }
+      ],
+      "tags": [],
+      "uuid": "080756f1-a167-4ce7-8c1a-f9313a88677d"
+    },
+    {
+      "start_time": 903.5,
+      "end_time": 906.78,
+      "annotation": [
+        {
+          "text": "przeżył wojnę. Nie wyobrażałam sobie że ktoś\nw ogóle."
+        }
+      ],
+      "tags": [],
+      "uuid": "2e936e62-3b13-4a19-a173-2eb62368b74e"
+    },
+    {
+      "start_time": 906.78,
+      "end_time": 910.72,
+      "annotation": [
+        {
+          "text": "Bo przecież widziałem w jakich\nokolicznościach ja w ogóle byłem."
+        }
+      ],
+      "tags": [],
+      "uuid": "c5ec6005-cc3c-4288-b261-63e17d1c1b96"
+    },
+    {
+      "start_time": 910.72,
+      "end_time": 915.52,
+      "annotation": [
+        {
+          "text": "No każda chwila i każdy moment każdy każdy\nkażdy gest zdradził."
+        }
+      ],
+      "tags": [],
+      "uuid": "94fb7ae2-9875-4b3a-bcc3-6373ab116286"
+    },
+    {
+      "start_time": 915.52,
+      "end_time": 918.01,
+      "annotation": [
+        {
+          "text": "Każdy gest zdradził cię jako Żyd."
+        }
+      ],
+      "tags": [],
+      "uuid": "d4a5fb4c-cfa1-4a99-97f0-3f9284e28711"
+    },
+    {
+      "start_time": 918.01,
+      "end_time": 919.92,
+      "annotation": [
+        {
+          "text": "A za Żyda to groziła kara śmierci."
+        }
+      ],
+      "tags": [],
+      "uuid": "0722bffd-a6df-4d44-a586-25878b501349"
+    },
+    {
+      "start_time": 919.92,
+      "end_time": 924.85,
+      "annotation": [
+        {
+          "text": "Nie tylko tego tylko cała rodzina i były\ntakie miejscowości, między innymi opisuje"
+        }
+      ],
+      "tags": [],
+      "uuid": "4c898d4e-4ddc-4a37-a401-7979f774afaf"
+    },
+    {
+      "start_time": 925.21,
+      "end_time": 930.19,
+      "annotation": [
+        {
+          "text": "Bartoszewski w tej książce “Ten z Ojczyzny\nMojej” przecież dokładnie podaje, całe"
+        }
+      ],
+      "tags": [],
+      "uuid": "7e7fd3af-6d00-4b06-9c1f-e0f816104ff1"
+    },
+    {
+      "start_time": 930.32,
+      "end_time": 933.21,
+      "annotation": [
+        {
+          "text": "rodziny ginęły. Byli bardzo dobrzy ludzie."
+        }
+      ],
+      "tags": [],
+      "uuid": "f8f0d314-b8e4-4eeb-bc08-10c65d5690e1"
+    },
+    {
+      "start_time": 933.21,
+      "end_time": 934.45,
+      "annotation": [
+        {
+          "text": "Byli bardzo dobrzy ludzie."
+        }
+      ],
+      "tags": [],
+      "uuid": "9f2b3d35-7271-4e77-9f8e-37b4b9370000"
+    },
+    {
+      "start_time": 934.61,
+      "end_time": 940.5,
+      "annotation": [
+        {
+          "text": "Jeszcze raz podkreślam I jeszcze raz mówię,\npodkreślam że w Sokółce wtedy kiedy była ta"
+        }
+      ],
+      "tags": [],
+      "uuid": "dbf8c278-b288-49a7-9474-ad492f6a2410"
+    },
+    {
+      "start_time": 940.57,
+      "end_time": 946.32,
+      "annotation": [
+        {
+          "text": "armia radziecka pojechałam do Sokółki, tam\nteż po podobnie już byli jacyś Żydzi, kupić"
+        }
+      ],
+      "tags": [],
+      "uuid": "1ff20514-1716-4fa2-8141-9b7a8a14d5bf"
+    },
+    {
+      "start_time": 946.34,
+      "end_time": 948.93,
+      "annotation": [
+        {
+          "text": "sobie skóry na buty, cholewki."
+        }
+      ],
+      "tags": [],
+      "uuid": "3345705b-e4b2-4a49-836b-ec79f4a56236"
+    },
+    {
+      "start_time": 949.92,
+      "end_time": 954.58,
+      "annotation": [
+        {
+          "text": "To tam widziałam rodzinę, co Polak\nprzetrzymał tą żydowską rodzinę, a ten Żyd"
+        }
+      ],
+      "tags": [],
+      "uuid": "7e5e20ff-b01f-4575-acdc-10ff7a47e811"
+    },
+    {
+      "start_time": 954.58,
+      "end_time": 961.64,
+      "annotation": [
+        {
+          "text": "był w chałacie, tam z brodą, i ten Polak mu\ngotował mleczne oddzielnie i te i w ogóle te"
+        }
+      ],
+      "tags": [],
+      "uuid": "4c435f62-e8f1-4dda-a4e3-e309dc68f8bb"
+    },
+    {
+      "start_time": 961.64,
+      "end_time": 965.23,
+      "annotation": [
+        {
+          "text": "mięsne oddzielnie. To on to nie robił za\nżadne pieniądze."
+        }
+      ],
+      "tags": [],
+      "uuid": "75bcf5f0-aac1-4dab-84de-4fdb46af2a8a"
+    },
+    {
+      "start_time": 965.23,
+      "end_time": 969.36,
+      "annotation": [
+        {
+          "text": "Ja nie wierzę w to że człowiek mógłby coś\ntakiego ro… On to robił w imię wiary."
+        }
+      ],
+      "tags": [],
+      "uuid": "a62df889-626b-4d92-a21f-c0061ae044dc"
+    },
+    {
+      "start_time": 970.75,
+      "end_time": 973.57,
+      "annotation": [
+        {
+          "text": "On to robił w imię humanizmu, w imię wiary,\nten Polak."
+        }
+      ],
+      "tags": [],
+      "uuid": "ccdacc33-3d78-42ae-942b-5e73524c2e87"
+    },
+    {
+      "start_time": 973.62,
+      "end_time": 976.29,
+      "annotation": [
+        {
+          "text": "Ja rozmawiałem z nim i szkoda że nie znam\njego nazwisko."
+        }
+      ],
+      "tags": [],
+      "uuid": "8335e363-883b-4e44-a004-d67b3a284a5b"
+    },
+    {
+      "start_time": 976.29,
+      "end_time": 979.08,
+      "annotation": [
+        {
+          "text": "Na pewno już nie żyje bo to był starszy\nczłowiek."
+        }
+      ],
+      "tags": [],
+      "uuid": "a3d8a6b4-9141-4cba-9740-6688b6691634"
+    },
+    {
+      "start_time": 979.08,
+      "end_time": 981.14,
+      "annotation": [
+        {
+          "text": "Ale z tą rodziną żydowską też rozmawiałem."
+        }
+      ],
+      "tags": [],
+      "uuid": "9ce751a1-d897-4648-a7fa-27ae2631877a"
+    },
+    {
+      "start_time": 981.19,
+      "end_time": 983.54,
+      "annotation": [
+        {
+          "text": "To oni byli z Sokółki, z Sokółki, z tej\nmiejscowości."
+        }
+      ],
+      "tags": [],
+      "uuid": "c9f88e88-f662-4c9e-b578-1b15434d9b9e"
+    },
+    {
+      "start_time": 984.11,
+      "end_time": 989.09,
+      "annotation": [
+        {
+          "text": "Ale widziałem na własne oczy tego Żyda\nwidziałem, tą, tą Żydówkę i jedno dziecko."
+        }
+      ],
+      "tags": [],
+      "uuid": "b6080628-9178-4fb5-b2a5-a15a6f0bef3c"
+    },
+    {
+      "start_time": 989.09,
+      "end_time": 992.48,
+      "annotation": [
+        {
+          "text": "A dwoje dzieci im zginęło bo jakoś tam nie\nwiem w jakich okolicznościach."
+        }
+      ],
+      "tags": [],
+      "uuid": "4ca5bcb2-87a4-40f8-9df0-9cd4fdbd2f34"
+    },
+    {
+      "start_time": 992.95,
+      "end_time": 996.96,
+      "annotation": [
+        {
+          "text": "Ale charakterystyczne że ten Polak\nprzetrzymał tych Żydów w tym w tym właśnie"
+        }
+      ],
+      "tags": [],
+      "uuid": "6ff41216-0ee0-475b-a676-62534d8206bb"
+    },
+    {
+      "start_time": 997.07,
+      "end_time": 999.39,
+      "annotation": [
+        {
+          "text": "stroju."
+        }
+      ],
+      "tags": [],
+      "uuid": "37c0c3aa-8c55-40a0-bddd-9272f228537a"
+    },
+    {
+      "start_time": 999.39,
+      "end_time": 1003.73,
+      "annotation": [
+        {
+          "text": "Bo co innego przetrzymać tak jak mnie, czy\ninnego mniej więcej po europejsku co tam"
+        }
+      ],
+      "tags": [],
+      "uuid": "4a81ecfe-5018-4d3b-a4fe-39a2a490b3b0"
+    },
+    {
+      "start_time": 1003.73,
+      "end_time": 1008,
+      "annotation": [
+        {
+          "text": "mówię dobrze po polsku czy tak, czy inaczej\nmoże mniejsze ryzyko."
+        }
+      ],
+      "tags": [],
+      "uuid": "b58df3af-0b03-47c9-8143-a3a86f6245d5"
+    },
+    {
+      "start_time": 1008,
+      "end_time": 1011.53,
+      "annotation": [
+        {
+          "text": "Ale to to, to przecież było okropne ryzyko."
+        }
+      ],
+      "tags": [],
+      "uuid": "f5245595-7291-4d9d-b04e-f5c08238aeb8"
+    },
+    {
+      "start_time": 1011.53,
+      "end_time": 1018.27,
+      "annotation": [
+        {
+          "text": "A jednak nie obawiał się bo on mówił \"Ja to\nrobiłem w imię wiary.\" Tak do mnie ten Polak"
+        }
+      ],
+      "tags": [],
+      "uuid": "695fd70a-f1f1-4424-90ae-63b36f52d498"
+    },
+    {
+      "start_time": 1018.27,
+      "end_time": 1022.38,
+      "annotation": [
+        {
+          "text": "mówił. Sokółka to jest gdzieś tam w\nbiałostockim, ta miejscowość jest."
+        }
+      ],
+      "tags": [],
+      "uuid": "0b695883-075d-49a9-ad6c-40912a7f1f41"
+    },
+    {
+      "start_time": 1022.38,
+      "end_time": 1025.47,
+      "annotation": [
+        {
+          "text": "Na pewno to jest w historii to nie ulega\nżadnej wątpliwości że to jest."
+        }
+      ],
+      "tags": [],
+      "uuid": "e6d3dd35-ea71-4dab-92bb-cef5d0791776"
+    },
+    {
+      "start_time": 1025.47,
+      "end_time": 1032.47,
+      "annotation": [
+        {
+          "text": "Pan powiedział wcześniej o spotkaniu z bratem\ni z siostrą że ich pan spotkał?"
+        }
+      ],
+      "tags": [],
+      "uuid": "ef58707a-0f2a-4f5f-bc47-101e4bd650ae"
+    },
+    {
+      "start_time": 1032.47,
+      "end_time": 1035.9,
+      "annotation": [
+        {
+          "text": "W czterdziestym, tak spotkałem się z bratem,\nno niestety brat"
+        }
+      ],
+      "tags": [],
+      "uuid": "a98333a7-deca-4f3e-ad62-bfbdcff2d7b5"
+    },
+    {
+      "start_time": 1035.9,
+      "end_time": 1037.26,
+      "annotation": [
+        {
+          "text": "W którym roku to było?"
+        }
+      ],
+      "tags": [],
+      "uuid": "41bddc4d-8f3a-4225-832c-39713994a0bb"
+    },
+    {
+      "start_time": 1037.26,
+      "end_time": 1039.12,
+      "annotation": [
+        {
+          "text": "No to był, wtedy byłem w Ostrowie."
+        }
+      ],
+      "tags": [],
+      "uuid": "481a7c96-1414-4588-85f5-c0e1731e17b4"
+    },
+    {
+      "start_time": 1039.12,
+      "end_time": 1040.49,
+      "annotation": [
+        {
+          "text": "Też u kogoś tam szyłem czy u Cwyla."
+        }
+      ],
+      "tags": [],
+      "uuid": "45c5d08b-994f-4dda-91fb-f4e5a02e8e25"
+    },
+    {
+      "start_time": 1040.49,
+      "end_time": 1043.41,
+      "annotation": [
+        {
+          "text": "Przyszedł do mnie on wiedział że ja jestem w\ntej wsi bo myśmy się"
+        }
+      ],
+      "tags": [],
+      "uuid": "1e297d52-c694-43e8-9ca6-a0e6f8c5572e"
+    },
+    {
+      "start_time": 1043.41,
+      "end_time": 1046.18,
+      "annotation": [
+        {
+          "text": "A kiedy to było, w czterdziestym którym roku?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c4ae7ba9-4c0a-494d-9eed-757761812c8e"
+    },
+    {
+      "start_time": 1046.18,
+      "end_time": 1047.73,
+      "annotation": [
+        {
+          "text": "W czterdziestym trzecim roku."
+        }
+      ],
+      "tags": [],
+      "uuid": "2c138e96-bead-4a9d-97c3-f4e99c4d93bf"
+    },
+    {
+      "start_time": 1047.73,
+      "end_time": 1048.48,
+      "annotation": [
+        {
+          "text": "Trzecim roku?"
+        }
+      ],
+      "tags": [],
+      "uuid": "d4a35afb-17ae-4b49-87c5-4f152064ae6c"
+    },
+    {
+      "start_time": 1048.48,
+      "end_time": 1049.79,
+      "annotation": [
+        {
+          "text": "Tak, tak, to on gdzieś tam wędrował"
+        }
+      ],
+      "tags": [],
+      "uuid": "2314904d-9d32-455c-bcc8-441ac5048d0e"
+    },
+    {
+      "start_time": 1049.79,
+      "end_time": 1051.66,
+      "annotation": [
+        {
+          "text": "Po powstaniu już w Getcie Warszawskim czy\njeszcze wcześniej?"
+        }
+      ],
+      "tags": [],
+      "uuid": "ba32e34f-20a7-44e3-8b26-7db4cadb5109"
+    },
+    {
+      "start_time": 1051.69,
+      "end_time": 1054.44,
+      "annotation": [
+        {
+          "text": "Po, po, już po powstaniu."
+        }
+      ],
+      "tags": [],
+      "uuid": "09638964-03df-4154-af52-6e44194153a9"
+    },
+    {
+      "start_time": 1054.44,
+      "end_time": 1057.56,
+      "annotation": [
+        {
+          "text": "Tak, bo jeszcze tego przyszedł do mnie"
+        }
+      ],
+      "tags": [],
+      "uuid": "d3a38004-f048-4376-82f2-a32adc1a1152"
+    },
+    {
+      "start_time": 1057.56,
+      "end_time": 1059.38,
+      "annotation": [
+        {
+          "text": "Tylko pan nie widział brata ile?"
+        }
+      ],
+      "tags": [],
+      "uuid": "59828e58-dcc7-4f70-a406-fd7e345e6c4e"
+    },
+    {
+      "start_time": 1059.38,
+      "end_time": 1060.44,
+      "annotation": [
+        {
+          "text": "Przeszło rok wtedy, prawda?"
+        }
+      ],
+      "tags": [],
+      "uuid": "ab4c08fd-f219-471a-b2fd-eb6f4bd62933"
+    },
+    {
+      "start_time": 1060.91,
+      "end_time": 1062.02,
+      "annotation": [
+        {
+          "text": "Wtedy?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8cede16c-29ea-4e81-8e65-7d635c70f305"
+    },
+    {
+      "start_time": 1062.02,
+      "end_time": 1066.37,
+      "annotation": [
+        {
+          "text": "Nie, widziałem go, bo on był tak samo w tym,\non był w Magnuszewie, w getcie też u mnie był"
+        }
+      ],
+      "tags": [],
+      "uuid": "a529ae1b-7131-4e15-8523-03c2a26075ba"
+    },
+    {
+      "start_time": 1066.37,
+      "end_time": 1069.72,
+      "annotation": [
+        {
+          "text": ". Tylko on ze mną razem nie był bo on szedł\nbliżej Góry Kalwarii wtedy on miał tą okolice"
+        }
+      ],
+      "tags": [],
+      "uuid": "895ecb71-0b5b-4848-9a64-9fc65a759378"
+    },
+    {
+      "start_time": 1069.72,
+      "end_time": 1070.04,
+      "annotation": [
+        {
+          "text": "tutaj."
+        }
+      ],
+      "tags": [],
+      "uuid": "5c5e9306-587a-424b-b41c-8cf309f89a52"
+    },
+    {
+      "start_time": 1070.04,
+      "end_time": 1072.5,
+      "annotation": [
+        {
+          "text": "Ale brat był poprzednio w getcie warszawskim?"
+        }
+      ],
+      "tags": [],
+      "uuid": "6daaef6c-01c8-42cf-b86e-cfb835d19b7c"
+    },
+    {
+      "start_time": 1072.5,
+      "end_time": 1074.76,
+      "annotation": [
+        {
+          "text": "W getcie warszawskim."
+        }
+      ],
+      "tags": [],
+      "uuid": "33aaf184-11c6-4a48-989b-16300c081a2f"
+    },
+    {
+      "start_time": 1074.76,
+      "end_time": 1077.78,
+      "annotation": [
+        {
+          "text": "Stamtąd uciekł ale wiedział że ja jestem."
+        }
+      ],
+      "tags": [],
+      "uuid": "32307d2c-3dc4-41bb-bb6d-1a4bb501ab91"
+    },
+    {
+      "start_time": 1077.78,
+      "end_time": 1081.41,
+      "annotation": [
+        {
+          "text": "Magnuszew jest prowincja tak samo, no co\nprzyszedł i myśmy rozmawiali."
+        }
+      ],
+      "tags": [],
+      "uuid": "6b0d8b4a-67a9-4c09-aca4-066856ee02f8"
+    },
+    {
+      "start_time": 1081.41,
+      "end_time": 1082.8,
+      "annotation": [
+        {
+          "text": "I on szedł tutaj gdzieś tam."
+        }
+      ],
+      "tags": [],
+      "uuid": "6d4f6e9d-7997-490d-86e4-f5cb3621048a"
+    },
+    {
+      "start_time": 1082.8,
+      "end_time": 1088.69,
+      "annotation": [
+        {
+          "text": "Ukrywał się tu u chłopów, szył, czyli nie\nszył tylko tym, robił te, te, prace rymarskie"
+        }
+      ],
+      "tags": [],
+      "uuid": "73cd6137-48e5-49bb-af17-590179e9bdab"
+    },
+    {
+      "start_time": 1088.69,
+      "end_time": 1093.07,
+      "annotation": [
+        {
+          "text": ". A siostry, z siostrą nie widziałem się\ndopiero widziałem się wtedy w tym, w"
+        }
+      ],
+      "tags": [],
+      "uuid": "3554873f-e58c-413b-ba53-6ed118db9018"
+    },
+    {
+      "start_time": 1093.07,
+      "end_time": 1093.91,
+      "annotation": [
+        {
+          "text": "Głowaczewie, przed wysiedleniem."
+        }
+      ],
+      "tags": [],
+      "uuid": "877a98ff-7eef-499b-b242-0b868edf9fd0"
+    },
+    {
+      "start_time": 1093.91,
+      "end_time": 1098.97,
+      "annotation": [
+        {
+          "text": "To proszę powiedzieć, a z bratem, brat panu\nopowiadał o sytuacji w getcie?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c28874e1-1428-4979-9bdc-5cabe458c86a"
+    },
+    {
+      "start_time": 1099.07,
+      "end_time": 1101.7,
+      "annotation": [
+        {
+          "text": "Tak. Był u mnie, tak, i przyszedł on do mnie\nw tym 43."
+        }
+      ],
+      "tags": [],
+      "uuid": "4fade256-c849-4865-a11c-5be2a83ad5e9"
+    },
+    {
+      "start_time": 1101.7,
+      "end_time": 1106.29,
+      "annotation": [
+        {
+          "text": "roku, może jakiś tam miesiąc przed śmiercią\nczy dwa miesiące, myśmy rozmawiali."
+        }
+      ],
+      "tags": [],
+      "uuid": "f7de21f7-262c-4f7c-ad1a-21a70d6195d2"
+    },
+    {
+      "start_time": 1106.29,
+      "end_time": 1107.88,
+      "annotation": [
+        {
+          "text": "No i co do, mówi, no i co."
+        }
+      ],
+      "tags": [],
+      "uuid": "06247688-4bb6-4b46-93e1-953ce4f3abe3"
+    },
+    {
+      "start_time": 1107.88,
+      "end_time": 1113.75,
+      "annotation": [
+        {
+          "text": "Ja nie mogłem go utrzymać bo dzięki bo oni\nmnie z ledwością mnie utrzymali ci ludzie."
+        }
+      ],
+      "tags": [],
+      "uuid": "e530546f-6692-4a11-a5be-820c561d398d"
+    },
+    {
+      "start_time": 1113.75,
+      "end_time": 1116.98,
+      "annotation": [
+        {
+          "text": "Bo żebyśmy gdyby ich było w lecie to co\ninnego to było zimową porą."
+        }
+      ],
+      "tags": [],
+      "uuid": "cc904f5c-158f-4406-be81-0f3591a2651b"
+    },
+    {
+      "start_time": 1117.61,
+      "end_time": 1121.86,
+      "annotation": [
+        {
+          "text": "Więc on poszedł. Myśmy się pożegnali ze\nłzami w oczach."
+        }
+      ],
+      "tags": [],
+      "uuid": "a57bee84-eec5-4f16-a63c-6d1a1d5a7c52"
+    },
+    {
+      "start_time": 1121.97,
+      "end_time": 1126.41,
+      "annotation": [
+        {
+          "text": "Później dowiedziałem się bo mnie mówiła\nsąsiadka że jego Jerke [?] Niemiec"
+        }
+      ],
+      "tags": [],
+      "uuid": "1bd1e566-7fea-40fd-b845-531af572ea5b"
+    },
+    {
+      "start_time": 1126.41,
+      "end_time": 1130.57,
+      "annotation": [
+        {
+          "text": "wyprowadził go na cmentarz i tam go zabili w\nGórze Kalwarii na żydowskim cmentarzu."
+        }
+      ],
+      "tags": [],
+      "uuid": "8fb7b381-40a0-4951-bdae-0416b4058e2a"
+    },
+    {
+      "start_time": 1130.57,
+      "end_time": 1136.58,
+      "annotation": [
+        {
+          "text": "I tam zrobiłem teraz symboliczny grób, jest\ntam dla matki, dla siostry i dla brata."
+        }
+      ],
+      "tags": [],
+      "uuid": "0d62c95b-c1b7-4959-8608-02cf4d0b6343"
+    },
+    {
+      "start_time": 1136.58,
+      "end_time": 1137.82,
+      "annotation": [
+        {
+          "text": "Jest."
+        }
+      ],
+      "tags": [],
+      "uuid": "9025a9c0-e206-4a6a-9ae1-29a9ae5e4c69"
+    },
+    {
+      "start_time": 1137.82,
+      "end_time": 1138.38,
+      "annotation": [
+        {
+          "text": "Jest postawiony."
+        }
+      ],
+      "tags": [],
+      "uuid": "4c0319f3-226c-466a-9fce-cbdb8c4f64a0"
+    },
+    {
+      "start_time": 1139.56,
+      "end_time": 1141.34,
+      "annotation": [
+        {
+          "text": "Bo siostry nie spotkał już później?"
+        }
+      ],
+      "tags": [],
+      "uuid": "01b99cf0-b085-4df6-b41a-d067b5944fcc"
+    },
+    {
+      "start_time": 1141.38,
+      "end_time": 1142.63,
+      "annotation": [
+        {
+          "text": "Nie, już później siostry nie spotkałem."
+        }
+      ],
+      "tags": [],
+      "uuid": "60946c43-374d-4efc-9a9d-d16738c2894c"
+    },
+    {
+      "start_time": 1143.32,
+      "end_time": 1147.99,
+      "annotation": [
+        {
+          "text": "Dobrze. To wróćmy teraz do tego okresu że pan\njest wyzwolony przez Armię Radziecką i pan"
+        }
+      ],
+      "tags": [],
+      "uuid": "5ef8a6b9-33d5-4543-8dc5-7e05de72b9a8"
+    },
+    {
+      "start_time": 1148.76,
+      "end_time": 1151.2,
+      "annotation": [
+        {
+          "text": "jest u nich no jako żołnierz?"
+        }
+      ],
+      "tags": [],
+      "uuid": "1d77a329-b0eb-4296-8d10-9a5a54a45c5d"
+    },
+    {
+      "start_time": 1151.24,
+      "end_time": 1153.22,
+      "annotation": [
+        {
+          "text": "Tak, jako taki, nie jako żołnierz."
+        }
+      ],
+      "tags": [],
+      "uuid": "2ccb2712-698b-44f9-bbab-333992e0c1b9"
+    },
+    {
+      "start_time": 1153.22,
+      "end_time": 1153.93,
+      "annotation": [
+        {
+          "text": "Jako cywilny, tak."
+        }
+      ],
+      "tags": [],
+      "uuid": "bd483b1f-227f-4368-ac5d-a9cbf1efc7e6"
+    },
+    {
+      "start_time": 1153.98,
+      "end_time": 1155.48,
+      "annotation": [
+        {
+          "text": "Normalnie jako cywil."
+        }
+      ],
+      "tags": [],
+      "uuid": "fc02d4b4-6b55-453f-ae26-80c7e1c15bf0"
+    },
+    {
+      "start_time": 1155.48,
+      "end_time": 1160.95,
+      "annotation": [
+        {
+          "text": "Tylko tak nie miałam ubrania więc dali mnie\ntam jakąś tam węgierki jakieś tam ja sobie"
+        }
+      ],
+      "tags": [],
+      "uuid": "6d57c314-30ab-48ab-b684-0a59efc1cb3b"
+    },
+    {
+      "start_time": 1160.95,
+      "end_time": 1163.83,
+      "annotation": [
+        {
+          "text": "przerobiłem wszystko i miałem, sobie\nporobiłem te"
+        }
+      ],
+      "tags": [],
+      "uuid": "45f8b2a2-cfe1-4762-b667-19aa96f5c1a6"
+    },
+    {
+      "start_time": 1164.24,
+      "end_time": 1169.82,
+      "annotation": [
+        {
+          "text": "Znaczy ludzie mówią, znaczy Żydzi, jak już\nwyszło jak było już wyzwolenie, aczkolwiek to"
+        }
+      ],
+      "tags": [],
+      "uuid": "eaad76a7-234a-443c-a68a-afc0621a34f0"
+    },
+    {
+      "start_time": 1169.82,
+      "end_time": 1172.38,
+      "annotation": [
+        {
+          "text": "oni głównie mówią o tym wyzwoleniu w 45."
+        }
+      ],
+      "tags": [],
+      "uuid": "b719e5c4-27f0-40cb-85e2-ef2a1b7dfb8e"
+    },
+    {
+      "start_time": 1172.38,
+      "end_time": 1178.05,
+      "annotation": [
+        {
+          "text": "roku od Niemców, że wielu z nich miało takie\nuczucie że jakby są jedynymi Żydami którzy"
+        }
+      ],
+      "tags": [],
+      "uuid": "36db71c6-a61e-459c-a767-4790a7359149"
+    },
+    {
+      "start_time": 1178.05,
+      "end_time": 1178.76,
+      "annotation": [
+        {
+          "text": "pozostali na świecie"
+        }
+      ],
+      "tags": [],
+      "uuid": "00723581-ac8c-4af2-b81a-bab2e2fbd91e"
+    },
+    {
+      "start_time": 1178.76,
+      "end_time": 1179.76,
+      "annotation": [
+        {
+          "text": "Tak, tak, tak, jak i ja."
+        }
+      ],
+      "tags": [],
+      "uuid": "134805b3-cc0c-4a3a-8d84-a65d8bd3fd9d"
+    },
+    {
+      "start_time": 1179.76,
+      "end_time": 1181.34,
+      "annotation": [
+        {
+          "text": "Pan również miał takie uczucie?"
+        }
+      ],
+      "tags": [],
+      "uuid": "4ca7f0b5-23f1-4d19-8eae-c540c6e5d96e"
+    },
+    {
+      "start_time": 1181.39,
+      "end_time": 1184.19,
+      "annotation": [
+        {
+          "text": "To samo, również. Tak samo identycznie."
+        }
+      ],
+      "tags": [],
+      "uuid": "c0c60967-1db0-4c01-9953-634e801c8fe6"
+    },
+    {
+      "start_time": 1184.19,
+      "end_time": 1187.85,
+      "annotation": [
+        {
+          "text": "W ogóle nawet nie wyobrażałam sobie że\njeszcze gdziekolwiek w ogóle po takim"
+        }
+      ],
+      "tags": [],
+      "uuid": "3cb841ed-c2ba-436a-8140-b4a12d646fdb"
+    },
+    {
+      "start_time": 1187.85,
+      "end_time": 1191.97,
+      "annotation": [
+        {
+          "text": "Holokauście w ogóle nawet nie myślałem że\nsię ktokolwiek mógł się tak ukryć."
+        }
+      ],
+      "tags": [],
+      "uuid": "ef3c2ea8-98d3-4a89-a42e-d51cdb57ec7b"
+    },
+    {
+      "start_time": 1191.97,
+      "end_time": 1197.68,
+      "annotation": [
+        {
+          "text": "Bo nawet ci co w ogóle nie przeżyli to to\noni nawet nie wyobrażają sobie bo się nieraz"
+        }
+      ],
+      "tags": [],
+      "uuid": "e9cb46ea-c717-4fd2-a5ae-50aa349f3031"
+    },
+    {
+      "start_time": 1197.68,
+      "end_time": 1200.66,
+      "annotation": [
+        {
+          "text": "mówi to tamto, dlaczego to, dlaczego tamto."
+        }
+      ],
+      "tags": [],
+      "uuid": "f556b9ff-809a-4ce0-8532-1d7f7b88b20c"
+    },
+    {
+      "start_time": 1201.1,
+      "end_time": 1205.47,
+      "annotation": [
+        {
+          "text": "Przecież po prostu o ile nawet te obozy były\nrobione w Polsce to przecież nie Polacy są"
+        }
+      ],
+      "tags": [],
+      "uuid": "403c8547-896a-43a3-ba37-98e123e42088"
+    },
+    {
+      "start_time": 1205.47,
+      "end_time": 1210.94,
+      "annotation": [
+        {
+          "text": "winni. Niech raz na zawsze ci Żydzi, ci\nwszyscy co w ogóle są bo w narodzie żydowskim"
+        }
+      ],
+      "tags": [],
+      "uuid": "5e7727fa-42ab-4dd9-9fa0-fcc16e5802b0"
+    },
+    {
+      "start_time": 1210.94,
+      "end_time": 1212.15,
+      "annotation": [
+        {
+          "text": "też są nacjonaliści."
+        }
+      ],
+      "tags": [],
+      "uuid": "788e81d9-97b1-42c9-bb50-bc301fc6d116"
+    },
+    {
+      "start_time": 1212.15,
+      "end_time": 1215.13,
+      "annotation": [
+        {
+          "text": "Są po prostu nawet i szowiniści są, no mówmy\nsobie prawdę."
+        }
+      ],
+      "tags": [],
+      "uuid": "6984fc96-2888-4678-a26c-6a79857f8817"
+    },
+    {
+      "start_time": 1215.47,
+      "end_time": 1219.9,
+      "annotation": [
+        {
+          "text": "Może do, nie do tego stopnia co w innym\nnarodzie, bo Żyd nigdy nie napadnie na nikogo"
+        }
+      ],
+      "tags": [],
+      "uuid": "eb68a78e-7b1d-4052-94a4-f8b9b2cfb0bb"
+    },
+    {
+      "start_time": 1219.9,
+      "end_time": 1221.38,
+      "annotation": [
+        {
+          "text": ". I to jest inna sprawa."
+        }
+      ],
+      "tags": [],
+      "uuid": "14e4681f-a906-46d0-a1a5-7a28baf47d24"
+    },
+    {
+      "start_time": 1221.38,
+      "end_time": 1222.76,
+      "annotation": [
+        {
+          "text": "Ale są, są nacjonaliści."
+        }
+      ],
+      "tags": [],
+      "uuid": "b917eee4-c735-45d5-8e06-f7ef69e92f0a"
+    },
+    {
+      "start_time": 1222.76,
+      "end_time": 1224.18,
+      "annotation": [
+        {
+          "text": "Co oni myślą że tak i tak."
+        }
+      ],
+      "tags": [],
+      "uuid": "ff8a5644-af9d-47d3-83f0-be599807c8d8"
+    },
+    {
+      "start_time": 1224.18,
+      "end_time": 1225.53,
+      "annotation": [
+        {
+          "text": "A to nie jest tak."
+        }
+      ],
+      "tags": [],
+      "uuid": "e67e8907-9f2b-43e7-97de-63284c7b9727"
+    },
+    {
+      "start_time": 1225.53,
+      "end_time": 1230.97,
+      "annotation": [
+        {
+          "text": "Bo to przecież po prostu jeżeli wiedząc o tym\njak taka rodzina polska wiedziała o tym że"
+        }
+      ],
+      "tags": [],
+      "uuid": "35a6062c-113d-4e1f-8059-2bf14ad126b3"
+    },
+    {
+      "start_time": 1230.97,
+      "end_time": 1237.21,
+      "annotation": [
+        {
+          "text": "jej grozi śmierć, czy w ogóle kto by w ogóle\nchciał przyjąć?"
+        }
+      ],
+      "tags": [],
+      "uuid": "f6188d23-e9a4-4f3b-b778-256cfb4b7c14"
+    },
+    {
+      "start_time": 1237.21,
+      "end_time": 1241.48,
+      "annotation": [
+        {
+          "text": "To właśnie my Żydzi cośmy tu przeżyli mówimy\no tym bo my to znamy, myśmy to wiedzieli a w"
+        }
+      ],
+      "tags": [],
+      "uuid": "450a6e77-bfc0-41ab-a526-194e1abc4af2"
+    },
+    {
+      "start_time": 1241.64,
+      "end_time": 1246.24,
+      "annotation": [
+        {
+          "text": "dodatku ja jako starszy człowiek to mówię\npełną świadomością bo ja wiem o tym."
+        }
+      ],
+      "tags": [],
+      "uuid": "c3233bfe-3f78-4201-a804-0bf9944dbc2a"
+    },
+    {
+      "start_time": 1246.24,
+      "end_time": 1251.58,
+      "annotation": [
+        {
+          "text": "I dlatego niech się tamci nie dziwią że oni\nmają pretensję do tego czy do tamtego."
+        }
+      ],
+      "tags": [],
+      "uuid": "5567f5f0-f8e2-4171-8759-188b7376b036"
+    },
+    {
+      "start_time": 1251.58,
+      "end_time": 1256.14,
+      "annotation": [
+        {
+          "text": "No ja znowuż nie chcę już do tego stopnia\nmówić a ja zadaję znowuż pytanie bo ja"
+        }
+      ],
+      "tags": [],
+      "uuid": "a6c4f0ef-552b-4708-9267-804617290ec7"
+    },
+    {
+      "start_time": 1256.31,
+      "end_time": 1261.77,
+      "annotation": [
+        {
+          "text": "ponieważ mówię obiektywnie dlatego ja zadaję\npytanie Żydom, tym wszystkim co tak mówią:"
+        }
+      ],
+      "tags": [],
+      "uuid": "62a12456-c89f-4761-8022-90079f46966c"
+    },
+    {
+      "start_time": 1261.96,
+      "end_time": 1264.25,
+      "annotation": [
+        {
+          "text": "czy oni by chcieli ryzykować w ten sposób?"
+        }
+      ],
+      "tags": [],
+      "uuid": "201175d8-e696-443a-a3c9-df5fd853a534"
+    },
+    {
+      "start_time": 1264.25,
+      "end_time": 1268.77,
+      "annotation": [
+        {
+          "text": "Zabrać Polaka do siebie wtedy, wiedząc o tym\nże nie chodzi o ża… gdyby nie groziła śmierć."
+        }
+      ],
+      "tags": [],
+      "uuid": "cb6d3644-8e8d-4199-ac1b-43d8d3b401d0"
+    },
+    {
+      "start_time": 1268.77,
+      "end_time": 1275.23,
+      "annotation": [
+        {
+          "text": "To słowo podkreślam śmierć to może by się\nbyło bardzo dużo bo Żydzi bardzo dobrze żyli"
+        }
+      ],
+      "tags": [],
+      "uuid": "ea4ebc8f-1d7a-47e3-9efc-f4b82b6dc076"
+    },
+    {
+      "start_time": 1275.23,
+      "end_time": 1277.25,
+      "annotation": [
+        {
+          "text": "z Polakami, Polacy z Żydami przed wojną."
+        }
+      ],
+      "tags": [],
+      "uuid": "79bbaaf8-e2e8-4801-ada9-d69ed3ccd4bc"
+    },
+    {
+      "start_time": 1277.7,
+      "end_time": 1282.2,
+      "annotation": [
+        {
+          "text": "Handlowali razem ze sobą, prowadzili\ninteresa, byli nawet bardzo zadowoleni."
+        }
+      ],
+      "tags": [],
+      "uuid": "581d1d2a-34aa-4b55-8856-dc7f69586838"
+    },
+    {
+      "start_time": 1283.11,
+      "end_time": 1286.98,
+      "annotation": [
+        {
+          "text": "Ale wtedy kiedy grozi śmierć, jest w ogóle\nwyższa cena aniżeli śmierć?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8a1118e5-5e3e-4c0b-9172-1db66f16785c"
+    },
+    {
+      "start_time": 1287.75,
+      "end_time": 1292.62,
+      "annotation": [
+        {
+          "text": "A jeżeli oni to robili, nawet ta Pokorska\nktóra mnie wzięła ta mama która miała tyle"
+        }
+      ],
+      "tags": [],
+      "uuid": "cf391473-2b70-46da-830b-869080ef7306"
+    },
+    {
+      "start_time": 1292.93,
+      "end_time": 1300.19,
+      "annotation": [
+        {
+          "text": "dzieci. Raz, dwa, trzy cztery, sześcioro\ndzieci."
+        }
+      ],
+      "tags": [],
+      "uuid": "16f1ef70-941e-4a2a-9220-3a42157dd7cc"
+    },
+    {
+      "start_time": 1300.19,
+      "end_time": 1304.21,
+      "annotation": [
+        {
+          "text": "Ryzykując w ogóle nawet, miałem ten dowód ale\nkoniec z końcem ktoś mógł powiedzieć że"
+        }
+      ],
+      "tags": [],
+      "uuid": "adb0eae0-0f74-4ecd-852a-d65433faf309"
+    },
+    {
+      "start_time": 1304.21,
+      "end_time": 1305.26,
+      "annotation": [
+        {
+          "text": "wiedziała że jestem Żydem."
+        }
+      ],
+      "tags": [],
+      "uuid": "5b6b7ddf-62b7-4223-81e7-ba1012de193f"
+    },
+    {
+      "start_time": 1306.34,
+      "end_time": 1311.88,
+      "annotation": [
+        {
+          "text": "Jeżeli ja [inaudible] czy ja nie mam ten\nsentyment do dnia dzisiejszego dla tej osoby?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cda96a2e-5d9c-4343-a2e7-28333d822dee"
+    },
+    {
+      "start_time": 1312.07,
+      "end_time": 1313.76,
+      "annotation": [
+        {
+          "text": "To jest dla mnie mama."
+        }
+      ],
+      "tags": [],
+      "uuid": "9a0e456e-acf0-4b9d-b87d-84a9cab1d5d3"
+    },
+    {
+      "start_time": 1313.76,
+      "end_time": 1317.75,
+      "annotation": [
+        {
+          "text": "Ja prosiłem po wszystkim mówię ma… pozwól\nnazwać się mamą."
+        }
+      ],
+      "tags": [],
+      "uuid": "5978693c-3871-4cbc-8214-5bf21a50f745"
+    },
+    {
+      "start_time": 1317.75,
+      "end_time": 1319.79,
+      "annotation": [
+        {
+          "text": "To jest druga moja mama."
+        }
+      ],
+      "tags": [],
+      "uuid": "3dadc8c1-6682-4a19-8e6c-e97a1f66209b"
+    },
+    {
+      "start_time": 1319.79,
+      "end_time": 1321.95,
+      "annotation": [
+        {
+          "text": "I to tym niech Żydzi pamiętają o tym."
+        }
+      ],
+      "tags": [],
+      "uuid": "15d87e45-3326-49c3-85b9-dad08ec6579b"
+    },
+    {
+      "start_time": 1321.95,
+      "end_time": 1326.49,
+      "annotation": [
+        {
+          "text": "Co w ogóle rozumują ten, co zobaczą ten\nfilm, to niech przyjmą to do wiadomości."
+        }
+      ],
+      "tags": [],
+      "uuid": "bd8562e3-0115-47d9-a68b-694bc14d8b22"
+    },
+    {
+      "start_time": 1326.49,
+      "end_time": 1328.03,
+      "annotation": [
+        {
+          "text": "Niech nie mają żadnej pretensji."
+        }
+      ],
+      "tags": [],
+      "uuid": "fd3b6bbc-a08d-493b-9535-6bd28d17cd04"
+    },
+    {
+      "start_time": 1328.03,
+      "end_time": 1331.6,
+      "annotation": [
+        {
+          "text": "No owszem były fakty, byli szmalcownicy,\nbyli."
+        }
+      ],
+      "tags": [],
+      "uuid": "df040665-09c3-401e-b611-9d6e06538540"
+    },
+    {
+      "start_time": 1331.6,
+      "end_time": 1336.33,
+      "annotation": [
+        {
+          "text": "Trzeba powiedzieć prawdę ponieważ ja mówię\nobiektywnie, mówię prawdę."
+        }
+      ],
+      "tags": [],
+      "uuid": "186b5fd2-7e64-4773-bbe9-35391bfe4e13"
+    },
+    {
+      "start_time": 1336.33,
+      "end_time": 1342.22,
+      "annotation": [
+        {
+          "text": "Byli, byli co w ogóle przetrzymali Żydów,\nznam takie fakt w tym, Ryczywół."
+        }
+      ],
+      "tags": [],
+      "uuid": "7929c3d1-5a48-41df-b48f-65e457ae9c6d"
+    },
+    {
+      "start_time": 1343.34,
+      "end_time": 1345.57,
+      "annotation": [
+        {
+          "text": "Zamordowali tam dwoje Żydów."
+        }
+      ],
+      "tags": [],
+      "uuid": "cfab29e4-c571-43f3-90ac-dd9dca4e1111"
+    },
+    {
+      "start_time": 1345.57,
+      "end_time": 1347.68,
+      "annotation": [
+        {
+          "text": "Nie kto inny nie tylko Polacy z Ryczywoła."
+        }
+      ],
+      "tags": [],
+      "uuid": "6584a60f-5038-4d26-a683-7277f5fb524f"
+    },
+    {
+      "start_time": 1347.98,
+      "end_time": 1349.61,
+      "annotation": [
+        {
+          "text": "Jak pan zna ten fakt?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a8180473-1f0d-4906-9cd2-8272cc9b411c"
+    },
+    {
+      "start_time": 1349.61,
+      "end_time": 1350.83,
+      "annotation": [
+        {
+          "text": "W jaki sposób?"
+        }
+      ],
+      "tags": [],
+      "uuid": "1138427b-c070-4fd0-b373-1232a93782f0"
+    },
+    {
+      "start_time": 1350.83,
+      "end_time": 1352.4,
+      "annotation": [
+        {
+          "text": "Skąd? Bo oni byli razem w Magnuszewie."
+        }
+      ],
+      "tags": [],
+      "uuid": "72e1c64c-a140-40bb-ac44-6e6b9c217ce2"
+    },
+    {
+      "start_time": 1352.4,
+      "end_time": 1354.24,
+      "annotation": [
+        {
+          "text": "Byli wysie… bo oni mieszkali w Magnuszewie."
+        }
+      ],
+      "tags": [],
+      "uuid": "718de30a-c8c8-48ba-a7d6-284616504a1d"
+    },
+    {
+      "start_time": 1354.24,
+      "end_time": 1356.65,
+      "annotation": [
+        {
+          "text": "Byli wysiedleni do Kozienic, tak samo jak i\nja."
+        }
+      ],
+      "tags": [],
+      "uuid": "d7691359-7d00-453a-8220-c7c83b3c0029"
+    },
+    {
+      "start_time": 1356.65,
+      "end_time": 1358.78,
+      "annotation": [
+        {
+          "text": "Oni zostali w Ryczywole."
+        }
+      ],
+      "tags": [],
+      "uuid": "97649f97-c85c-4338-bdd4-bf46754bb920"
+    },
+    {
+      "start_time": 1358.78,
+      "end_time": 1361.99,
+      "annotation": [
+        {
+          "text": "Czy ci dwaj bo oni tam mieli jakiś tam\ninteres czy coś takiego."
+        }
+      ],
+      "tags": [],
+      "uuid": "31033601-b57b-4971-a843-eaf0fcd9abec"
+    },
+    {
+      "start_time": 1362.52,
+      "end_time": 1365.34,
+      "annotation": [
+        {
+          "text": "I później więcej się nie pokazywali."
+        }
+      ],
+      "tags": [],
+      "uuid": "61d6d235-4535-4079-8bf3-567789977aae"
+    },
+    {
+      "start_time": 1365.34,
+      "end_time": 1369.27,
+      "annotation": [
+        {
+          "text": "I wiadomo było, jeden na drugiego mówił że\nten zamordował ten zamordował."
+        }
+      ],
+      "tags": [],
+      "uuid": "dd2e31dd-4636-4c69-ac15-12b991ce6d4c"
+    },
+    {
+      "start_time": 1369.27,
+      "end_time": 1370.42,
+      "annotation": [
+        {
+          "text": "To są fakty życiowe."
+        }
+      ],
+      "tags": [],
+      "uuid": "1e11f268-de33-4f8a-84df-82b1a324ccca"
+    },
+    {
+      "start_time": 1371.41,
+      "end_time": 1372.51,
+      "annotation": [
+        {
+          "text": "Niech słyszą."
+        }
+      ],
+      "tags": [],
+      "uuid": "5709d621-8081-479d-b7e9-5736c95bb9a2"
+    },
+    {
+      "start_time": 1372.51,
+      "end_time": 1375,
+      "annotation": [
+        {
+          "text": "Ryczywół, to jest za Magnuszewem."
+        }
+      ],
+      "tags": [],
+      "uuid": "b11d36d7-87d7-469a-ad08-2d6b9741d1a2"
+    },
+    {
+      "start_time": 1375.44,
+      "end_time": 1379.07,
+      "annotation": [
+        {
+          "text": "Ale pan osobiście nie miał żadnych kontaktów\nze szmalcownikami?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a6bf1f73-a13a-47a9-9dd2-c07f4447e821"
+    },
+    {
+      "start_time": 1379.07,
+      "end_time": 1379.8,
+      "annotation": [
+        {
+          "text": "Nikt panu nie groził?"
+        }
+      ],
+      "tags": [],
+      "uuid": "ea6f7732-07df-4752-9789-f184a4ad48f8"
+    },
+    {
+      "start_time": 1379.8,
+      "end_time": 1382.91,
+      "annotation": [
+        {
+          "text": "Nie, nie. Ja tego nie miałem."
+        }
+      ],
+      "tags": [],
+      "uuid": "f974618e-7d69-4be5-8089-d11c42edaf1c"
+    },
+    {
+      "start_time": 1382.91,
+      "end_time": 1384.91,
+      "annotation": [
+        {
+          "text": "I w ogóle byli tacy też."
+        }
+      ],
+      "tags": [],
+      "uuid": "02614301-c2a3-4d11-ab80-80cc945c53dc"
+    },
+    {
+      "start_time": 1386.89,
+      "end_time": 1388.86,
+      "annotation": [
+        {
+          "text": "Wybrali od nich pieniądze, później wydali."
+        }
+      ],
+      "tags": [],
+      "uuid": "1c12fc42-3f0a-486e-ac22-6ddb64207bcf"
+    },
+    {
+      "start_time": 1389.72,
+      "end_time": 1394.51,
+      "annotation": [
+        {
+          "text": "Były takie fakty kiedyś w ogóle po\nwyzwoleniu, po wszystkim też jeszcze trzymali"
+        }
+      ],
+      "tags": [],
+      "uuid": "745771d0-4374-4c92-a1d1-964d0a002d58"
+    },
+    {
+      "start_time": 1394.58,
+      "end_time": 1398.54,
+      "annotation": [
+        {
+          "text": "w dwa czy trzy miesiące, już w ogóle Armia\nCzerwona była, już w ogóle Polska była"
+        }
+      ],
+      "tags": [],
+      "uuid": "69e6f287-d2f5-48db-9e31-4b6f174930e5"
+    },
+    {
+      "start_time": 1398.54,
+      "end_time": 1401.82,
+      "annotation": [
+        {
+          "text": "wyzwolona, bo korzystali materialnie."
+        }
+      ],
+      "tags": [],
+      "uuid": "29be844c-9615-4a38-ac09-7060a1b9face"
+    },
+    {
+      "start_time": 1401.82,
+      "end_time": 1403.7,
+      "annotation": [
+        {
+          "text": "Też były tak pojedyncze fakty."
+        }
+      ],
+      "tags": [],
+      "uuid": "30a83d58-da00-4f38-8f42-3b1579018dfc"
+    },
+    {
+      "start_time": 1403.7,
+      "end_time": 1405.47,
+      "annotation": [
+        {
+          "text": "To nie to, to są tylko sporadyczne."
+        }
+      ],
+      "tags": [],
+      "uuid": "17eda506-b65a-4b5e-8dad-aac2c9f41b31"
+    },
+    {
+      "start_time": 1405.47,
+      "end_time": 1409.06,
+      "annotation": [
+        {
+          "text": "Ale były takie fakty. I to niestety trzeba\npowiedzieć prawdę."
+        }
+      ],
+      "tags": [],
+      "uuid": "9b3b420b-0e84-476c-a214-df3d7b264937"
+    },
+    {
+      "start_time": 1409.06,
+      "end_time": 1412.34,
+      "annotation": [
+        {
+          "text": "Ja rozumiem a proszę powiedzieć taką"
+        }
+      ],
+      "tags": [],
+      "uuid": "c5153561-0112-4ad4-b178-ca5f16f0c7f0"
+    },
+    {
+      "start_time": 1412.34,
+      "end_time": 1418.1,
+      "annotation": [
+        {
+          "text": "I dlatego ja jestem po prostu, ja jestem\ndumny z tego że mogę powiedzieć prawdę."
+        }
+      ],
+      "tags": [],
+      "uuid": "29c7f2ed-d9b5-4a07-9055-04982076e796"
+    },
+    {
+      "start_time": 1418.1,
+      "end_time": 1423.04,
+      "annotation": [
+        {
+          "text": "Może nie tylko ja od o tej prawdzie mówię bo\ni wiele czyta."
+        }
+      ],
+      "tags": [],
+      "uuid": "1029b90c-29fd-4295-83a4-e18ee10029a1"
+    },
+    {
+      "start_time": 1423.04,
+      "end_time": 1424.65,
+      "annotation": [
+        {
+          "text": "Ale tak niestety jest."
+        }
+      ],
+      "tags": [],
+      "uuid": "bc336f0a-7f8b-4ad1-9fc3-4f501d91ae0b"
+    },
+    {
+      "start_time": 1425.62,
+      "end_time": 1431.7,
+      "annotation": [
+        {
+          "text": "Był też taki moment właśnie Bartoszewski\nopisuje kiedy matka jako nawet przedwojenna"
+        }
+      ],
+      "tags": [],
+      "uuid": "3ef3fa2a-3cd9-4d2f-8200-0c3322303dd7"
+    },
+    {
+      "start_time": 1431.7,
+      "end_time": 1434.6,
+      "annotation": [
+        {
+          "text": "matka, o ile się nie mylę to ona już była\nprzechrzta."
+        }
+      ],
+      "tags": [],
+      "uuid": "bb9af3d5-8726-452e-aff0-50190e140d39"
+    },
+    {
+      "start_time": 1434.6,
+      "end_time": 1438.37,
+      "annotation": [
+        {
+          "text": "Miała dzieci i te dzieci nawet nie były\nrozpoznane, zwróciła się do jakiegoś tam"
+        }
+      ],
+      "tags": [],
+      "uuid": "8c2dc601-efff-4d65-8602-a6cef383afdf"
+    },
+    {
+      "start_time": 1438.37,
+      "end_time": 1444.4,
+      "annotation": [
+        {
+          "text": "nauczyciela, harcmistrza żeby wziął\ndzieciaka do jakiegoś tam hufca."
+        }
+      ],
+      "tags": [],
+      "uuid": "b29f505b-c1d9-4b64-bfe7-77e31428b0d3"
+    },
+    {
+      "start_time": 1444.4,
+      "end_time": 1447.48,
+      "annotation": [
+        {
+          "text": "To on powie to jest tylko, panie, harcerz\nPolska."
+        }
+      ],
+      "tags": [],
+      "uuid": "4b99b69d-c67d-40c7-9ff3-c794f73d7742"
+    },
+    {
+      "start_time": 1447.48,
+      "end_time": 1450.15,
+      "annotation": [
+        {
+          "text": "I Bartoszewski to on opisuje."
+        }
+      ],
+      "tags": [],
+      "uuid": "2561e80d-1983-4bca-82ec-c12aebe19c9e"
+    },
+    {
+      "start_time": 1450.15,
+      "end_time": 1451.59,
+      "annotation": [
+        {
+          "text": "Czy on miał rację? Absolutnie."
+        }
+      ],
+      "tags": [],
+      "uuid": "4bd91e3e-ab7c-42f1-8053-49f3720570e6"
+    },
+    {
+      "start_time": 1452.8,
+      "end_time": 1455.44,
+      "annotation": [
+        {
+          "text": "I ta mama właśnie to też opłakuje i ona mówi\nprawdę."
+        }
+      ],
+      "tags": [],
+      "uuid": "9cd961bc-6163-450d-a217-1823d57bffa2"
+    },
+    {
+      "start_time": 1455.98,
+      "end_time": 1458.07,
+      "annotation": [
+        {
+          "text": "Ja to samo mówię. Czy on miał rację?"
+        }
+      ],
+      "tags": [],
+      "uuid": "9d40bf96-8d8b-45ff-8a0c-4e6171a242cb"
+    },
+    {
+      "start_time": 1458.07,
+      "end_time": 1460.16,
+      "annotation": [
+        {
+          "text": "Absolutnie nie miał racji."
+        }
+      ],
+      "tags": [],
+      "uuid": "cc7f2044-a497-4f34-b7f9-82eb43913097"
+    },
+    {
+      "start_time": 1460.16,
+      "end_time": 1462.77,
+      "annotation": [
+        {
+          "text": "Czy taki Tejkowski, czy ja mogę mówić o tym w\ntej?"
+        }
+      ],
+      "tags": [],
+      "uuid": "1b687fc0-0f14-4ba3-9471-ea6f42b1aa71"
+    },
+    {
+      "start_time": 1463.02,
+      "end_time": 1467.94,
+      "annotation": [
+        {
+          "text": "Czy taki Tejkowski, co w tej chwili\nwystępuje jako a jako po prostu zażarty"
+        }
+      ],
+      "tags": [],
+      "uuid": "9119884b-1e13-4ee6-83b6-34542c07d418"
+    },
+    {
+      "start_time": 1467.94,
+      "end_time": 1469.57,
+      "annotation": [
+        {
+          "text": "antysemita. Czy on ma rację?"
+        }
+      ],
+      "tags": [],
+      "uuid": "a5392e13-ca72-44d9-a3c9-4d949251b9b4"
+    },
+    {
+      "start_time": 1469.57,
+      "end_time": 1474.29,
+      "annotation": [
+        {
+          "text": "Absolutnie, w moim pojęciu, w pojęciu\nwłaściwych dobrych ludzi, nie ma racji."
+        }
+      ],
+      "tags": [],
+      "uuid": "8d13e629-7cad-4071-87ea-677108dea8fb"
+    },
+    {
+      "start_time": 1474.99,
+      "end_time": 1476.8,
+      "annotation": [
+        {
+          "text": "Co w ogóle po co być anty?"
+        }
+      ],
+      "tags": [],
+      "uuid": "02baf9b5-10e9-46a1-b56d-90e103844701"
+    },
+    {
+      "start_time": 1476.8,
+      "end_time": 1482.17,
+      "annotation": [
+        {
+          "text": "Jeżeli on jest anty w stosunku do Żydów, czy\nlub czy ci skini, to oni są anty w stosunku"
+        }
+      ],
+      "tags": [],
+      "uuid": "826707b5-cf15-4bf8-b436-e8adf17b73e1"
+    },
+    {
+      "start_time": 1482.17,
+      "end_time": 1484.07,
+      "annotation": [
+        {
+          "text": "do siebie. Oni sami siebie nienawidzą."
+        }
+      ],
+      "tags": [],
+      "uuid": "17bfdaab-3642-41d9-b804-2590147f4426"
+    },
+    {
+      "start_time": 1484.07,
+      "end_time": 1489.1,
+      "annotation": [
+        {
+          "text": "Oni sami między sobą się biją, nożami,\npałkami i tym podobnym."
+        }
+      ],
+      "tags": [],
+      "uuid": "40974361-fabf-45de-8eb1-808e9f36fcaa"
+    },
+    {
+      "start_time": 1489.1,
+      "end_time": 1494.29,
+      "annotation": [
+        {
+          "text": "Więc ja zadaję mu pytanie, właśnie tu w tej\ntelewizji - czy on ma rację?"
+        }
+      ],
+      "tags": [],
+      "uuid": "cc4175b3-51bc-492d-a587-0513c34f1c2c"
+    },
+    {
+      "start_time": 1494.59,
+      "end_time": 1495.68,
+      "annotation": [
+        {
+          "text": "Absolutnie nie ma racji."
+        }
+      ],
+      "tags": [],
+      "uuid": "d9d0491c-6ccd-4a25-bda9-dd1d7c8efb71"
+    },
+    {
+      "start_time": 1496.55,
+      "end_time": 1501.29,
+      "annotation": [
+        {
+          "text": "Czy to nie lepiej być pozytywnie nastawionym\ndo człowieka który się nazywa obojętnie czy"
+        }
+      ],
+      "tags": [],
+      "uuid": "a6ceef5a-4b9e-4e4c-a9b7-937c9adb0826"
+    },
+    {
+      "start_time": 1501.29,
+      "end_time": 1504.4,
+      "annotation": [
+        {
+          "text": "to Cygan, czy to będzie Polak, czy to będzie\nRosjanin, czy to Niemiec."
+        }
+      ],
+      "tags": [],
+      "uuid": "8c85c1d1-602c-47a8-a8d7-1819ad8ad9fb"
+    },
+    {
+      "start_time": 1504.69,
+      "end_time": 1509.07,
+      "annotation": [
+        {
+          "text": "Nawet ja mam szacunek do tego Niemca, jego\njuż może na świecie nie ma ale ja mam"
+        }
+      ],
+      "tags": [],
+      "uuid": "f6ceec01-d0ca-4516-b59d-589c841afb4a"
+    },
+    {
+      "start_time": 1509.07,
+      "end_time": 1513.54,
+      "annotation": [
+        {
+          "text": "szacunek i zawsze go będę wspominał gdybym\nja go widział po wojnie na pewno bym mu dał"
+        }
+      ],
+      "tags": [],
+      "uuid": "d3da59c2-cd7d-4f31-84d5-b927510810d0"
+    },
+    {
+      "start_time": 1513.54,
+      "end_time": 1516.47,
+      "annotation": [
+        {
+          "text": "nie tylko chleba bym mu dał i łoże i\nwszystko."
+        }
+      ],
+      "tags": [],
+      "uuid": "f24c1a0d-6430-441f-824c-56ee752867a7"
+    },
+    {
+      "start_time": 1516.47,
+      "end_time": 1518.66,
+      "annotation": [
+        {
+          "text": "Bo dlatego że to był nie… bo dlatego że był\nczłowiekiem."
+        }
+      ],
+      "tags": [],
+      "uuid": "635e2f83-8ff2-4e52-bc95-a7591703fc38"
+    },
+    {
+      "start_time": 1519.2,
+      "end_time": 1520.73,
+      "annotation": [
+        {
+          "text": "A co to ma wspólnego?"
+        }
+      ],
+      "tags": [],
+      "uuid": "39a67864-9990-4243-a01b-be8249d664fb"
+    },
+    {
+      "start_time": 1520.73,
+      "end_time": 1522.88,
+      "annotation": [
+        {
+          "text": "Niemiec czy taki. Taki się urodził."
+        }
+      ],
+      "tags": [],
+      "uuid": "0361241d-cfb3-4fba-b63e-e305700721ea"
+    },
+    {
+      "start_time": 1522.9,
+      "end_time": 1525.22,
+      "annotation": [
+        {
+          "text": "Czy moja mama stała niżej od innej mamy?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e7a39d95-c6f2-46fd-ba0a-99c247b0f27d"
+    },
+    {
+      "start_time": 1526.76,
+      "end_time": 1528.97,
+      "annotation": [
+        {
+          "text": "Taki się urodziłem, taki jestem i taki będę."
+        }
+      ],
+      "tags": [],
+      "uuid": "12aac08b-64f7-44e7-9cc0-2809d0f23f74"
+    },
+    {
+      "start_time": 1528.97,
+      "end_time": 1532.65,
+      "annotation": [
+        {
+          "text": "I moją narodowość zawsze zachowam."
+        }
+      ],
+      "tags": [],
+      "uuid": "1a93cddb-0d99-4cbc-990a-c496e1b0191d"
+    },
+    {
+      "start_time": 1532.65,
+      "end_time": 1535.01,
+      "annotation": [
+        {
+          "text": "Bo ja nie mam potrzeby w ogóle mówić że nie\njestem, panie, n Żydem."
+        }
+      ],
+      "tags": [],
+      "uuid": "95b949c4-c274-48cc-99eb-fd21288c5374"
+    },
+    {
+      "start_time": 1537,
+      "end_time": 1541.38,
+      "annotation": [
+        {
+          "text": "Tak że pan nie miał nigdy takiej potrzeby\nżeby, znaczy nie potrzeby to źle"
+        }
+      ],
+      "tags": [],
+      "uuid": "db54edae-28e6-4948-8a4b-2c88ba6a9035"
+    },
+    {
+      "start_time": 1541.38,
+      "end_time": 1547.78,
+      "annotation": [
+        {
+          "text": "powiedziałem. Znaczy inaczej, to\n[inaudible], czy w ogóle podczas, podczas"
+        }
+      ],
+      "tags": [],
+      "uuid": "acc5914d-466d-4597-85ad-606736b4b9fd"
+    },
+    {
+      "start_time": 1547.78,
+      "end_time": 1551.34,
+      "annotation": [
+        {
+          "text": "tego okresu do czterdziestego czwartego roku\naż do wyzwolenia pan słyszał o obozach"
+        }
+      ],
+      "tags": [],
+      "uuid": "d2fd7d52-b856-433b-93ff-758288d7ea34"
+    },
+    {
+      "start_time": 1551.34,
+      "end_time": 1552.05,
+      "annotation": [
+        {
+          "text": "koncentracyjnych?"
+        }
+      ],
+      "tags": [],
+      "uuid": "846125c0-cb3f-4837-a19c-8e0962ce1225"
+    },
+    {
+      "start_time": 1552.05,
+      "end_time": 1552.32,
+      "annotation": [
+        {
+          "text": "Tak."
+        }
+      ],
+      "tags": [],
+      "uuid": "985b7b21-7c45-4cda-81c4-7ca826525b13"
+    },
+    {
+      "start_time": 1552.32,
+      "end_time": 1552.93,
+      "annotation": [
+        {
+          "text": "Obozach zagłady?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b8ce6cf0-b15f-44e6-97a9-3fe5440d7fb3"
+    },
+    {
+      "start_time": 1552.93,
+      "end_time": 1553.9,
+      "annotation": [
+        {
+          "text": "Myśmy wszystko wiedzieli jak to"
+        }
+      ],
+      "tags": [],
+      "uuid": "e6da326d-83a2-4b59-a462-8348c1f25822"
+    },
+    {
+      "start_time": 1553.9,
+      "end_time": 1554.31,
+      "annotation": [
+        {
+          "text": "Ale skąd?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8ac97170-a2c1-46a2-8c8d-cd772e6ba6ed"
+    },
+    {
+      "start_time": 1554.31,
+      "end_time": 1557.21,
+      "annotation": [
+        {
+          "text": "Wiedzieliśmy, no skąd bo w ogóle bo były\npojedyncze osoby co się wyrwali."
+        }
+      ],
+      "tags": [],
+      "uuid": "68971aa5-4085-42f0-b515-324c8386bcff"
+    },
+    {
+      "start_time": 1557.21,
+      "end_time": 1557.98,
+      "annotation": [
+        {
+          "text": "No jak to wiedzieliśmy."
+        }
+      ],
+      "tags": [],
+      "uuid": "c69fa371-2835-425d-ba68-24d5f4c53c1c"
+    },
+    {
+      "start_time": 1558.16,
+      "end_time": 1559.34,
+      "annotation": [
+        {
+          "text": "I dotarli do, dotarli do pana?"
+        }
+      ],
+      "tags": [],
+      "uuid": "08989887-1b40-4376-8fac-ca875c4df5ef"
+    },
+    {
+      "start_time": 1559.34,
+      "end_time": 1563.93,
+      "annotation": [
+        {
+          "text": "Wyrwali się, pojedyncze osoby wyrwali się czy\nz Treblinki czy stąd gdzieś takie słuchy"
+        }
+      ],
+      "tags": [],
+      "uuid": "f49c87f6-7f54-4cd0-bf47-30e67480bdd0"
+    },
+    {
+      "start_time": 1564.17,
+      "end_time": 1566.37,
+      "annotation": [
+        {
+          "text": "były. A przecież wtedy ciemnoty nie było."
+        }
+      ],
+      "tags": [],
+      "uuid": "6d59dcf6-eb8f-4b3c-aa03-419881c76aff"
+    },
+    {
+      "start_time": 1566.37,
+      "end_time": 1570.25,
+      "annotation": [
+        {
+          "text": "Gazety, była ta tajna gazetka była przecież,\npanie, myśmy wiedzieli o tym."
+        }
+      ],
+      "tags": [],
+      "uuid": "32930a8e-3e5b-4ded-be04-1e702fca9230"
+    },
+    {
+      "start_time": 1570.25,
+      "end_time": 1573.15,
+      "annotation": [
+        {
+          "text": "I pan ją czytał?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c6f52746-5b9e-40b7-a401-76ad4cfb864b"
+    },
+    {
+      "start_time": 1573.15,
+      "end_time": 1575.63,
+      "annotation": [
+        {
+          "text": "Pojedyncze. Ale były również i paszkwile były\n."
+        }
+      ],
+      "tags": [],
+      "uuid": "1eee3c00-1ede-4bd9-b4ca-95054632222f"
+    },
+    {
+      "start_time": 1575.66,
+      "end_time": 1583.39,
+      "annotation": [
+        {
+          "text": "Były te, te anty żydowskie gazetki też były,\nten miecz, nie zaraz zaraz, Chrobrego,"
+        }
+      ],
+      "tags": [],
+      "uuid": "ede43b09-6ce7-4460-baae-66189547c9e0"
+    },
+    {
+      "start_time": 1583.97,
+      "end_time": 1585.07,
+      "annotation": [
+        {
+          "text": "Chrobrego, dobrze mówię?"
+        }
+      ],
+      "tags": [],
+      "uuid": "711d531d-fefa-4638-b746-48a67c1c2df3"
+    },
+    {
+      "start_time": 1585.07,
+      "end_time": 1588.79,
+      "annotation": [
+        {
+          "text": "Szczerbiec?"
+        }
+      ],
+      "tags": [],
+      "uuid": "36d12d82-f6be-4e6e-82d4-9eb6766943ca"
+    },
+    {
+      "start_time": 1588.79,
+      "end_time": 1590.23,
+      "annotation": [
+        {
+          "text": "Komunikat, Szczerbiec."
+        }
+      ],
+      "tags": [],
+      "uuid": "47c1bef3-fb28-4bdf-9b2f-2ec71b231901"
+    },
+    {
+      "start_time": 1590.69,
+      "end_time": 1591.4,
+      "annotation": [
+        {
+          "text": "Chrobrego, tak?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e89b0be7-83cc-4bb8-a182-536663a08a6b"
+    },
+    {
+      "start_time": 1591.44,
+      "end_time": 1592.3,
+      "annotation": [
+        {
+          "text": "No tak."
+        }
+      ],
+      "tags": [],
+      "uuid": "c130fee0-ce1c-4f48-9c9b-b37c6a75ea42"
+    },
+    {
+      "start_time": 1592.3,
+      "end_time": 1594.12,
+      "annotation": [
+        {
+          "text": "To by była anty-żydowska gazeta."
+        }
+      ],
+      "tags": [],
+      "uuid": "b6f8fd6e-567b-4f51-a300-0cfcdeb7c9b6"
+    },
+    {
+      "start_time": 1594.12,
+      "end_time": 1595.46,
+      "annotation": [
+        {
+          "text": "Tam były te te te te zdjęcia różne\nanty-żydowskie."
+        }
+      ],
+      "tags": [],
+      "uuid": "c00ece17-0996-4384-bbd1-c2b7a5c970e5"
+    },
+    {
+      "start_time": 1595.92,
+      "end_time": 1597.84,
+      "annotation": [
+        {
+          "text": "Ale pan to wtedy czytał w okresie okupacji?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5faabe1a-2a90-486a-857f-f2c464c20cfd"
+    },
+    {
+      "start_time": 1597.84,
+      "end_time": 1599.82,
+      "annotation": [
+        {
+          "text": "Czytałem, oni mi dali właśnie tam czytać."
+        }
+      ],
+      "tags": [],
+      "uuid": "e641c397-0a89-4ac7-ab0c-77385da8f5cc"
+    },
+    {
+      "start_time": 1599.82,
+      "end_time": 1600.97,
+      "annotation": [
+        {
+          "text": "Widziałem to to."
+        }
+      ],
+      "tags": [],
+      "uuid": "f13176bf-2fce-4e32-9f76-a0c9c4b47630"
+    },
+    {
+      "start_time": 1600.97,
+      "end_time": 1605.1,
+      "annotation": [
+        {
+          "text": "I od razu serce mnie zabolało, mówię jeszcze\npo takim Holokauście jeszcze takie rzeczy"
+        }
+      ],
+      "tags": [],
+      "uuid": "2f349cc6-4125-4e96-a840-9ace0a78e871"
+    },
+    {
+      "start_time": 1605.1,
+      "end_time": 1605.48,
+      "annotation": [
+        {
+          "text": "bywają?"
+        }
+      ],
+      "tags": [],
+      "uuid": "487bd464-f883-4331-a3b5-8267320ae480"
+    },
+    {
+      "start_time": 1605.93,
+      "end_time": 1607.83,
+      "annotation": [
+        {
+          "text": "Tak że Oświęcim Majdanek to były dla pana?"
+        }
+      ],
+      "tags": [],
+      "uuid": "2db31af4-5996-419b-a7b8-ee4b8282280c"
+    },
+    {
+      "start_time": 1607.93,
+      "end_time": 1612.91,
+      "annotation": [
+        {
+          "text": "Tak. To to myśmy to wszystko znaczy może\ndosłownie tak dokładnie nie znałem bo dlatego"
+        }
+      ],
+      "tags": [],
+      "uuid": "96663c8e-32a3-4f15-a032-d0886c309337"
+    },
+    {
+      "start_time": 1612.91,
+      "end_time": 1614.99,
+      "annotation": [
+        {
+          "text": "dopiero się potem z tym zapoznałem po\nwojnie."
+        }
+      ],
+      "tags": [],
+      "uuid": "31b037b6-d0e1-4068-a5a6-1f9c0e547e2f"
+    },
+    {
+      "start_time": 1615.38,
+      "end_time": 1621.32,
+      "annotation": [
+        {
+          "text": "Ale to nie było tak, za okupacji to nie było\ntak określone, tak tylko dopiero później po"
+        }
+      ],
+      "tags": [],
+      "uuid": "16577c8a-cf4c-4fee-ac57-5e346b9e5b89"
+    },
+    {
+      "start_time": 1621.36,
+      "end_time": 1624.62,
+      "annotation": [
+        {
+          "text": "wszystkim dopiero się o tym dowiedzieliśmy,\ncałą prawdę."
+        }
+      ],
+      "tags": [],
+      "uuid": "fe476ebd-930b-4fda-beb9-fbcba5f0c3d9"
+    },
+    {
+      "start_time": 1624.62,
+      "end_time": 1626.54,
+      "annotation": [
+        {
+          "text": "Wiedzieliśmy są takie łagry, obozy."
+        }
+      ],
+      "tags": [],
+      "uuid": "57c0fa4a-6c7d-4c05-986b-9616ab8f66c8"
+    },
+    {
+      "start_time": 1627.96,
+      "end_time": 1629.29,
+      "annotation": [
+        {
+          "text": "Wiedzieliśmy o Majdanku."
+        }
+      ],
+      "tags": [],
+      "uuid": "a807dd50-f84a-44e5-83d7-725e40a286b7"
+    },
+    {
+      "start_time": 1629.29,
+      "end_time": 1630.78,
+      "annotation": [
+        {
+          "text": "Wiedzieliśmy o Oświęcimiu."
+        }
+      ],
+      "tags": [],
+      "uuid": "c6e0c8c4-7592-4396-ba33-31dc9aa711ce"
+    },
+    {
+      "start_time": 1630.78,
+      "end_time": 1631.91,
+      "annotation": [
+        {
+          "text": "Wiedzieliśmy o Treblince."
+        }
+      ],
+      "tags": [],
+      "uuid": "f6ae4049-568f-4b06-90c2-61feba8eadc4"
+    },
+    {
+      "start_time": 1631.95,
+      "end_time": 1636.75,
+      "annotation": [
+        {
+          "text": "To nie ma mowy przecież nawet był taki\nmoment kiedy węgierscy Żydzi uciekli z wagonu"
+        }
+      ],
+      "tags": [],
+      "uuid": "6922552e-6e38-46eb-bda7-e83f2e9a7fda"
+    },
+    {
+      "start_time": 1636.75,
+      "end_time": 1642.81,
+      "annotation": [
+        {
+          "text": "rozbili wagon gdzieś tam w okolicach\nGarwolina jak wozili ich do do Treblinki, no"
+        }
+      ],
+      "tags": [],
+      "uuid": "841ef33c-731f-44d7-85ec-8883da177efe"
+    },
+    {
+      "start_time": 1642.81,
+      "end_time": 1645.87,
+      "annotation": [
+        {
+          "text": "to wyłapali ich no i oni ginęli wszyscy\nzginęli."
+        }
+      ],
+      "tags": [],
+      "uuid": "e2a0235e-7dc1-4196-8a65-c797124394bb"
+    },
+    {
+      "start_time": 1647.67,
+      "end_time": 1649.31,
+      "annotation": [
+        {
+          "text": "Niemcy trochę wyłapali i Polacy wyłapali."
+        }
+      ],
+      "tags": [],
+      "uuid": "adbf0bc3-1ab6-4b9e-a74a-e017947adf0d"
+    },
+    {
+      "start_time": 1649.31,
+      "end_time": 1649.99,
+      "annotation": [
+        {
+          "text": "A skąd pan wie o tym?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b36cf8d9-a8ba-424f-b604-e67185934f91"
+    },
+    {
+      "start_time": 1649.99,
+      "end_time": 1650.99,
+      "annotation": [
+        {
+          "text": "No opowiadali."
+        }
+      ],
+      "tags": [],
+      "uuid": "eb20ed75-ae80-4400-b3b2-30b21fde54c8"
+    },
+    {
+      "start_time": 1650.99,
+      "end_time": 1651.45,
+      "annotation": [
+        {
+          "text": "Wtedy?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7c49f590-54ee-45fd-808b-009681e11edd"
+    },
+    {
+      "start_time": 1651.54,
+      "end_time": 1652.92,
+      "annotation": [
+        {
+          "text": "Z ust do ust, wtedy."
+        }
+      ],
+      "tags": [],
+      "uuid": "ea0c0a2c-42fd-4912-a550-605b50fcdc7c"
+    },
+    {
+      "start_time": 1652.96,
+      "end_time": 1653.41,
+      "annotation": [
+        {
+          "text": "Wtedy jeszcze."
+        }
+      ],
+      "tags": [],
+      "uuid": "76fb02e5-b8da-4609-85c3-2dea0a175b33"
+    },
+    {
+      "start_time": 1653.41,
+      "end_time": 1656.31,
+      "annotation": [
+        {
+          "text": "Bo wtedy też byli bardzo dobrzy ludzie."
+        }
+      ],
+      "tags": [],
+      "uuid": "38740dbd-ec1b-463d-9513-670d0f2fbbc8"
+    },
+    {
+      "start_time": 1656.31,
+      "end_time": 1661.15,
+      "annotation": [
+        {
+          "text": "Wtedy sam słyszałem taką rozmowę, nie wiedząc\no tym bo nie wiedzieli, jak Polacy rozmawiają"
+        }
+      ],
+      "tags": [],
+      "uuid": "eb00cddc-e26a-4a40-ab08-25f343f7e44b"
+    },
+    {
+      "start_time": 1661.15,
+      "end_time": 1666.12,
+      "annotation": [
+        {
+          "text": "między sobą. Jeden Polak powiedział do\ndrugiego, “No jednak mi jest szkoda,” mówi,"
+        }
+      ],
+      "tags": [],
+      "uuid": "51105c2f-16f6-457c-b557-653460faf49d"
+    },
+    {
+      "start_time": 1666.12,
+      "end_time": 1671.11,
+      "annotation": [
+        {
+          "text": "“tych Żydów.” Bo była taka ogólna mowa to to\ntamto jak to my wiemy to jest no niestety są"
+        }
+      ],
+      "tags": [],
+      "uuid": "9d1bb772-f12e-4ca4-b092-0b715d2f2106"
+    },
+    {
+      "start_time": 1671.19,
+      "end_time": 1677.25,
+      "annotation": [
+        {
+          "text": "te te te rzeczy są do dnia i powiedział, “Mi\njest jednak szkoda tych Żydów.” Bo wiadomo że"
+        }
+      ],
+      "tags": [],
+      "uuid": "49363603-f0c7-45d8-ac12-29253a594834"
+    },
+    {
+      "start_time": 1677.35,
+      "end_time": 1680.99,
+      "annotation": [
+        {
+          "text": "przed wojną ludność polska też nie była\nbogata."
+        }
+      ],
+      "tags": [],
+      "uuid": "5702f58c-f647-479f-85a3-a65710776e8c"
+    },
+    {
+      "start_time": 1680.99,
+      "end_time": 1684.53,
+      "annotation": [
+        {
+          "text": "A szczególnie chłopi przecież oni byli bardzo\nbardzo ograniczeni."
+        }
+      ],
+      "tags": [],
+      "uuid": "749f421e-f103-4393-b0c4-5d55e2546d20"
+    },
+    {
+      "start_time": 1684.53,
+      "end_time": 1687.75,
+      "annotation": [
+        {
+          "text": "Więc oni woleli mieć styczność z tymi tymi\nŻydami."
+        }
+      ],
+      "tags": [],
+      "uuid": "7a35fc8e-7546-4a2e-8e83-1dc0623a5368"
+    },
+    {
+      "start_time": 1687.75,
+      "end_time": 1693.12,
+      "annotation": [
+        {
+          "text": "Bo on przyszedł do tego Żyda krawca który w\nogóle szanował go i usłużył mu jak się"
+        }
+      ],
+      "tags": [],
+      "uuid": "31faa0fc-019a-47af-bef8-88d6baf30176"
+    },
+    {
+      "start_time": 1693.12,
+      "end_time": 1695.65,
+      "annotation": [
+        {
+          "text": "należy. On był zadowolony że on przyszedł do\nniego."
+        }
+      ],
+      "tags": [],
+      "uuid": "61533c79-8dd7-4b95-bc7c-b1d92246dd67"
+    },
+    {
+      "start_time": 1695.65,
+      "end_time": 1698.35,
+      "annotation": [
+        {
+          "text": "A jak poszedł do Polaka do rzemieślnika to\nnie tak bardzo."
+        }
+      ],
+      "tags": [],
+      "uuid": "69b1ff26-25c0-4f18-9058-f4e3c6de6a1f"
+    },
+    {
+      "start_time": 1700.47,
+      "end_time": 1706.58,
+      "annotation": [
+        {
+          "text": "Proszę powiedzieć teraz taką historię, znaczy\njak Rosjanie poszli dalej na wschód na"
+        }
+      ],
+      "tags": [],
+      "uuid": "2c8929e4-a1ff-44d1-bc39-13cc9e81ffc1"
+    },
+    {
+      "start_time": 1706.58,
+      "end_time": 1709,
+      "annotation": [
+        {
+          "text": "zachód, tak, w kierunku Warszawy, pan\nposzedł z nimi?"
+        }
+      ],
+      "tags": [],
+      "uuid": "8563feb8-e197-44da-8768-d0065f45c007"
+    },
+    {
+      "start_time": 1709.3,
+      "end_time": 1709.58,
+      "annotation": [
+        {
+          "text": "Nie."
+        }
+      ],
+      "tags": [],
+      "uuid": "8fd2ffd5-5bc5-460e-88ff-10157d971ec3"
+    },
+    {
+      "start_time": 1709.58,
+      "end_time": 1710.65,
+      "annotation": [
+        {
+          "text": "Pan został w tej?"
+        }
+      ],
+      "tags": [],
+      "uuid": "fbc70819-5851-423f-aaf3-7aa92194d5de"
+    },
+    {
+      "start_time": 1710.65,
+      "end_time": 1712.45,
+      "annotation": [
+        {
+          "text": "Ja zostałem już tam gdzie byłem, tam w tej\nwsi."
+        }
+      ],
+      "tags": [],
+      "uuid": "c9ade2c9-ca0f-49f5-8d25-466dec0abf91"
+    },
+    {
+      "start_time": 1712.76,
+      "end_time": 1714.14,
+      "annotation": [
+        {
+          "text": "Czekał pan aż do wyzwolenia, do końca wojny?"
+        }
+      ],
+      "tags": [],
+      "uuid": "786a76d6-9c06-4b8e-975f-1d9c0f421414"
+    },
+    {
+      "start_time": 1714.14,
+      "end_time": 1717.95,
+      "annotation": [
+        {
+          "text": "Tam było w ogóle, ogólne wyzwolenie, jeszcze\ntam mieszkałem prawie rok czasu w tej, w tej"
+        }
+      ],
+      "tags": [],
+      "uuid": "cc688fea-9358-4562-8975-2e45886a9117"
+    },
+    {
+      "start_time": 1717.95,
+      "end_time": 1719.06,
+      "annotation": [
+        {
+          "text": "miejscowości, wszyscy no."
+        }
+      ],
+      "tags": [],
+      "uuid": "a94fcb80-851e-4f11-8ad1-0772d5eb70f0"
+    },
+    {
+      "start_time": 1719.06,
+      "end_time": 1719.65,
+      "annotation": [
+        {
+          "text": "Jeszcze rok?"
+        }
+      ],
+      "tags": [],
+      "uuid": "08377b94-764a-48c0-bb12-6dfd3c881bf4"
+    },
+    {
+      "start_time": 1719.65,
+      "end_time": 1721.11,
+      "annotation": [
+        {
+          "text": "[inaudible] prawie rok czasu."
+        }
+      ],
+      "tags": [],
+      "uuid": "d00645a4-edf2-49a3-9901-edf4c0fb313d"
+    },
+    {
+      "start_time": 1722.49,
+      "end_time": 1723.18,
+      "annotation": [
+        {
+          "text": "I wtedy pan"
+        }
+      ],
+      "tags": [],
+      "uuid": "2b01641e-462f-4412-80b3-ff882ad8a92b"
+    },
+    {
+      "start_time": 1723.18,
+      "end_time": 1726.45,
+      "annotation": [
+        {
+          "text": "A dopiero jak się dowiedziałem że w Górze\nKalwarii jeszcze są Żydzi jeszcze tego, to"
+        }
+      ],
+      "tags": [],
+      "uuid": "7483acec-f58f-4d40-951c-aa45aa97ec98"
+    },
+    {
+      "start_time": 1726.45,
+      "end_time": 1728.06,
+      "annotation": [
+        {
+          "text": "dopiero panie zabrałem się przyjechałem do\nGóry Kalwarii."
+        }
+      ],
+      "tags": [],
+      "uuid": "e764ed95-2fee-41d5-82d7-1dbd64108e47"
+    },
+    {
+      "start_time": 1728.09,
+      "end_time": 1730.49,
+      "annotation": [
+        {
+          "text": "Znaczy z tej wsi, Podwierzybie?"
+        }
+      ],
+      "tags": [],
+      "uuid": "159b676e-b348-470e-a4a8-69e699636920"
+    },
+    {
+      "start_time": 1730.49,
+      "end_time": 1731.39,
+      "annotation": [
+        {
+          "text": "Podwierzbie."
+        }
+      ],
+      "tags": [],
+      "uuid": "b49875a0-0d5c-4654-9f10-2391c283d220"
+    },
+    {
+      "start_time": 1731.39,
+      "end_time": 1733.06,
+      "annotation": [
+        {
+          "text": "I pan tu udał się do Góry\nKalwarii?"
+        }
+      ],
+      "tags": [],
+      "uuid": "7961acf0-88e9-49de-a7b0-d1969e797c00"
+    },
+    {
+      "start_time": 1733.69,
+      "end_time": 1734.35,
+      "annotation": [
+        {
+          "text": "Tak, tak, tak."
+        }
+      ],
+      "tags": [],
+      "uuid": "13052f14-8774-4a16-8e49-08a0a6e1d2f1"
+    },
+    {
+      "start_time": 1734.35,
+      "end_time": 1735.45,
+      "annotation": [
+        {
+          "text": "W którym? W 46."
+        }
+      ],
+      "tags": [],
+      "uuid": "49c152be-6564-475e-97c7-4f07a4ef4ed2"
+    },
+    {
+      "start_time": 1735.45,
+      "end_time": 1735.75,
+      "annotation": [
+        {
+          "text": "roku dopiero?"
+        }
+      ],
+      "tags": [],
+      "uuid": "e74e5a13-65ed-4842-9358-a58397146ece"
+    },
+    {
+      "start_time": 1735.75,
+      "end_time": 1736.25,
+      "annotation": [
+        {
+          "text": "Nie, w 45."
+        }
+      ],
+      "tags": [],
+      "uuid": "11b94820-7a54-4252-9d13-85a82c6863da"
+    },
+    {
+      "start_time": 1736.25,
+      "end_time": 1736.71,
+      "annotation": [
+        {
+          "text": "Piątym, tak?"
+        }
+      ],
+      "tags": [],
+      "uuid": "34b50377-c0ad-4a5e-b4f8-a6520e40be3b"
+    },
+    {
+      "start_time": 1736.71,
+      "end_time": 1737.85,
+      "annotation": [
+        {
+          "text": "Już po wyzwoleniu."
+        }
+      ],
+      "tags": [],
+      "uuid": "ea8036c2-e6ae-4608-8622-73d0c36ef5a8"
+    },
+    {
+      "start_time": 1739.54,
+      "end_time": 1739.9,
+      "annotation": [
+        {
+          "text": "I pan"
+        }
+      ],
+      "tags": [],
+      "uuid": "c5e25225-84b3-4c40-b32f-ba0271ae4f94"
+    },
+    {
+      "start_time": 1740.81,
+      "end_time": 1741.62,
+      "annotation": [
+        {
+          "text": "Zmienimy"
+        }
+      ],
+      "tags": [],
+      "uuid": "c47aa943-3549-4d8a-9ecb-b8e9355ad5d9"
+    }
+  ]
+}

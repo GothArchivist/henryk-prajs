@@ -1,0 +1,986 @@
+{
+  "event_id": "c500ae32-cc02-408c-a433-35e5220bae75",
+  "source_id": "16d1d8c3-fa49-49c8-b4af-28910769af51",
+  "set": "Polish Transcript [Transcript]",
+  "annotations": [
+    {
+      "start_time": 37,
+      "end_time": 40,
+      "annotation": [
+        {
+          "text": "No.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "bdfdd219-765a-459a-82f1-7251a21e4e76"
+    },
+    {
+      "start_time": 40,
+      "end_time": 42,
+      "annotation": [
+        {
+          "text": "Także pan wrócił do Góry Kalwarii w 45. roku?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "91c251ff-20b2-4f30-8ff6-9fcba764f8d1"
+    },
+    {
+      "start_time": 42,
+      "end_time": 43,
+      "annotation": [
+        {
+          "text": "Czy?\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "714f0ac1-ead2-4817-8057-0d6c11af375c"
+    },
+    {
+      "start_time": 43,
+      "end_time": 44,
+      "annotation": [
+        {
+          "text": "Pan wrócił, tak? W 45.?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2c6de0c0-01c7-4f26-9257-da4ab7e7666c"
+    },
+    {
+      "start_time": 44,
+      "end_time": 45,
+      "annotation": [
+        {
+          "text": "Tak, tak.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "eb37e6cb-e59e-4d9a-8f12-604b4ba351d5"
+    },
+    {
+      "start_time": 45,
+      "end_time": 46,
+      "annotation": [
+        {
+          "text": "A dlaczego?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "192c7609-0661-41e1-9f5b-f65fbeb8a4bb"
+    },
+    {
+      "start_time": 46,
+      "end_time": 50,
+      "annotation": [
+        {
+          "text": "Dlaczego wróciłem? Przecież to było moje miasto, panie, i tam gdzie się urodziłem.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "cb62ce80-79f7-4cfd-82c9-25f35d0754e5"
+    },
+    {
+      "start_time": 50,
+      "end_time": 53,
+      "annotation": [
+        {
+          "text": "I pan się dowiedział że są Żydzi w Kalwarii?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "8f2d46aa-fc6b-4442-b20e-cfcc9c5a6023"
+    },
+    {
+      "start_time": 53,
+      "end_time": 64,
+      "annotation": [
+        {
+          "text": "Tak jeszcze byłem, przyjechali z Rosji bardzo 15 osób czy ileś tam przyjechało z Rosji i później wyemigrowali, część do Izraela a część do Ameryki.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ca68e9b2-fee1-4395-bef0-1f5669343fe3"
+    },
+    {
+      "start_time": 64,
+      "end_time": 67,
+      "annotation": [
+        {
+          "text": "I to pana przekonało żeby tam pojechać? Tylko dlatego?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "4ebb8fac-ceb4-458d-ae8a-96b495b59ff6"
+    },
+    {
+      "start_time": 67,
+      "end_time": 75,
+      "annotation": [
+        {
+          "text": "Tylko no nie, no przyjechałem bo dlatego że później ściągnąłem tą rodzinę bo jeszcze miałem tam wujka miałem który też przeżył okupację tutaj.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "aec867af-421d-42c1-bda0-252075e9e77a"
+    },
+    {
+      "start_time": 75,
+      "end_time": 76,
+      "annotation": [
+        {
+          "text": "W Górze Kalwarii?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "e94d8708-941f-4c0e-b2d2-85fcf826f61d"
+    },
+    {
+      "start_time": 76,
+      "end_time": 79,
+      "annotation": [
+        {
+          "text": "W Górze Kalwarii. On przeżył okupację w Zawichoście.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "737c2cb0-f9f1-4360-87f8-b8bde2a38789"
+    },
+    {
+      "start_time": 79,
+      "end_time": 82,
+      "annotation": [
+        {
+          "text": "A swojej matki i rodzeństwa pan nie?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "de2e2a1f-a3fe-4741-8c55-f765f809175a"
+    },
+    {
+      "start_time": 82,
+      "end_time": 83,
+      "annotation": [
+        {
+          "text": "Już nikogo.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "f6f024b8-c26a-4e89-a431-a23984f6dd02"
+    },
+    {
+      "start_time": 83,
+      "end_time": 86,
+      "annotation": [
+        {
+          "text": "No ja rozumiem, ale pan nie próbował ich szukać?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "8a17de7d-269d-453b-84a1-c33ea7b9a179"
+    },
+    {
+      "start_time": 86,
+      "end_time": 87,
+      "annotation": [
+        {
+          "text": "Jak to nie szukałem?\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "cd345ca3-3c47-409a-b469-4cd895df5794"
+    },
+    {
+      "start_time": 87,
+      "end_time": 87,
+      "annotation": [
+        {
+          "text": "Jak to było?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "fd6b3cf0-40dc-4019-956a-520c75898470"
+    },
+    {
+      "start_time": 87,
+      "end_time": 106,
+      "annotation": [
+        {
+          "text": "Szukałem wszędzie, tam u znajomych. No nie bo matka była chora na pewno była nie kto to wie czy ona nie umarła w getcie w Warszawie. Nie wiem. A o bracie to wiedziałem i siostrze też nic nie wiem gdzie zginęła czy w Treblince czy w Majdanku to nie wiem o siostrze. Zdjęcie jej mam jeszcze szkolne zdjęcie ładne. Była bardzo zdolna dziewczynka ładna.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "d162abcf-febf-4a65-a52a-d859803613a8"
+    },
+    {
+      "start_time": 106,
+      "end_time": 111,
+      "annotation": [
+        {
+          "text": "A pan poszedł do Komitetu Żydów Polskich po wojnie szukać ich?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "10fba5ed-0df1-4d25-bc2e-e3928aaf4739"
+    },
+    {
+      "start_time": 111,
+      "end_time": 120,
+      "annotation": [
+        {
+          "text": "Wszędzie. Szukałem jak najbardziej w Instytucie i tam do pisałam do Izraela na Ben Yehudy, wszędzie. Nie nie nie bo i oni by mnie szukali przecież tak samo.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "047f371e-e8f3-44cf-b418-6e1ddd1b54fc"
+    },
+    {
+      "start_time": 120,
+      "end_time": 127,
+      "annotation": [
+        {
+          "text": "A pan się ożenił w Powierzbie czy w Kalwarii już?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "21022c0b-c046-4e92-af76-a22259478f73"
+    },
+    {
+      "start_time": 127,
+      "end_time": 128,
+      "annotation": [
+        {
+          "text": "Nie, w Kalwarii ożeniłem się, panie.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "0f3b999c-1a65-49b2-8b17-74e904c3c8f8"
+    },
+    {
+      "start_time": 128,
+      "end_time": 131,
+      "annotation": [
+        {
+          "text": "To znaczy pan w 45. roku przybył do Kalwarii?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "0bbd9a82-cd2b-4366-bcb0-be60ed392e15"
+    },
+    {
+      "start_time": 131,
+      "end_time": 131,
+      "annotation": [
+        {
+          "text": "Tak, tak.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "6a2fad85-0ca2-4dc3-b465-c11fc6ec783c"
+    },
+    {
+      "start_time": 131,
+      "end_time": 133,
+      "annotation": [
+        {
+          "text": "Ale dokąd? Do swojego domu?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ed005db9-769d-4bc7-b90c-72184fa734f7"
+    },
+    {
+      "start_time": 133,
+      "end_time": 173,
+      "annotation": [
+        {
+          "text": "No tak normalnie, nie do swojego domu. Nie. Normalnie przybyłem do Góry Kalwarii. Moje pierwsze kroki tak jak powiedziałem były do sąsiada. Do Rytki i pytałem, tam przenocowałem. Na następny dzień zacząłem szukać bo mojego domu już nie było, Niemcy rozebrali, Niemcy czy tam kto inny czy Polacy [inaudible] nie wiem. W każdym bądź razie rozkoszy w tym domu tam nie było prócz biedy tam nic nie było. Stare łóżka, stara szafa i to był taki drewniany domek. No ale ponieważ wynająłem se mieszkanie, mieszkałem normalnie tak jak się należy i nie było problemu.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "5d669894-4f7a-426e-9b90-f81813c4bb80"
+    },
+    {
+      "start_time": 173,
+      "end_time": 175,
+      "annotation": [
+        {
+          "text": "Znaczy domek pan sobie wynajął czy mieszkanie?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "7c66da07-de61-42a7-bac2-97d551e21f6a"
+    },
+    {
+      "start_time": 175,
+      "end_time": 176,
+      "annotation": [
+        {
+          "text": "Nie, u kogoś.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "65f6ee07-ca78-43ca-ad33-31e6653b1252"
+    },
+    {
+      "start_time": 176,
+      "end_time": 178,
+      "annotation": [
+        {
+          "text": "Znaczy blok? [inaudible]\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "a58ec605-7fa8-40b9-919f-b869b2ec02f5"
+    },
+    {
+      "start_time": 178,
+      "end_time": 205,
+      "annotation": [
+        {
+          "text": "Nie, gdzie tam bloki w Górze Kalwarii bloki. Teraz to są ale dawniej tam w jakiejś tam chałupie. No tam w jakimś tam domku. I miałem [inaudible] i zacząłem szyć bo jeszcze był tam jeszcze jeden krawiec nazywał się Pelc [?]. On wrócił, z tym, z Oświęcimia nawet wrócił i za… razem założyliśmy warsztat krawiecki. Szyłem razem z nim do jakiegoś tam czasu i później tak było.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "0b8c0e7e-31d1-4a4c-8d84-0077b3650037"
+    },
+    {
+      "start_time": 205,
+      "end_time": 207,
+      "annotation": [
+        {
+          "text": "To ile, ilu Żydów było?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "691f576d-8445-4b44-880d-01f188852161"
+    },
+    {
+      "start_time": 207,
+      "end_time": 208,
+      "annotation": [
+        {
+          "text": "I później. Ile Żydów?\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "0dfdb99c-fda4-41a4-bef7-ee4c51c33059"
+    },
+    {
+      "start_time": 208,
+      "end_time": 209,
+      "annotation": [
+        {
+          "text": "Wtedy.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "1e853cee-198b-4757-8242-e4f6bd48ab97"
+    },
+    {
+      "start_time": 209,
+      "end_time": 217,
+      "annotation": [
+        {
+          "text": "Nie wiem czy było może może razem wszyscy ci co wrócili z Rosji, z Oświęcimia, ci co się ukrywali to może, może było 20 osób.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "9ff60086-ae00-47af-af14-b5fcef4304e9"
+    },
+    {
+      "start_time": 217,
+      "end_time": 218,
+      "annotation": [
+        {
+          "text": "Tak.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "bdbbb176-28d8-4a8d-8338-7f3bef0316a8"
+    },
+    {
+      "start_time": 218,
+      "end_time": 226,
+      "annotation": [
+        {
+          "text": "A z tych wszystkich tylko zostało czterech. Jeszcze są do dnia dzisiejszego mieszkańcy pochodzenia żydowskiego.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "8616ec9e-15f5-4670-a3b2-2c1fb1b2c701"
+    },
+    {
+      "start_time": 226,
+      "end_time": 228,
+      "annotation": [
+        {
+          "text": "Do dnia dzisiejszego prócz pana jeszcze cztery osoby są?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "a2487912-c903-4a48-9592-41075ea7c53a"
+    },
+    {
+      "start_time": 228,
+      "end_time": 252,
+      "annotation": [
+        {
+          "text": "Jeszce tam są. Karpman Feliks, Majewski Henryk, i Helman Władysław. To są, panie, jeszcze są, ale oni tak nie bardzo się udzielają. Karpman to się więcej udziela. Tamci mniej się udzielają. Nie to nie. Ale przyznają się do rodu żydowskiego. No i co tam, ponieważ miałem sentyment do mojej teściowej, bardzo mnie kochała.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "c0057a50-8da3-4ab3-bd56-4b12a2389587"
+    },
+    {
+      "start_time": 252,
+      "end_time": 253,
+      "annotation": [
+        {
+          "text": "Teściowej?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "4bb94bb8-0b67-4f51-93b1-ce5f4e9502d9"
+    },
+    {
+      "start_time": 253,
+      "end_time": 254,
+      "annotation": [
+        {
+          "text": "Teściowa.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "8a1f9b23-fecc-44a4-8b45-8b691c326f07"
+    },
+    {
+      "start_time": 254,
+      "end_time": 256,
+      "annotation": [
+        {
+          "text": "Ale kiedy pan się ożenił?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ee0827d4-18db-48da-bc77-53e30f0f8a71"
+    },
+    {
+      "start_time": 256,
+      "end_time": 263,
+      "annotation": [
+        {
+          "text": "A to ożeniłem się z córką. Z jej córką bo tak tak ona mnie prosiła ta teściowa. Ona mi dała kierunek żeby w jakiś sposób się uratować.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "e239f664-45a6-4141-9aaa-ccdfbe08418d"
+    },
+    {
+      "start_time": 263,
+      "end_time": 266,
+      "annotation": [
+        {
+          "text": "Ale teściowa, znaczy, ona pochodzi z Góry Kalwarii?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "3b1ec963-c9c0-4d58-8ca0-a5ef3dbede9f"
+    },
+    {
+      "start_time": 266,
+      "end_time": 268,
+      "annotation": [
+        {
+          "text": "Tak, tak, tak, tak. Sąsiadka moja.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "5a0f5834-3c09-4854-81b5-57dd98659fcc"
+    },
+    {
+      "start_time": 268,
+      "end_time": 269,
+      "annotation": [
+        {
+          "text": "A, sąsiadka.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "17d5b723-9bb2-4f3e-99d3-14fac5bd5b65"
+    },
+    {
+      "start_time": 269,
+      "end_time": 299,
+      "annotation": [
+        {
+          "text": "Tak, mieszkaliśmy. No i bardzo dobra, panie, żyliśmy ze sobą 41. lat. Mamy piękną córkę, mieszka w Piasecznie mamy troje śliczne wnucząt. Co nawet Michał też sam je zna. Mateusz, Ola i Jula. Ola ostatnio była w Izraelu, zachwycona. Teraz w tym roku chyba wybierze się Jula, ta młodsza. Udzielają się, przychodzą do, należą do tego do Shalom. Do tej\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "241d49d3-df8a-43dc-8984-a60ce0dff46c"
+    },
+    {
+      "start_time": 299,
+      "end_time": 300,
+      "annotation": [
+        {
+          "text": "Tak.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "fff6ef2d-e9b9-4e66-ac77-0e35c4ad1c2e"
+    },
+    {
+      "start_time": 300,
+      "end_time": 322,
+      "annotation": [
+        {
+          "text": "Tak, należą. I biorą różny, biorą udział w tych wycieczkach do Sobiboru [?] i tym podobnym. Mają wielki zaszczyt że, ze swego dziadka szczycą się ze swoim dziadkiem. Kochają go. Ja ich też kocham bardzo. No żona mnie umarła ubolewam mocno. No w tej chwili jestem sam.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ee329e14-21a9-4438-933e-8a9f858e2d46"
+    },
+    {
+      "start_time": 322,
+      "end_time": 323,
+      "annotation": [
+        {
+          "text": "Dawno umarła już pana żona?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "c3dc029e-00e1-40a7-b597-2006c44c1be7"
+    },
+    {
+      "start_time": 323,
+      "end_time": 338,
+      "annotation": [
+        {
+          "text": "Tak. No jest w tej chwili ze mną, no ja wiem, mogę mówić że to jest no żona, no taka no druga żona, jest Żydówką. Nazywa się Słowik. Ma syna w Ameryce.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "5e4fd814-fe3a-4caa-8394-96b6429b97a2"
+    },
+    {
+      "start_time": 338,
+      "end_time": 340,
+      "annotation": [
+        {
+          "text": "A skąd ona? Też z Góry Kalwarii?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "9e966265-c2ac-49a2-9111-615c32e7f920"
+    },
+    {
+      "start_time": 340,
+      "end_time": 359,
+      "annotation": [
+        {
+          "text": "Nie, to jest w ogóle, ona pochodzi, ona urodziła się nawet w Rosji. Ona wróciła z matką z Rosji mieszkała w Żaganiu. A poznaliśmy się w Warszawie. Miała męża. Umarł jej mąż, ona wdową jest. Syna ma w tym, w Ameryce należy do tej grupy Bobowa a między innymi Chusetem [Chasydem] jest.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "6b22dc4a-a66f-4e2f-a5d4-ea16feb6e280"
+    },
+    {
+      "start_time": 359,
+      "end_time": 360,
+      "annotation": [
+        {
+          "text": "A czyli jest Chasydem?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "38272df3-8304-4e27-be2e-d090bb4316ee"
+    },
+    {
+      "start_time": 360,
+      "end_time": 495,
+      "annotation": [
+        {
+          "text": "Chasydem, normalnie, do tej grupy należy. A ona jest postępowa. No jest w tej chwili razem ze mną. Żyjemy bardzo dobrze, kochamy się. No i co więcej mogę mówić. A życie to tak jak widzicie, są różne wycieczki, przyjeżdżają do Góry Kalwarii, przeważnie Chasydzi i dużo młodzieży z Izraela z Francji i z Ameryki. Przeważnie. W ogóle zwiedzać miejsce w ogóle cadyków. Szczególnie to ich interesuje. Tą bożnicę i cmentarz. I co więcej mogą widzieć, no? Opowiadam im dzieje Góry Kalwarii opowiadam im o tym wszystkim, ale to już po prostu to są rzeczy co są już tak opisane że już każdy mniej więcej zna nawet najmniejsze dziecko żydowskie zna panie Holokaust. Także jak nieraz przyjeżdżają ja sam mówię bo są niektóre punkty na przykład na [inaudible] może to mi nawet nie wypada mówić w tym bo w żydowskiej religii jest “Dziękuję Ci Boże żeś mnie nie stworzył za kobietę.” A ja im zadaję pytanie: “Me’ayin ata? Me’ayin at?” albo “ata.” To ona mnie tam z Holonu, tam z Tel Awiwu, a ja mówię nie, “Lo. Ima” “van kamstu heraus?” \"Skąd pochodzisz?” Jak twoja matka. Zaczynają się śmiać. Tak samo jak ja zaczynałam śmiać. Akuratnie trochę znam znam trochę, trochę Torę znam bo trochę się uczyłem. Tak że nawet znam trochę po ivrit. Rozmawiam, są bardzo zadowoleni że mogą bo to nie spotyka się, całe województwo warszawskie nie znajdzie się Żyda. A jak nawet ktoś jest z tego rodu to się ukrywa i nie chce nie wydaje się. Z całej Warszawy. A Góra Kalwaria akuratnie ma właśnie ten, ten, ten przywilej że jest i że wszyscy wiedzą i szanują nas. Jesteśmy lubiani nawet bardzo. Wszyscy nas lubią w Górze Kalwarii, obojętnie kto by to nie był. Nawet Majewski to jest rolnikiem, ma ileś tam mórg ogrodu bardzo, jeden z najlepszych tam sadowników na naszym terenie. Ja też kiedyś zajmowałam się sadownictwem jak przestałam już pracować jako krawiec, zajmowałam się sadownictwem. No tak, tak.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "763a9448-1b25-4adb-998a-1b4144b540ce"
+    },
+    {
+      "start_time": 495,
+      "end_time": 500,
+      "annotation": [
+        {
+          "text": "Proszę mi powiedzieć taką jeszcze rzecz pani Popł,,, Popławska, tak? Otrzymała medal Sprawiedliwych Wśród Narodów Świata?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "dae7d355-7e65-40f3-bd8e-e7e86b9f2eff"
+    },
+    {
+      "start_time": 500,
+      "end_time": 500,
+      "annotation": [
+        {
+          "text": "Pokorska.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "4e1a84c1-37cb-4ba6-81d1-e3c2d4de09a2"
+    },
+    {
+      "start_time": 500,
+      "end_time": 502,
+      "annotation": [
+        {
+          "text": "Pokorska, przepraszam, Pokorska.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2078874d-1ab6-4900-a183-96da6bfdb837"
+    },
+    {
+      "start_time": 502,
+      "end_time": 504,
+      "annotation": [
+        {
+          "text": "Pokorska. Otrzymała medal w Yad Vashem.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "8989663e-1fe0-4fed-8998-eccad581969a"
+    },
+    {
+      "start_time": 504,
+      "end_time": 505,
+      "annotation": [
+        {
+          "text": "Kiedy to było?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "63c161fa-a0b6-4e1a-b948-df29a482b5b6"
+    },
+    {
+      "start_time": 505,
+      "end_time": 506,
+      "annotation": [
+        {
+          "text": "W latach 60.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "b9b44101-b38e-4c8d-9d3c-ace2ab09e25c"
+    },
+    {
+      "start_time": 506,
+      "end_time": 508,
+      "annotation": [
+        {
+          "text": "60. znaczy to pan wtedy zgłosił to?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "8da89a3f-8a2c-4860-a544-dd5b9aaee90c"
+    },
+    {
+      "start_time": 508,
+      "end_time": 511,
+      "annotation": [
+        {
+          "text": "Tak, tak, tak. Ja zgłosiłem normalnie i tak i jest tam, ma swoje tam.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "36036aa6-dd5f-4fb8-ace0-e5575b7b1189"
+    },
+    {
+      "start_time": 511,
+      "end_time": 512,
+      "annotation": [
+        {
+          "text": "I pan ma?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "634de69c-125f-4a70-84d6-19412573e758"
+    },
+    {
+      "start_time": 512,
+      "end_time": 529,
+      "annotation": [
+        {
+          "text": "I jestem z tego bardzo zadowolony. Bo ona naprawdę zasługuje. Bo to jest żadna matka, żadna Żydowska matka więcej by nie zrobiła to co ona zrobiła dla mnie. I to mówię zupełnie z pełną świadomością. Może ja, sądzę że nie jestem jedyny co tak mówię, ale ja oficjalne to mówię.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "1c0e138f-6efb-4e84-ac2a-5a83bc7bab37"
+    },
+    {
+      "start_time": 529,
+      "end_time": 534,
+      "annotation": [
+        {
+          "text": "I pan ma też rodzinę w Izraelu, w Holonie, tak?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "85b2fa0a-f2f0-4c1e-ae7e-d5905d7cb53c"
+    },
+    {
+      "start_time": 534,
+      "end_time": 537,
+      "annotation": [
+        {
+          "text": "W Holonie mam kuzyna.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "83df0f0b-8fda-436e-ba07-a69683f8cef8"
+    },
+    {
+      "start_time": 537,
+      "end_time": 538,
+      "annotation": [
+        {
+          "text": "Oni przetrwali wojnę tutaj w Polsce?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "451f711b-ac84-4ec7-adb5-778b8a1229e9"
+    },
+    {
+      "start_time": 538,
+      "end_time": 540,
+      "annotation": [
+        {
+          "text": "Nie, w Rosji.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "83f3ea71-522c-4f34-ad38-e6114669f870"
+    },
+    {
+      "start_time": 540,
+      "end_time": 543,
+      "annotation": [
+        {
+          "text": "Aha. Dobrze.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "01074e8c-b924-4cd0-9f0a-1ad4022d3b0d"
+    },
+    {
+      "start_time": 543,
+      "end_time": 548,
+      "annotation": [
+        {
+          "text": "I mam kuzynów w Izraelu w Bnei Brak. Przeżyli Oświęcim.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "15bf52be-32d9-4371-a9e6-535a2d8dc71a"
+    },
+    {
+      "start_time": 548,
+      "end_time": 548,
+      "annotation": [
+        {
+          "text": "I oni są Chasydami?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "020de513-6f40-4827-93b6-a8b76eb2972d"
+    },
+    {
+      "start_time": 548,
+      "end_time": 549,
+      "annotation": [
+        {
+          "text": "Chasydami.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "60e9dc9f-bbb0-4f6c-8327-2d338617a4a8"
+    },
+    {
+      "start_time": 549,
+      "end_time": 552,
+      "annotation": [
+        {
+          "text": "Rabina tego cadyka z Góry Kalwarii?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "c7431124-0742-4b0b-9548-e5fcf388a64b"
+    },
+    {
+      "start_time": 552,
+      "end_time": 558,
+      "annotation": [
+        {
+          "text": "Nie, to są znaczy tak, są Chasydzi rabina z Góry Kalwarii, nazywa się Aron Szyniawer.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "81a648a0-60fb-4362-b79a-7930370f7514"
+    },
+    {
+      "start_time": 558,
+      "end_time": 559,
+      "annotation": [
+        {
+          "text": "Tak.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "1112f6f5-1883-4cf6-9901-e419cce16111"
+    },
+    {
+      "start_time": 559,
+      "end_time": 566,
+      "annotation": [
+        {
+          "text": "Mają dzieci tak samo. Wiedzą o moim istnieniu, z nimi się widziałem. Teraz byłem w Izraelu też się widziałem.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2dcb4c3d-954e-4ae5-8614-4c01844b2fbf"
+    },
+    {
+      "start_time": 566,
+      "end_time": 568,
+      "annotation": [
+        {
+          "text": "A pan był teraz w Izraelu?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "e6c2f096-926c-4c95-9c96-4885930e21b7"
+    },
+    {
+      "start_time": 568,
+      "end_time": 570,
+      "annotation": [
+        {
+          "text": "Teraz tak.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ecc9b4d0-3380-47f3-a434-6faa95bd2f0a"
+    },
+    {
+      "start_time": 570,
+      "end_time": 572,
+      "annotation": [
+        {
+          "text": "To jak pana przyjmują w Izraelu? Przecież pan jest\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "31ccf97c-f361-4567-9a29-f1bb23a8a0fb"
+    },
+    {
+      "start_time": 572,
+      "end_time": 573,
+      "annotation": [
+        {
+          "text": "Bardzo ładnie.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "2f2f73be-df1b-429d-8e93-3560fe47bba4"
+    },
+    {
+      "start_time": 573,
+      "end_time": 575,
+      "annotation": [
+        {
+          "text": "Przecież pan jest niemalże ze świętego miejsca dla nich.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "638a7e19-bcf7-4b97-a31c-80c29ce3ab23"
+    },
+    {
+      "start_time": 575,
+      "end_time": 606,
+      "annotation": [
+        {
+          "text": "No tak, bardzo ładnie mnie przyjmują, mnie wszędzie przyjmują dobrze, mam takie usposobienie że mnie wszędzie przyjmują dobrze. Ja nie, nie, jestem zawsze optymistycznie nastawiony i nigdy nie jestem tendencyjny nic i nigdy. Jak ja coś mówię to lubię mówić obiektywnie i nie lubię mówić specjalnie z jakąś tendencją nienawiścią do tego do tamtego. Wiem o tym. Wiem o tym że w wielu wypadkach w stosunku do mnie też może nie wszyscy byli w porządku, za okupacji. Nie, nie po wojnie ja nic nie mówię. Ale ja im wybaczam wybaczam. Wybaczam i koniec. Taki był okres, może nie wiedzieli co czynią.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "82fdbcb5-ad1d-437c-85a5-c7969e94838d"
+    },
+    {
+      "start_time": 606,
+      "end_time": 617,
+      "annotation": [
+        {
+          "text": "To tylko jeszcze jedno pytanie na koniec, ten okres powojenny, powiedzmy 46. rok kiedy był Pogrom Kielecki, 68. rok marzec. Czy pan jakoś to odczuł?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "868d235a-0d53-4f46-9079-3dd338228b2f"
+    },
+    {
+      "start_time": 617,
+      "end_time": 687,
+      "annotation": [
+        {
+          "text": "No bezsprzecznie. Jeżeli chodzi o 68. rok też podkreślam przeżywałem dość mocno. To ja mówię - to ja musiałem przeżyć wojnę i doczekać się takiej chwili że partia komunistyczna, rzekomo, bo jaki komunizm u nas był to jest inna, że Żydzi w tej chwili mają się kryć i Żydzi mają ukrywać albo w ogóle wypędza się Żydów ale tylko dlatego że są Żydami – wstydźcie się! Panowie, jeżeli ktokolwiek z was żyje z 68. roku – wstydźcie się! Bo to jest wielki wstyd dla was! I z waszego, waszego ustroju! I waszego układu politycznego, jeżeli ktokolwiek żyje. Nawet o ile Moczara już nie ma, jeżeli ktoś żyje z jego grupy niech się wstydzi za to, za 68. rok! Co myśmy Żydzi właśnie obrzeżni czy w ogóle co mieszkaliśmy w tym co myśmy wtedy przeżywali nawet nie wyobrażacie sobie. I gdyby nie Wyszyński, kardynał Wyszyński, to też podkreślam, to przecież pogrom by był w ogóle na Żydów. Pogrom by był. Ale dzięki właśnie tego że Wyszyński powiedział “Nie dajcie się otumanić. To nie są Żydzi, nie, Żydzi nie są winni w tym wypadku.” Nie wiem czy wiesz o tym, Michał?\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "3215ed43-b172-46f6-bbf8-a0e6783c3400"
+    },
+    {
+      "start_time": 687,
+      "end_time": 695,
+      "annotation": [
+        {
+          "text": "Tak. To w zasadzie już skończyliśmy. Chyba jeszcze pan że pan chciałby coś jeszcze na zakończenie coś powiedzieć?\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "b4dc21ee-f773-47d5-b8ac-7db3c38c657b"
+    },
+    {
+      "start_time": 695,
+      "end_time": 823,
+      "annotation": [
+        {
+          "text": "No co mogę na zakończenie powiedzieć? Życzę Wam dużo zdrowia. Pozdrawiam wszystkich panie mieszkańców Góry Kalwarii. Jestem naprawdę szczęśliwy że mogę to powiedzieć o was. Wiem że szanujecie mnie. To już nawet mówię ze wzruszeniem. I tak samo do wszystkich ludzi dobrej woli bo nie ma tak jak człowiek jest dobry. Nie ma nic lepszego na świecie jak człowiek ma dobre usposobienie jak jest, jak jest, ma jakiś koleżeński stosunek do ludzi, do zwierząt, do wszystkiego to co wokół nas jest. Czy to nie jest o wiele ważniejsze aniżeli ktoś jest tendencyjny. “O, idzie Żyd,” “O, idzie Cygan,” “O, idzie taki.” Przecież to jest bardzo brzydkie. U nas w Górze Kalwarii po wojnie też był taki, nazywał się Wysocki. Też do niego nie miałem pretensji. On to on tak samo wygląda jak w wielu wypadkach. Ja to ja przeżywałem, jego w ogóle tęsknotę bo on w ogóle przeżył ponieważ był bardzo w porządku za okupacji nie bał się nikogo. Ale był samotny, samotny ten człowiek umarł w samotności. Czy mnie nie było żal? Mnie jako Żyda było jego żal go dlatego że to jest człowiek który po prostu nikogo nie ma. Jest sam. W samotności, w samotności umarł. Cmentarz w Górze Kalwarii ten ewangelicki jak on wyglądał. Tragedia. Dlaczego. Cmentarz żydowski w Górze Kalwarii jak on wyglądał. Został rozebrany. I nie przez kogo innego, wstydźcie się Polacy tak samo coście, panie, rozebrali ten cm… park a postawili sobie domy. Ja mówię oficjalnie. To jest po prostu, to są rzeczy, to jest, to jest nawet i jak nawet nie można takie rzeczy robić. To jest święte miejsce. No ale niestety tacy ludzie byli. Groby były rozkopane. Jeżeli ktoś był świeżo pochowany to nawet ściągli z niego płótna na początku w 45 roku. To jest wstyd! To jest hańba dla wiary katolickiej.\n\nInterviewer:"
+        }
+      ],
+      "tags": [],
+      "uuid": "ef4dcfe5-d193-45e7-94cc-d702be4a012d"
+    },
+    {
+      "start_time": 823,
+      "end_time": 828,
+      "annotation": [
+        {
+          "text": "Dziękujemy panu bardzo.\n\nSubject:"
+        }
+      ],
+      "tags": [],
+      "uuid": "9f9898df-0669-41a3-944a-f2acd75379f1"
+    },
+    {
+      "start_time": 828,
+      "end_time": 878.04,
+      "annotation": [
+        {
+          "text": "Dziękuję i ja, Michał. To co mogłem to wam powiedziałem. Jeszcze dobrze że mogłem mówić. To jest, to jest ważne."
+        }
+      ],
+      "tags": [],
+      "uuid": "5ec0952c-f104-4ad9-accd-4c009c2fa1c6"
+    }
+  ]
+}

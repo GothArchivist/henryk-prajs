@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "dfde1bb3-fd7c-434f-877b-634d5ae6220b": {
+      "label": "AV File 4",
+      "file_url": "https://aviary-p-fortunoff.s3.wasabisys.com/collection_resource_files/resource_files/000/075/153/original/open-uri20200406-773-dop35p.mov?1586172442",
+      "duration": 1776.08
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ok, onward!"
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-02-26T19:57:02.422Z",
+  "created_by": "GothArchivist",
+  "item_type": "Video",
+  "label": "Imported Event 4",
+  "updated_at": "2025-02-26T19:57:02.422Z",
+  "updated_by": "GothArchivist"
+}

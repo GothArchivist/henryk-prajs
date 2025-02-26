@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Testy test"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Henryk Prajs",
+          "tag": "Gdansk"
+        }
+      ],
+      "uuid": "36b76919-af1a-4284-9142-22b98127dc5f"
+    }
+  ],
   "event_id": "0e43e6da-4601-4d76-9028-1b3bbb2b17fe",
   "set": "This is a test",
   "source_id": "62a6e5de-bc49-4f27-a2cd-8060499084db"

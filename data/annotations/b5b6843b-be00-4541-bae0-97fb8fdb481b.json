@@ -1793,7 +1793,12 @@
           "text": "Subject: In general, there were various organizations in Gora Kalwaria. There was the Communist party, there was also Bund, Bund was the smallest party, and the Zionists were those, including the Mizrahi movement, who were part of the Orthodox Jews, there was Shomer Haleumi, Herzl’s organization, right-wing Zionists and, effectively, Poalei Tziyon, just the right wing of Poalei Tziyon. There was no left wing of Poalei Tziyon."
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Henryk Prajs",
+          "tag": "Gora K"
+        }
+      ],
       "uuid": "cae40d47-badb-42b1-a09a-b9631f4cbd86"
     },
     {
